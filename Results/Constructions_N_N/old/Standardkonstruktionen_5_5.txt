@@ -1,0 +1,87 @@
+==================================================
+Analyse der Standardkonstruktionen fuer (5,5)
+Anzahl der Vertreter: 2
+==================================================
+
+==================================================
+Klasse 1
+==================================================
+Trivialer Code T_(5,5): ja
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 5
+  Faktor 1: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 4: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 5: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_5 x S_5 aequivalent zu Double(K).
+  Dimension von K: 0
+  Traegergroesse von K: 0
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1> ]
+  Generatormatrix von K:
+Matrix with 0 rows and 5 columns
+Volle linke Projektion: ja
+  Darstellung: (I_5 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: ja
+  Matrix A:
+[1 0 0 0 0]
+[0 1 0 0 0]
+[0 0 1 0 0]
+[0 0 0 1 0]
+[0 0 0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_5)
+  Matrix B:
+[1 0 0 0 0]
+[0 1 0 0 0]
+[0 0 1 0 0]
+[0 0 0 1 0]
+[0 0 0 0 1]
+Zusammenfassung:
+  T_(5,5) = Double(0)
+
+==================================================
+Klasse 2
+==================================================
+Trivialer Code T_(5,5): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (4,4), Dimension 4
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_5 x S_5 aequivalent zu Double(K).
+  Dimension von K: 1
+  Traegergroesse von K: 4
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 1> ]
+  Generatormatrix von K:
+[1 1 1 1 0]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code

@@ -1,0 +1,37 @@
+==================================================
+Analyse der Standardkonstruktionen fuer (1,1)
+Anzahl der Vertreter: 1
+==================================================
+
+==================================================
+Klasse 1
+==================================================
+Trivialer Code T_(1,1): ja
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_1 x S_1 aequivalent zu Double(K).
+  Dimension von K: 0
+  Traegergroesse von K: 0
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1> ]
+  Generatormatrix von K:
+Matrix with 0 rows and 1 column
+Volle linke Projektion: ja
+  Darstellung: (I_1 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: ja
+  Matrix A:
+[1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_1)
+  Matrix B:
+[1]
+Zusammenfassung:
+  T_(1,1) = Double(0)

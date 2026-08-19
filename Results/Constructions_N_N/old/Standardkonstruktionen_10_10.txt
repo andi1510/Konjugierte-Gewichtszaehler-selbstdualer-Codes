@@ -1,0 +1,1815 @@
+==================================================
+Analyse der Standardkonstruktionen fuer (10,10)
+Anzahl der Vertreter: 56
+==================================================
+
+==================================================
+Klasse 1
+==================================================
+Trivialer Code T_(10,10): ja
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 10
+  Faktor 1: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 4: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 5: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 6: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 7: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 8: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 9: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 10: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_10 x S_10 aequivalent zu Double(K).
+  Dimension von K: 0
+  Traegergroesse von K: 0
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1> ]
+  Generatormatrix von K:
+Matrix with 0 rows and 10 columns
+Volle linke Projektion: ja
+  Darstellung: (I_10 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: ja
+  Matrix A:
+[1 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_10)
+  Matrix B:
+[1 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 1]
+Zusammenfassung:
+  T_(10,10) = Double(0)
+
+==================================================
+Klasse 2
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 7
+  Faktor 1: Laenge (4,4), Dimension 4
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 4: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 5: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 6: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 7: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_10 x S_10 aequivalent zu Double(K).
+  Dimension von K: 1
+  Traegergroesse von K: 4
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 1> ]
+  Generatormatrix von K:
+[1 1 1 1 0 0 0 0 0 0]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
+
+==================================================
+Klasse 3
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 5
+  Faktor 1: Laenge (6,6), Dimension 6
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 1 1 1 1 1]
+[0 1 0 0 0 0 1 0 1 1 1 1]
+[0 0 1 0 0 0 1 1 0 1 1 1]
+[0 0 0 1 0 0 1 1 1 0 1 1]
+[0 0 0 0 1 0 1 1 1 1 0 1]
+[0 0 0 0 0 1 1 1 1 1 1 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 4: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 5: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: ja
+  Darstellung: (I_10 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: nein
+  Matrix A:
+[0 1 1 1 1 1 0 0 0 0]
+[1 0 1 1 1 1 0 0 0 0]
+[1 1 0 1 1 1 0 0 0 0]
+[1 1 1 0 1 1 0 0 0 0]
+[1 1 1 1 0 1 0 0 0 0]
+[1 1 1 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_10)
+  Matrix B:
+[0 1 1 1 1 1 0 0 0 0]
+[1 0 1 1 1 1 0 0 0 0]
+[1 1 0 1 1 1 0 0 0 0]
+[1 1 1 0 1 1 0 0 0 0]
+[1 1 1 1 0 1 0 0 0 0]
+[1 1 1 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 1]
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 4
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 3
+  Faktor 1: Laenge (8,8), Dimension 8
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 1 0 1 1 1 1 1 1 0]
+[0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 1]
+[0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1]
+[0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_10 x S_10 aequivalent zu Double(K).
+  Dimension von K: 1
+  Traegergroesse von K: 8
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <8, 1> ]
+  Generatormatrix von K:
+[1 1 1 1 1 1 1 1 0 0]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
+
+==================================================
+Klasse 5
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1]
+[0 0 0 1 0 0 0 0 0 0 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: ja
+  Darstellung: (I_10 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: nein
+  Matrix A:
+[0 1 1 1 1 1 1 1 1 1]
+[1 0 1 1 1 1 1 1 1 1]
+[1 1 0 1 1 1 1 1 1 1]
+[1 1 1 0 1 1 1 1 1 1]
+[1 1 1 1 0 1 1 1 1 1]
+[1 1 1 1 1 0 1 1 1 1]
+[1 1 1 1 1 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1]
+[1 1 1 1 1 1 1 1 1 0]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_10)
+  Matrix B:
+[0 1 1 1 1 1 1 1 1 1]
+[1 0 1 1 1 1 1 1 1 1]
+[1 1 0 1 1 1 1 1 1 1]
+[1 1 1 0 1 1 1 1 1 1]
+[1 1 1 1 0 1 1 1 1 1]
+[1 1 1 1 1 0 1 1 1 1]
+[1 1 1 1 1 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1]
+[1 1 1 1 1 1 1 1 1 0]
+Zusammenfassung:
+  unzerlegbarer Code mit voller Projektion
+
+==================================================
+Klasse 6
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 5
+  Faktor 1: Laenge (6,6), Dimension 6
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 4: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 5: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_10 x S_10 aequivalent zu Double(K).
+  Dimension von K: 2
+  Traegergroesse von K: 6
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 3> ]
+  Generatormatrix von K:
+[1 1 0 0 1 1 0 0 0 0]
+[0 0 1 1 1 1 0 0 0 0]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
+
+==================================================
+Klasse 7
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 4
+  Faktor 1: Laenge (7,7), Dimension 7
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 1 0 0 0 0 1 1 0]
+[0 1 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 1 0 1 1 1 1]
+[0 0 0 1 0 0 0 0 1 1 0 1 1 1]
+[0 0 0 0 1 0 1 0 0 0 0 1 0 1]
+[0 0 0 0 0 1 1 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 4: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 8
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 4
+  Faktor 1: Laenge (4,4), Dimension 4
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+  Faktor 2: Laenge (4,4), Dimension 4
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 4: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_10 x S_10 aequivalent zu Double(K).
+  Dimension von K: 2
+  Traegergroesse von K: 8
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 2>, <8, 1> ]
+  Generatormatrix von K:
+[1 1 1 1 0 0 0 0 0 0]
+[0 0 0 0 1 1 1 1 0 0]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
+
+==================================================
+Klasse 9
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 3
+  Faktor 1: Laenge (8,8), Dimension 8
+    Generatormatrix des Faktors:
+[1 0 0 1 0 0 0 0 0 1 0 1 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 1 1 0 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 1 1 0 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 1 1 1 0 1 1]
+[0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 10
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (9,9), Dimension 9
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 1 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 1 1 1 1 1 0]
+[0 0 0 1 0 0 0 0 1 0 1 1 0 1 1 1 1 0]
+[0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1]
+[0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 11
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (4,4), Dimension 4
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+  Faktor 2: Laenge (6,6), Dimension 6
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 1 1 1 1 1]
+[0 1 0 0 0 0 1 0 1 1 1 1]
+[0 0 1 0 0 0 1 1 0 1 1 1]
+[0 0 0 1 0 0 1 1 1 0 1 1]
+[0 0 0 0 1 0 1 1 1 1 0 1]
+[0 0 0 0 0 1 1 1 1 1 1 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 12
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 0 0 0 0 1 0 1 0 1 1 1 1 1 1 0]
+[0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1]
+[0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1]
+[0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 1]
+[0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_10 x S_10 aequivalent zu Double(K).
+  Dimension von K: 2
+  Traegergroesse von K: 10
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 1>, <8, 2> ]
+  Generatormatrix von K:
+[1 1 0 0 1 1 1 1 1 1]
+[0 0 1 1 1 1 1 1 1 1]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  unzerlegbarer Doubling-Code
+
+==================================================
+Klasse 13
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 3
+  Faktor 1: Laenge (8,8), Dimension 8
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 1 0 0 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 1 0 1 1 1 1]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 0 0 1 0 0 0 1 1 1 1 1 0 0 0]
+[0 0 0 0 0 1 0 0 1 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 1 0 1 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: ja
+  Darstellung: (I_10 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: nein
+  Matrix A:
+[1 0 0 0 1 1 1 1 0 0]
+[0 1 0 0 1 1 1 1 0 0]
+[0 0 1 0 1 1 1 1 0 0]
+[0 0 0 1 1 1 1 1 0 0]
+[1 1 1 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 0 0 0 0]
+[1 1 1 1 0 0 1 0 0 0]
+[1 1 1 1 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_10)
+  Matrix B:
+[1 0 0 0 1 1 1 1 0 0]
+[0 1 0 0 1 1 1 1 0 0]
+[0 0 1 0 1 1 1 1 0 0]
+[0 0 0 1 1 1 1 1 0 0]
+[1 1 1 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 0 0 0 0]
+[1 1 1 1 0 0 1 0 0 0]
+[1 1 1 1 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 1]
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 14
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (9,9), Dimension 9
+    Generatormatrix des Faktors:
+[1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 1 0 1 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 15
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1]
+[0 0 0 1 0 0 0 0 0 0 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: ja
+  Darstellung: (I_10 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: nein
+  Matrix A:
+[0 1 1 1 1 1 1 1 1 1]
+[1 0 1 1 1 1 1 1 1 1]
+[1 1 0 1 1 1 1 1 1 1]
+[1 1 1 0 1 1 1 1 1 1]
+[1 1 1 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 0 0 0 0]
+[1 1 1 1 0 0 1 0 0 0]
+[1 1 1 1 0 0 0 1 0 0]
+[1 1 1 1 0 0 0 0 1 0]
+[1 1 1 1 0 0 0 0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_10)
+  Matrix B:
+[0 1 1 1 1 1 1 1 1 1]
+[1 0 1 1 1 1 1 1 1 1]
+[1 1 0 1 1 1 1 1 1 1]
+[1 1 1 0 1 1 1 1 1 1]
+[1 1 1 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 0 0 0 0]
+[1 1 1 1 0 0 1 0 0 0]
+[1 1 1 1 0 0 0 1 0 0]
+[1 1 1 1 0 0 0 0 1 0]
+[1 1 1 1 0 0 0 0 0 1]
+Zusammenfassung:
+  unzerlegbarer Code mit voller Projektion
+
+==================================================
+Klasse 16
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (9,9), Dimension 9
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1]
+[0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1]
+[0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1 1 1]
+[0 0 0 1 0 0 0 0 0 1 1 1 0 1 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0]
+[0 0 0 0 0 1 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: ja
+  Darstellung: (I_10 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: nein
+  Matrix A:
+[0 1 1 1 1 1 0 0 0 0]
+[1 0 1 1 1 1 0 0 0 0]
+[1 1 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 1 1 1 1 0]
+[0 0 0 1 0 1 1 1 1 0]
+[0 0 0 1 1 0 1 1 1 0]
+[1 1 1 0 0 0 0 1 1 0]
+[1 1 1 0 0 0 1 0 1 0]
+[1 1 1 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_10)
+  Matrix B:
+[0 1 1 0 0 0 1 1 1 0]
+[1 0 1 0 0 0 1 1 1 0]
+[1 1 0 0 0 0 1 1 1 0]
+[1 1 1 0 1 1 0 0 0 0]
+[1 1 1 1 0 1 0 0 0 0]
+[1 1 1 1 1 0 0 0 0 0]
+[0 0 0 1 1 1 0 1 1 0]
+[0 0 0 1 1 1 1 0 1 0]
+[0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1]
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 17
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 1 1 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: ja
+  Darstellung: (I_10 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: nein
+  Matrix A:
+[1 0 1 1 1 1 1 1 1 1]
+[0 1 1 1 1 1 1 1 1 1]
+[1 1 0 1 1 1 0 0 0 0]
+[1 1 1 0 1 1 0 0 0 0]
+[1 1 1 1 0 1 0 0 0 0]
+[1 1 1 1 1 0 0 0 0 0]
+[1 1 0 0 0 0 0 1 1 1]
+[1 1 0 0 0 0 1 0 1 1]
+[1 1 0 0 0 0 1 1 0 1]
+[1 1 0 0 0 0 1 1 1 0]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_10)
+  Matrix B:
+[1 0 1 1 1 1 1 1 1 1]
+[0 1 1 1 1 1 1 1 1 1]
+[1 1 0 1 1 1 0 0 0 0]
+[1 1 1 0 1 1 0 0 0 0]
+[1 1 1 1 0 1 0 0 0 0]
+[1 1 1 1 1 0 0 0 0 0]
+[1 1 0 0 0 0 0 1 1 1]
+[1 1 0 0 0 0 1 0 1 1]
+[1 1 0 0 0 0 1 1 0 1]
+[1 1 0 0 0 0 1 1 1 0]
+Zusammenfassung:
+  unzerlegbarer Code mit voller Projektion
+
+==================================================
+Klasse 18
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 1]
+[0 1 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1 1 1 0]
+[0 0 1 0 0 0 0 0 0 1 0 0 1 0 1 1 1 1 1 0]
+[0 0 0 1 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1 1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 19
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 4
+  Faktor 1: Laenge (7,7), Dimension 7
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 1 1 1]
+[0 0 1 1 0 0 1 0 0 0 0 1 1 1]
+[0 0 0 0 1 1 1 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 4: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_10 x S_10 aequivalent zu Double(K).
+  Dimension von K: 3
+  Traegergroesse von K: 7
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 7> ]
+  Generatormatrix von K:
+[1 0 0 1 0 1 1 0 0 0]
+[0 1 0 1 1 0 1 0 0 0]
+[0 0 1 1 1 1 0 0 0 0]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
+
+==================================================
+Klasse 20
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 3
+  Faktor 1: Laenge (8,8), Dimension 8
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 1 0 1 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_10 x S_10 aequivalent zu Double(K).
+  Dimension von K: 3
+  Traegergroesse von K: 8
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 6>, <8, 1> ]
+  Generatormatrix von K:
+[1 1 0 0 0 0 1 1 0 0]
+[0 0 1 1 0 0 1 1 0 0]
+[0 0 0 0 1 1 1 1 0 0]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
+
+==================================================
+Klasse 21
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 3
+  Faktor 1: Laenge (8,8), Dimension 8
+    Generatormatrix des Faktors:
+[1 0 0 1 0 0 0 1 0 0 0 0 1 1 1 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 1 1 0 0 0 1 0 0 0 0 1 1 0 1]
+[0 0 0 0 1 0 0 0 0 1 0 1 1 0 1 1]
+[0 0 0 0 0 1 0 0 0 1 0 1 0 1 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 22
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (9,9), Dimension 9
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 1]
+[0 0 0 1 0 1 0 0 0 0 1 0 1 1 0 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 23
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (9,9), Dimension 9
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1]
+[0 1 0 1 0 1 0 0 0 0 1 0 1 0 1 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 0 1]
+[0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 24
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (6,6), Dimension 6
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 1 1]
+  Faktor 2: Laenge (4,4), Dimension 4
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_10 x S_10 aequivalent zu Double(K).
+  Dimension von K: 3
+  Traegergroesse von K: 10
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 4>, <8, 3> ]
+  Generatormatrix von K:
+[1 1 0 0 1 1 0 0 0 0]
+[0 0 1 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 1 1 1 1]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
+
+==================================================
+Klasse 25
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 0 0 0 0 1 0 1 0 1 1 1 1 1]
+[0 1 0 1 0 1 0 0 0 0 0 1 0 1 1 0 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 26
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0]
+[0 0 1 1 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 1]
+[0 0 0 0 1 0 0 0 0 1 0 1 0 1 1 0 1 1 1 0]
+[0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 1 1 1 1 0]
+[0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 27
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (9,9), Dimension 9
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 0 0 0 1 0 1 1 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 1 0 1 0 1 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 1 0 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 28
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (9,9), Dimension 9
+    Generatormatrix des Faktors:
+[1 0 0 1 0 0 0 0 0 1 0 0 0 1 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 1 0 0 1 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 1 1]
+[0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 29
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1]
+[0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1 1]
+[0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1 1 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 30
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 0 0 0 0 1 0 0 1 1 1 1 1 1]
+[0 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 31
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 32
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0]
+[0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1]
+[0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 33
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 1]
+[0 1 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 1]
+[0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0 0 1]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 1 0 1 1 0 0 1 1 1 1 0]
+[0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 0 1 1 1 0]
+[0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 34
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 1 0 0 0 0 0 1 1 0 1 0 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0]
+[0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 0 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 35
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 1 1 0]
+[0 1 0 0 0 0 0 0 0 1 0 0 1 1 0 1 1 1 1 0]
+[0 0 1 0 0 0 0 0 0 1 0 1 0 1 0 1 1 1 1 0]
+[0 0 0 1 0 0 0 0 0 1 0 1 1 0 0 1 1 1 1 0]
+[0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 36
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: ja
+  Darstellung: (I_10 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: nein
+  Matrix A:
+[1 1 0 0 0 0 0 1 1 1]
+[0 1 1 1 1 1 1 1 1 1]
+[1 0 0 1 0 0 0 1 1 1]
+[1 0 1 0 0 0 0 1 1 1]
+[1 1 1 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 0 0 0 0]
+[1 1 1 1 0 0 1 0 0 0]
+[1 0 0 0 1 1 1 1 0 0]
+[1 0 0 0 1 1 1 0 1 0]
+[1 0 0 0 1 1 1 0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_10)
+  Matrix B:
+[1 0 1 1 1 1 1 1 1 1]
+[1 1 0 0 1 1 1 0 0 0]
+[0 1 0 1 1 1 1 0 0 0]
+[0 1 1 0 1 1 1 0 0 0]
+[0 1 0 0 1 0 0 1 1 1]
+[0 1 0 0 0 1 0 1 1 1]
+[0 1 0 0 0 0 1 1 1 1]
+[1 1 1 1 0 0 0 1 0 0]
+[1 1 1 1 0 0 0 0 1 0]
+[1 1 1 1 0 0 0 0 0 1]
+Zusammenfassung:
+  unzerlegbarer Code mit voller Projektion
+
+==================================================
+Klasse 37
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1]
+[0 0 0 0 1 0 1 0 0 0 1 0 0 0 1 1 0 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1 1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 38
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 1 0 0 0 0 1 1 0 1 0 1 1 1]
+[0 0 0 0 0 1 0 1 0 0 0 0 1 1 0 1 1 0 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 39
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1 1 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 0 0 0 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 40
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 1 1 1 0 0]
+[0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: ja
+  Darstellung: (I_10 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: nein
+  Matrix A:
+[1 0 0 0 1 1 0 0 1 1]
+[0 1 0 0 1 1 0 0 1 1]
+[0 0 0 1 0 0 1 1 1 1]
+[0 0 1 0 0 0 1 1 1 1]
+[1 1 0 0 0 1 1 1 0 0]
+[1 1 0 0 1 0 1 1 0 0]
+[0 0 1 1 1 1 0 1 0 0]
+[0 0 1 1 1 1 1 0 0 0]
+[1 1 1 1 0 0 0 0 1 0]
+[1 1 1 1 0 0 0 0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_10)
+  Matrix B:
+[1 0 0 0 1 1 0 0 1 1]
+[0 1 0 0 1 1 0 0 1 1]
+[0 0 0 1 0 0 1 1 1 1]
+[0 0 1 0 0 0 1 1 1 1]
+[1 1 0 0 0 1 1 1 0 0]
+[1 1 0 0 1 0 1 1 0 0]
+[0 0 1 1 1 1 0 1 0 0]
+[0 0 1 1 1 1 1 0 0 0]
+[1 1 1 1 0 0 0 0 1 0]
+[1 1 1 1 0 0 0 0 0 1]
+Zusammenfassung:
+  unzerlegbarer Code mit voller Projektion
+
+==================================================
+Klasse 41
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 3
+  Faktor 1: Laenge (8,8), Dimension 8
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_10 x S_10 aequivalent zu Double(K).
+  Dimension von K: 4
+  Traegergroesse von K: 8
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 14>, <8, 1> ]
+  Generatormatrix von K:
+[1 0 0 1 0 1 1 0 0 0]
+[0 1 0 1 0 1 0 1 0 0]
+[0 0 1 1 0 0 1 1 0 0]
+[0 0 0 0 1 1 1 1 0 0]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
+
+==================================================
+Klasse 42
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (9,9), Dimension 9
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 0 1 0 0 0 0 1 1 1 1 0]
+[0 1 0 1 0 1 0 0 1 0 0 0 0 1 1 1 0 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 43
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0]
+[0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 1]
+[0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1]
+[0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+[0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 44
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1]
+[0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+[0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 45
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (9,9), Dimension 9
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 1 0 0 0 0 0 0 1 1]
+[0 0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 46
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0]
+[0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 47
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 0 0 0 1 0 0 0 1 1 1 1 1 1]
+[0 1 0 1 0 1 0 0 0 0 1 0 0 1 1 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 1 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 48
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_10 x S_10 aequivalent zu Double(K).
+  Dimension von K: 4
+  Traegergroesse von K: 10
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 10>, <8, 5> ]
+  Generatormatrix von K:
+[1 1 0 0 0 0 0 0 1 1]
+[0 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 1 1 1 1]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  unzerlegbarer Doubling-Code
+
+==================================================
+Klasse 49
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1]
+[0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 1 1 0 1 1]
+[0 0 0 0 0 1 0 1 0 0 0 1 0 1 0 1 0 1 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 50
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 1 1 1]
+[0 1 0 1 0 1 0 1 0 0 0 1 0 1 0 1 0 1 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 1 0 1 0 1 1 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 1 0 1 0 1 1 0 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 1 0 1 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 1 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 51
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1]
+[0 1 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1]
+[0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 52
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 1 0 0 0 0 0 0 0 1 1 0 1 1]
+[0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 1 0 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 53
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 1 1 1 0]
+[0 1 0 0 0 0 0 1 0 0 0 1 0 1 0 1 1 0 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 1 0 1 1 1]
+[0 0 0 0 1 0 0 0 0 1 0 1 0 1 1 0 1 1 0 1]
+[0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 1 1 1 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 54
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1]
+[0 1 0 1 0 0 0 0 0 0 1 0 0 0 1 1 0 1 1 1]
+[0 0 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 1 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 1 1 1]
+[0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 55
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0]
+[0 1 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 56
+==================================================
+Trivialer Code T_(10,10): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (10,10), Dimension 10
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt

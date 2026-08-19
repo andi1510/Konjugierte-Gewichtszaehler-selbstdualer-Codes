@@ -1,0 +1,47 @@
+==================================================
+Analyse der Standardkonstruktionen fuer (3,3)
+Anzahl der Vertreter: 1
+==================================================
+
+==================================================
+Klasse 1
+==================================================
+Trivialer Code T_(3,3): ja
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 3
+  Faktor 1: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_3 x S_3 aequivalent zu Double(K).
+  Dimension von K: 0
+  Traegergroesse von K: 0
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1> ]
+  Generatormatrix von K:
+Matrix with 0 rows and 3 columns
+Volle linke Projektion: ja
+  Darstellung: (I_3 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: ja
+  Matrix A:
+[1 0 0]
+[0 1 0]
+[0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_3)
+  Matrix B:
+[1 0 0]
+[0 1 0]
+[0 0 1]
+Zusammenfassung:
+  T_(3,3) = Double(0)

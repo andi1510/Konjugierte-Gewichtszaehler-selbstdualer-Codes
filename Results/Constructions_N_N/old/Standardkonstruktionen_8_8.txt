@@ -1,0 +1,476 @@
+==================================================
+Analyse der Standardkonstruktionen fuer (8,8)
+Anzahl der Vertreter: 13
+==================================================
+
+==================================================
+Klasse 1
+==================================================
+Trivialer Code T_(8,8): ja
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 8
+  Faktor 1: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 4: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 5: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 6: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 7: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 8: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_8 x S_8 aequivalent zu Double(K).
+  Dimension von K: 0
+  Traegergroesse von K: 0
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1> ]
+  Generatormatrix von K:
+Matrix with 0 rows and 8 columns
+Volle linke Projektion: ja
+  Darstellung: (I_8 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: ja
+  Matrix A:
+[1 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0]
+[0 0 0 1 0 0 0 0]
+[0 0 0 0 1 0 0 0]
+[0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_8)
+  Matrix B:
+[1 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0]
+[0 0 0 1 0 0 0 0]
+[0 0 0 0 1 0 0 0]
+[0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 1]
+Zusammenfassung:
+  T_(8,8) = Double(0)
+
+==================================================
+Klasse 2
+==================================================
+Trivialer Code T_(8,8): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 5
+  Faktor 1: Laenge (4,4), Dimension 4
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 4: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 5: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_8 x S_8 aequivalent zu Double(K).
+  Dimension von K: 1
+  Traegergroesse von K: 4
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 1> ]
+  Generatormatrix von K:
+[1 1 1 1 0 0 0 0]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
+
+==================================================
+Klasse 3
+==================================================
+Trivialer Code T_(8,8): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 3
+  Faktor 1: Laenge (6,6), Dimension 6
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 1 1 1 1 1]
+[0 1 0 0 0 0 1 0 1 1 1 1]
+[0 0 1 0 0 0 1 1 0 1 1 1]
+[0 0 0 1 0 0 1 1 1 0 1 1]
+[0 0 0 0 1 0 1 1 1 1 0 1]
+[0 0 0 0 0 1 1 1 1 1 1 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: ja
+  Darstellung: (I_8 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: nein
+  Matrix A:
+[0 1 1 1 1 1 0 0]
+[1 0 1 1 1 1 0 0]
+[1 1 0 1 1 1 0 0]
+[1 1 1 0 1 1 0 0]
+[1 1 1 1 0 1 0 0]
+[1 1 1 1 1 0 0 0]
+[0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_8)
+  Matrix B:
+[0 1 1 1 1 1 0 0]
+[1 0 1 1 1 1 0 0]
+[1 1 0 1 1 1 0 0]
+[1 1 1 0 1 1 0 0]
+[1 1 1 1 0 1 0 0]
+[1 1 1 1 1 0 0 0]
+[0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 1]
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 4
+==================================================
+Trivialer Code T_(8,8): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (8,8), Dimension 8
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 1 0 1 1 1 1 1 1 0]
+[0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 1]
+[0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1]
+[0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_8 x S_8 aequivalent zu Double(K).
+  Dimension von K: 1
+  Traegergroesse von K: 8
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <8, 1> ]
+  Generatormatrix von K:
+[1 1 1 1 1 1 1 1]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  unzerlegbarer Doubling-Code
+
+==================================================
+Klasse 5
+==================================================
+Trivialer Code T_(8,8): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 3
+  Faktor 1: Laenge (6,6), Dimension 6
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_8 x S_8 aequivalent zu Double(K).
+  Dimension von K: 2
+  Traegergroesse von K: 6
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 3> ]
+  Generatormatrix von K:
+[1 1 0 0 1 1 0 0]
+[0 0 1 1 1 1 0 0]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
+
+==================================================
+Klasse 6
+==================================================
+Trivialer Code T_(8,8): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (7,7), Dimension 7
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 1 0 0 0 0 1 1 0]
+[0 1 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 1 0 1 1 1 1]
+[0 0 0 1 0 0 0 0 1 1 0 1 1 1]
+[0 0 0 0 1 0 1 0 0 0 0 1 0 1]
+[0 0 0 0 0 1 1 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe, kein Doubling erkannt
+
+==================================================
+Klasse 7
+==================================================
+Trivialer Code T_(8,8): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (4,4), Dimension 4
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+  Faktor 2: Laenge (4,4), Dimension 4
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_8 x S_8 aequivalent zu Double(K).
+  Dimension von K: 2
+  Traegergroesse von K: 8
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 2>, <8, 1> ]
+  Generatormatrix von K:
+[1 1 1 1 0 0 0 0]
+[0 0 0 0 1 1 1 1]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
+
+==================================================
+Klasse 8
+==================================================
+Trivialer Code T_(8,8): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (8,8), Dimension 8
+    Generatormatrix des Faktors:
+[1 0 0 1 0 0 0 0 0 1 0 1 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 1 1 0 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 1 1 0 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 1 1 1 0 1 1]
+[0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 9
+==================================================
+Trivialer Code T_(8,8): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (8,8), Dimension 8
+    Generatormatrix des Faktors:
+[1 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 1 0 0 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 1 0 1 1 1 1]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 0 0 1 0 0 0 1 1 1 1 1 0 0 0]
+[0 0 0 0 0 1 0 0 1 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 1 0 1 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1]
+Doubling-Konstruktion: nein
+Volle linke Projektion: ja
+  Darstellung: (I_8 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: nein
+  Matrix A:
+[1 0 0 0 1 1 1 1]
+[0 1 0 0 1 1 1 1]
+[0 0 1 0 1 1 1 1]
+[0 0 0 1 1 1 1 1]
+[1 1 1 1 1 0 0 0]
+[1 1 1 1 0 1 0 0]
+[1 1 1 1 0 0 1 0]
+[1 1 1 1 0 0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_8)
+  Matrix B:
+[1 0 0 0 1 1 1 1]
+[0 1 0 0 1 1 1 1]
+[0 0 1 0 1 1 1 1]
+[0 0 0 1 1 1 1 1]
+[1 1 1 1 1 0 0 0]
+[1 1 1 1 0 1 0 0]
+[1 1 1 1 0 0 1 0]
+[1 1 1 1 0 0 0 1]
+Zusammenfassung:
+  unzerlegbarer Code mit voller Projektion
+
+==================================================
+Klasse 10
+==================================================
+Trivialer Code T_(8,8): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (7,7), Dimension 7
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 1 1 1]
+[0 0 1 1 0 0 1 0 0 0 0 1 1 1]
+[0 0 0 0 1 1 1 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+  Faktor 2: Laenge (1,1), Dimension 1
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_8 x S_8 aequivalent zu Double(K).
+  Dimension von K: 3
+  Traegergroesse von K: 7
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 7> ]
+  Generatormatrix von K:
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 1 0 1 0]
+[0 0 1 1 1 1 0 0]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
+
+==================================================
+Klasse 11
+==================================================
+Trivialer Code T_(8,8): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (8,8), Dimension 8
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 0 1 0 1 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_8 x S_8 aequivalent zu Double(K).
+  Dimension von K: 3
+  Traegergroesse von K: 8
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 6>, <8, 1> ]
+  Generatormatrix von K:
+[1 1 0 0 0 0 1 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  unzerlegbarer Doubling-Code
+
+==================================================
+Klasse 12
+==================================================
+Trivialer Code T_(8,8): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (8,8), Dimension 8
+    Generatormatrix des Faktors:
+[1 0 0 1 0 0 0 1 0 0 0 0 1 1 1 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 1 1 0 0 0 1 0 0 0 0 1 1 0 1]
+[0 0 0 0 1 0 0 0 0 1 0 1 1 0 1 1]
+[0 0 0 0 0 1 0 0 0 1 0 1 0 1 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0]
+Doubling-Konstruktion: nein
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  keine Standardkonstruktion erkannt
+
+==================================================
+Klasse 13
+==================================================
+Trivialer Code T_(8,8): nein
+Aeusserlich orthogonal zerlegbar: nein
+Anzahl der Faktoren vom Typ (m,m): 1
+  Faktor 1: Laenge (8,8), Dimension 8
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_8 x S_8 aequivalent zu Double(K).
+  Dimension von K: 4
+  Traegergroesse von K: 8
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 14>, <8, 1> ]
+  Generatormatrix von K:
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Zusammenfassung:
+  unzerlegbarer Doubling-Code
