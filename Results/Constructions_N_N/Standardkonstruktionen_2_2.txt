@@ -1,0 +1,58 @@
+==================================================
+Analyse der Standardkonstruktionen fuer (2,2)
+Anzahl der Vertreter: 1
+==================================================
+
+==================================================
+Klasse 1
+==================================================
+Trivialer Code T_(2,2): ja
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (1,1), Dimension 1
+    linke Koordinaten: [ 1 ]
+    rechte Koordinaten: [ 1 ]
+    Standardbezeichnung: T_(1,1)
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    linke Koordinaten: [ 2 ]
+    rechte Koordinaten: [ 2 ]
+    Standardbezeichnung: T_(1,1)
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_2 x S_2 aequivalent zu Double(K).
+  Dimension von K: 0
+  Traegergroesse von K: 0
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1> ]
+  Generatormatrix von K:
+Matrix with 0 rows and 2 columns
+Volle linke Projektion: ja
+  Darstellung: (I_2 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: ja
+  Matrix A:
+[1 0]
+[0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_2)
+  Matrix B:
+[1 0]
+[0 1]
+Verklebungsdaten:
+  Dimension K_L: 0
+  Dimension K_R: 0
+  Gewichtsverteilung K_L: [ <0, 1> ]
+  Gewichtsverteilung K_R: [ <0, 1> ]
+  K_L und K_R permutationsaequivalent: ja
+  Quotientendimension links: 2
+  Quotientendimension rechts: 2
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+Zusammenfassung:
+  T_(2,2) = Double(0)
