@@ -52,18 +52,8 @@ For some of the larger parameters, in particular the classification computations
 ## Master's Thesis
 
 **Title:** *Konjugierte Gewichtszähler selbstdualer Codes*
-**Author:** Andreas H.
-**Degree:** Master's thesis in Mathematics
+**Author:** Andreas Hild
 **Year:** 2026
 
 The notation and mathematical background used in the programs are explained in the thesis.
 
-## Citation
-
-If you use material from this repository, please cite the corresponding Master's thesis.
-
-A complete citation will be added after publication of the thesis.
-
-## License
-
-No license has been specified yet.
