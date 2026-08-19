@@ -1,0 +1,292 @@
+Aktuelle Klasse 1 | Gefundene Klassen 3
+Aktuelle Klasse 2 | Gefundene Klassen 5
+Aktuelle Klasse 3 | Gefundene Klassen 5
+Aktuelle Klasse 4 | Gefundene Klassen 6
+Aktuelle Klasse 5 | Gefundene Klassen 6
+Aktuelle Klasse 6 | Gefundene Klassen 6
+==================================================
+Laenge: (7,7)
+Anzahl der Aequivalenzklassen: 6
+==================================================
+
+Klasse 1
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 1 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 1 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1]
+Stabilisator in S_7 x S_7:
+Permutation group acting on a set of cardinality 14
+Order = 5040 = 2^4 * 3^2 * 5 * 7
+    (1, 2)(8, 9)
+    (1, 3)(8, 10)
+    (3, 4)(10, 11)
+    (4, 6)(11, 13)
+    (6, 7)(13, 14)
+    (5, 7)(12, 14)
+Ordnung des Stabilisators: 5040
+Abstrakter Gruppentyp: S7
+Erzeuger des Stabilisators:
+{
+    (1, 3)(8, 10),
+    (4, 6)(11, 13),
+    (1, 2)(8, 9),
+    (6, 7)(13, 14),
+    (5, 7)(12, 14),
+    (3, 4)(10, 11)
+}
+
+Klasse 2
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 1 1 0 0 0 0]
+[0 1 0 1 0 0 0 0 1 0 1 0 0 0]
+[0 0 1 1 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_7 x S_7:
+Permutation group acting on a set of cardinality 14
+Order = 576 = 2^6 * 3^2
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (1, 4)(9, 10)
+    (3, 4)(10, 11)
+    (1, 4)(8, 11)
+    (6, 7)(13, 14)
+    (5, 7)(12, 14)
+Ordnung des Stabilisators: 576
+Abstrakter Gruppentyp: C2^2:S4*S3
+SmallGroup-Kennung: <576, 8660>
+Erzeuger des Stabilisators:
+{
+    (1, 4)(9, 10),
+    (1, 4)(8, 11),
+    (6, 7)(13, 14),
+    (1, 2)(3, 4),
+    (5, 7)(12, 14),
+    (1, 3)(2, 4),
+    (3, 4)(10, 11)
+}
+
+Klasse 3
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 1 1 1 1 1 0]
+[0 1 0 0 0 0 0 1 0 1 1 1 1 0]
+[0 0 1 0 0 0 0 1 1 0 1 1 1 0]
+[0 0 0 1 0 0 0 1 1 1 0 1 1 0]
+[0 0 0 0 1 0 0 1 1 1 1 0 1 0]
+[0 0 0 0 0 1 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1]
+Stabilisator in S_7 x S_7:
+Permutation group acting on a set of cardinality 14
+Order = 720 = 2^4 * 3^2 * 5
+    (1, 2)(8, 9)
+    (2, 3)(9, 10)
+    (3, 4)(10, 11)
+    (4, 6)(11, 13)
+    (5, 6)(12, 13)
+Ordnung des Stabilisators: 720
+Abstrakter Gruppentyp: S6
+SmallGroup-Kennung: <720, 763>
+Erzeuger des Stabilisators:
+{
+    (2, 3)(9, 10),
+    (4, 6)(11, 13),
+    (1, 2)(8, 9),
+    (5, 6)(12, 13),
+    (3, 4)(10, 11)
+}
+
+Klasse 4
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 1 0 1 1 0 0]
+[0 1 0 1 0 1 0 0 1 0 1 0 1 0]
+[0 0 1 1 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 1 1 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 1 1 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_7 x S_7:
+Permutation group acting on a set of cardinality 14
+Order = 1152 = 2^7 * 3^2
+    (3, 6)(4, 5)
+    (3, 4)(5, 6)
+    (1, 2)(5, 6)
+    (1, 4)(2, 3)
+    (5, 6)(8, 9)
+    (5, 6)(12, 13)
+    (8, 13)(9, 12)
+    (5, 6)(10, 11)
+    (10, 12)(11, 13)
+Ordnung des Stabilisators: 1152
+Abstrakter Gruppentyp: A4^2.C2^3
+Erzeuger des Stabilisators:
+{
+    (8, 13)(9, 12),
+    (5, 6)(10, 11),
+    (3, 4)(5, 6),
+    (1, 2)(5, 6),
+    (1, 4)(2, 3),
+    (10, 12)(11, 13),
+    (3, 6)(4, 5),
+    (5, 6)(8, 9),
+    (5, 6)(12, 13)
+}
+
+Klasse 5
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 0 0 1 1 0]
+[0 1 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 1 0 1 1 1 1]
+[0 0 0 1 0 0 0 0 1 1 0 1 1 1]
+[0 0 0 0 1 0 1 0 0 0 0 1 0 1]
+[0 0 0 0 0 1 1 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_7 x S_7:
+Permutation group acting on a set of cardinality 14
+Order = 576 = 2^6 * 3^2
+    (1, 7)(5, 6)
+    (1, 5)(6, 7)
+    (2, 3)(9, 10)
+    (3, 4)(10, 11)
+    (5, 6)(12, 13)
+    (6, 7)(13, 14)
+    (2, 3)(8, 11)
+Ordnung des Stabilisators: 576
+Abstrakter Gruppentyp: S4^2
+SmallGroup-Kennung: <576, 8653>
+Erzeuger des Stabilisators:
+{
+    (2, 3)(9, 10),
+    (5, 6)(12, 13),
+    (6, 7)(13, 14),
+    (1, 7)(5, 6),
+    (1, 5)(6, 7),
+    (3, 4)(10, 11),
+    (2, 3)(8, 11)
+}
+
+Klasse 6
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 1 1 1]
+[0 0 1 1 0 0 1 0 0 0 0 1 1 1]
+[0 0 0 0 1 1 1 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_7 x S_7:
+Permutation group G1 acting on a set of cardinality 14
+Order = 28224 = 2^6 * 3^2 * 7^2
+    (10, 11)(12, 13)
+    (3, 5)(4, 6)(8, 11, 10, 13, 9, 12, 14)
+    (2, 5, 6)(3, 7, 4)
+    (3, 6)(4, 5)
+    (8, 10)(12, 14)
+    (9, 10)(13, 14)
+    (10, 13)(11, 12)
+    (1, 4)(6, 7)
+Ordnung des Stabilisators: 28224
+Abstrakter Gruppentyp: PSL(2,7)^2
+Erzeuger des Stabilisators:
+{
+    (10, 13)(11, 12),
+    (3, 6)(4, 5),
+    (2, 5, 6)(3, 7, 4),
+    (9, 10)(13, 14),
+    (10, 11)(12, 13),
+    (3, 5)(4, 6)(8, 11, 10, 13, 9, 12, 14),
+    (8, 10)(12, 14),
+    (1, 4)(6, 7)
+}
+
+Haeufigkeiten der Stabilisatortypen nach SmallGroup-Kennung:
+--------------------------------------------------
+SmallGroup-Kennung: <576, 8660>
+Abstrakter Gruppentyp: C2^2:S4*S3
+Ordnung: 576
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 2):
+Permutation group S acting on a set of cardinality 14
+Order = 576 = 2^6 * 3^2
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (1, 4)(9, 10)
+    (3, 4)(10, 11)
+    (1, 4)(8, 11)
+    (6, 7)(13, 14)
+    (5, 7)(12, 14)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (1, 4)(9, 10),
+    (1, 4)(8, 11),
+    (6, 7)(13, 14),
+    (1, 2)(3, 4),
+    (5, 7)(12, 14),
+    (1, 3)(2, 4),
+    (3, 4)(10, 11)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <720, 763>
+Abstrakter Gruppentyp: S6
+Ordnung: 720
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 3):
+Permutation group S acting on a set of cardinality 14
+Order = 720 = 2^4 * 3^2 * 5
+    (1, 2)(8, 9)
+    (2, 3)(9, 10)
+    (3, 4)(10, 11)
+    (4, 6)(11, 13)
+    (5, 6)(12, 13)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (2, 3)(9, 10),
+    (4, 6)(11, 13),
+    (1, 2)(8, 9),
+    (5, 6)(12, 13),
+    (3, 4)(10, 11)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <576, 8653>
+Abstrakter Gruppentyp: S4^2
+Ordnung: 576
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 5):
+Permutation group S acting on a set of cardinality 14
+Order = 576 = 2^6 * 3^2
+    (1, 7)(5, 6)
+    (1, 5)(6, 7)
+    (2, 3)(9, 10)
+    (3, 4)(10, 11)
+    (5, 6)(12, 13)
+    (6, 7)(13, 14)
+    (2, 3)(8, 11)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (2, 3)(9, 10),
+    (5, 6)(12, 13),
+    (6, 7)(13, 14),
+    (1, 7)(5, 6),
+    (1, 5)(6, 7),
+    (3, 4)(10, 11),
+    (2, 3)(8, 11)
+}
+--------------------------------------------------
+Nicht durch die SmallGroups-Datenbank identifizierbare Stabilisatoren:
+Klasse 1: Ordnung 5040, GroupName S7
+Klasse 4: Ordnung 1152, GroupName A4^2.C2^3
+Klasse 6: Ordnung 28224, GroupName PSL(2,7)^2
+
+Isomorphie-Sicherheitscheck:
+Keine doppelten Klassen gefunden.
+
+Massformel-Kontrolle:
+Anzahl t_7 aller gelabelten Codes: 151470
+Erwartete Masse t_N/(N!)^2: 187/31360
+Berechnete Masse Summe 1/|Aut(C)|: 187/31360
+Massformel erfuellt: Die Klassenliste ist vollstaendig.

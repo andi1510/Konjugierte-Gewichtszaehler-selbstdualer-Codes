@@ -1,0 +1,68 @@
+Aktuelle Klasse 1 | Gefundene Klassen 1
+==================================================
+Laenge: (1,9)
+Anzahl der Aequivalenzklassen: 1
+==================================================
+
+Klasse 1
+Vertreter (Generatormatrix):
+[1 1 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 1 1 1]
+[0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 1 0 1 1 0 1]
+[0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_1 x S_9:
+Permutation group G1 acting on a set of cardinality 10
+Order = 1344 = 2^6 * 3 * 7
+    (4, 7)(5, 6)
+    (4, 5)(6, 7)
+    (6, 7)(8, 9)
+    (4, 9)(5, 8)
+    (5, 6)(9, 10)
+    (3, 10)(6, 7)
+Ordnung des Stabilisators: 1344
+Abstrakter Gruppentyp: C2^3.PSL(2,7)
+SmallGroup-Kennung: <1344, 11686>
+Erzeuger des Stabilisators:
+{
+    (5, 6)(9, 10),
+    (6, 7)(8, 9),
+    (4, 9)(5, 8),
+    (4, 5)(6, 7),
+    (3, 10)(6, 7),
+    (4, 7)(5, 6)
+}
+
+Haeufigkeiten der Stabilisatortypen nach SmallGroup-Kennung:
+--------------------------------------------------
+SmallGroup-Kennung: <1344, 11686>
+Abstrakter Gruppentyp: C2^3.PSL(2,7)
+Ordnung: 1344
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 1):
+Permutation group G1 acting on a set of cardinality 10
+Order = 1344 = 2^6 * 3 * 7
+    (4, 7)(5, 6)
+    (4, 5)(6, 7)
+    (6, 7)(8, 9)
+    (4, 9)(5, 8)
+    (5, 6)(9, 10)
+    (3, 10)(6, 7)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (5, 6)(9, 10),
+    (6, 7)(8, 9),
+    (4, 9)(5, 8),
+    (4, 5)(6, 7),
+    (3, 10)(6, 7),
+    (4, 7)(5, 6)
+}
+
+Isomorphie-Sicherheitscheck:
+Keine doppelten Klassen gefunden.
+
+Massformel-Kontrolle:
+Anzahl t_(1,9) aller gelabelten Codes: 270
+Erwartete Masse t_(N1,N2)/(N1!*N2!): 1/1344
+Berechnete Masse Summe 1/|Aut(C)|: 1/1344
+Massformel erfuellt: Die Klassenliste ist vollstaendig.

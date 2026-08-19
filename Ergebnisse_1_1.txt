@@ -1,0 +1,38 @@
+Aktuelle Klasse 1 | Gefundene Klassen 1
+==================================================
+Laenge: (1,1)
+Anzahl der Aequivalenzklassen: 1
+==================================================
+
+Klasse 1
+Vertreter (Generatormatrix):
+[1 1]
+Stabilisator in S_1 x S_1:
+Permutation group G1 acting on a set of cardinality 2
+Order = 1
+Ordnung des Stabilisators: 1
+Abstrakter Gruppentyp: C1
+SmallGroup-Kennung: <1, 1>
+Erzeuger des Stabilisators:
+{}
+
+Haeufigkeiten der Stabilisatortypen nach SmallGroup-Kennung:
+--------------------------------------------------
+SmallGroup-Kennung: <1, 1>
+Abstrakter Gruppentyp: C1
+Ordnung: 1
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 1):
+Permutation group G1 acting on a set of cardinality 2
+Order = 1
+Erzeuger dieses Stabilisatorvertreters:
+{}
+
+Isomorphie-Sicherheitscheck:
+Keine doppelten Klassen gefunden.
+
+Massformel-Kontrolle:
+Anzahl t_(1,1) aller gelabelten Codes: 1
+Erwartete Masse t_(N1,N2)/(N1!*N2!): 1
+Berechnete Masse Summe 1/|Aut(C)|: 1
+Massformel erfuellt: Die Klassenliste ist vollstaendig.

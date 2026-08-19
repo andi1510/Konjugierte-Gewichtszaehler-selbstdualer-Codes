@@ -1,0 +1,103 @@
+Aktuelle Klasse 1 | Gefundene Klassen 2
+Aktuelle Klasse 2 | Gefundene Klassen 2
+==================================================
+Laenge: (4,4)
+Anzahl der Aequivalenzklassen: 2
+==================================================
+
+Klasse 1
+Vertreter (Generatormatrix):
+[1 0 0 0 1 0 0 0]
+[0 1 0 0 0 1 0 0]
+[0 0 1 0 0 0 1 0]
+[0 0 0 1 0 0 0 1]
+Stabilisator in S_4 x S_4:
+Permutation group acting on a set of cardinality 8
+Order = 24 = 2^3 * 3
+    (2, 3)(6, 7)
+    (3, 4)(7, 8)
+    (1, 4)(5, 8)
+Ordnung des Stabilisators: 24
+Abstrakter Gruppentyp: S4
+SmallGroup-Kennung: <24, 12>
+Erzeuger des Stabilisators:
+{
+    (2, 3)(6, 7),
+    (1, 4)(5, 8),
+    (3, 4)(7, 8)
+}
+
+Klasse 2
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+Stabilisator in S_4 x S_4:
+Permutation group G1 acting on a set of cardinality 8
+Order = 96 = 2^5 * 3
+    (1, 4)(2, 3)
+    (1, 2)(3, 4)
+    (2, 3)(6, 7)
+    (3, 4)(7, 8)
+    (2, 3)(5, 8)
+Ordnung des Stabilisators: 96
+Abstrakter Gruppentyp: C2^2:S4
+SmallGroup-Kennung: <96, 227>
+Erzeuger des Stabilisators:
+{
+    (2, 3)(6, 7),
+    (3, 4)(7, 8),
+    (1, 2)(3, 4),
+    (2, 3)(5, 8),
+    (1, 4)(2, 3)
+}
+
+Haeufigkeiten der Stabilisatortypen nach SmallGroup-Kennung:
+--------------------------------------------------
+SmallGroup-Kennung: <24, 12>
+Abstrakter Gruppentyp: S4
+Ordnung: 24
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 1):
+Permutation group S acting on a set of cardinality 8
+Order = 24 = 2^3 * 3
+    (2, 3)(6, 7)
+    (3, 4)(7, 8)
+    (1, 4)(5, 8)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (2, 3)(6, 7),
+    (1, 4)(5, 8),
+    (3, 4)(7, 8)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <96, 227>
+Abstrakter Gruppentyp: C2^2:S4
+Ordnung: 96
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 2):
+Permutation group G1 acting on a set of cardinality 8
+Order = 96 = 2^5 * 3
+    (1, 4)(2, 3)
+    (1, 2)(3, 4)
+    (2, 3)(6, 7)
+    (3, 4)(7, 8)
+    (2, 3)(5, 8)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (2, 3)(6, 7),
+    (3, 4)(7, 8),
+    (1, 2)(3, 4),
+    (2, 3)(5, 8),
+    (1, 4)(2, 3)
+}
+
+Isomorphie-Sicherheitscheck:
+Keine doppelten Klassen gefunden.
+
+Massformel-Kontrolle:
+Anzahl t_(4,4) aller gelabelten Codes: 30
+Erwartete Masse t_(N1,N2)/(N1!*N2!): 5/96
+Berechnete Masse Summe 1/|Aut(C)|: 5/96
+Massformel erfuellt: Die Klassenliste ist vollstaendig.

@@ -1,0 +1,187 @@
+Aktuelle Klasse 1 | Gefundene Klassen 3
+Aktuelle Klasse 2 | Gefundene Klassen 4
+Aktuelle Klasse 3 | Gefundene Klassen 4
+Aktuelle Klasse 4 | Gefundene Klassen 4
+==================================================
+Laenge: (6,6)
+Anzahl der Aequivalenzklassen: 4
+==================================================
+
+Klasse 1
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 0 0 0]
+[0 1 0 0 0 0 0 1 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 0 0]
+[0 0 0 1 0 0 0 0 0 1 0 0]
+[0 0 0 0 1 0 0 0 0 0 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 1]
+Stabilisator in S_6 x S_6:
+Permutation group acting on a set of cardinality 12
+Order = 720 = 2^4 * 3^2 * 5
+    (1, 2)(7, 8)
+    (2, 3)(8, 9)
+    (3, 4)(9, 10)
+    (4, 5)(10, 11)
+    (5, 6)(11, 12)
+Ordnung des Stabilisators: 720
+Abstrakter Gruppentyp: S6
+SmallGroup-Kennung: <720, 763>
+Erzeuger des Stabilisators:
+{
+    (1, 2)(7, 8),
+    (2, 3)(8, 9),
+    (5, 6)(11, 12),
+    (3, 4)(9, 10),
+    (4, 5)(10, 11)
+}
+
+Klasse 2
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 1 1 0 0 0]
+[0 1 0 1 0 0 0 1 0 1 0 0]
+[0 0 1 1 0 0 0 0 1 1 0 0]
+[0 0 0 0 1 0 0 0 0 0 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 1]
+[0 0 0 0 0 0 1 1 1 1 0 0]
+Stabilisator in S_6 x S_6:
+Permutation group acting on a set of cardinality 12
+Order = 192 = 2^6 * 3
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (3, 4)(7, 8)
+    (1, 3)(8, 10)
+    (3, 4)(9, 10)
+    (5, 6)(11, 12)
+Ordnung des Stabilisators: 192
+Abstrakter Gruppentyp: C2*C2^2:S4
+SmallGroup-Kennung: <192, 1538>
+Erzeuger des Stabilisators:
+{
+    (3, 4)(7, 8),
+    (1, 3)(2, 4),
+    (1, 2)(3, 4),
+    (1, 3)(8, 10),
+    (5, 6)(11, 12),
+    (3, 4)(9, 10)
+}
+
+Klasse 3
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 1 1 1 1 1]
+[0 1 0 0 0 0 1 0 1 1 1 1]
+[0 0 1 0 0 0 1 1 0 1 1 1]
+[0 0 0 1 0 0 1 1 1 0 1 1]
+[0 0 0 0 1 0 1 1 1 1 0 1]
+[0 0 0 0 0 1 1 1 1 1 1 0]
+Stabilisator in S_6 x S_6:
+Permutation group acting on a set of cardinality 12
+Order = 720 = 2^4 * 3^2 * 5
+    (1, 2)(7, 8)
+    (2, 3)(8, 9)
+    (3, 4)(9, 10)
+    (4, 5)(10, 11)
+    (5, 6)(11, 12)
+Ordnung des Stabilisators: 720
+Abstrakter Gruppentyp: S6
+SmallGroup-Kennung: <720, 763>
+Erzeuger des Stabilisators:
+{
+    (1, 2)(7, 8),
+    (2, 3)(8, 9),
+    (5, 6)(11, 12),
+    (3, 4)(9, 10),
+    (4, 5)(10, 11)
+}
+
+Klasse 4
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 0 0 0 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 1 1]
+Stabilisator in S_6 x S_6:
+Permutation group G1 acting on a set of cardinality 12
+Order = 1152 = 2^7 * 3^2
+    (1, 2)(3, 4)
+    (1, 3)(2, 4)
+    (1, 2)(5, 6)
+    (3, 6)(4, 5)
+    (1, 2)(7, 8)
+    (1, 2)(9, 10)
+    (7, 9)(8, 10)
+    (1, 2)(11, 12)
+    (9, 12)(10, 11)
+Ordnung des Stabilisators: 1152
+Abstrakter Gruppentyp: A4^2.C2^3
+Erzeuger des Stabilisators:
+{
+    (1, 2)(7, 8),
+    (1, 2)(9, 10),
+    (1, 2)(5, 6),
+    (1, 3)(2, 4),
+    (1, 2)(3, 4),
+    (1, 2)(11, 12),
+    (9, 12)(10, 11),
+    (3, 6)(4, 5),
+    (7, 9)(8, 10)
+}
+
+Haeufigkeiten der Stabilisatortypen nach SmallGroup-Kennung:
+--------------------------------------------------
+SmallGroup-Kennung: <720, 763>
+Abstrakter Gruppentyp: S6
+Ordnung: 720
+Haeufigkeit: 2
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 1):
+Permutation group S acting on a set of cardinality 12
+Order = 720 = 2^4 * 3^2 * 5
+    (1, 2)(7, 8)
+    (2, 3)(8, 9)
+    (3, 4)(9, 10)
+    (4, 5)(10, 11)
+    (5, 6)(11, 12)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (1, 2)(7, 8),
+    (2, 3)(8, 9),
+    (5, 6)(11, 12),
+    (3, 4)(9, 10),
+    (4, 5)(10, 11)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <192, 1538>
+Abstrakter Gruppentyp: C2*C2^2:S4
+Ordnung: 192
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 2):
+Permutation group S acting on a set of cardinality 12
+Order = 192 = 2^6 * 3
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (3, 4)(7, 8)
+    (1, 3)(8, 10)
+    (3, 4)(9, 10)
+    (5, 6)(11, 12)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (3, 4)(7, 8),
+    (1, 3)(2, 4),
+    (1, 2)(3, 4),
+    (1, 3)(8, 10),
+    (5, 6)(11, 12),
+    (3, 4)(9, 10)
+}
+--------------------------------------------------
+Nicht durch die SmallGroups-Datenbank identifizierbare Stabilisatoren:
+Klasse 4: Ordnung 1152, GroupName A4^2.C2^3
+
+Isomorphie-Sicherheitscheck:
+Keine doppelten Klassen gefunden.
+
+Massformel-Kontrolle:
+Anzahl t_6 aller gelabelten Codes: 4590
+Erwartete Masse t_N/(N!)^2: 17/1920
+Berechnete Masse Summe 1/|Aut(C)|: 17/1920
+Massformel erfuellt: Die Klassenliste ist vollstaendig.

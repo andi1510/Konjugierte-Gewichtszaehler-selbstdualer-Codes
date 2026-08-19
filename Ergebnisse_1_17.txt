@@ -1,0 +1,163 @@
+Aktuelle Klasse 1 | Gefundene Klassen 3
+Aktuelle Klasse 2 | Gefundene Klassen 3
+Aktuelle Klasse 3 | Gefundene Klassen 3
+==================================================
+Laenge: (1,17)
+Anzahl der Aequivalenzklassen: 3
+==================================================
+
+Klasse 1
+Vertreter (Generatormatrix):
+[1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_1 x S_17:
+Permutation group acting on a set of cardinality 18
+Order = 3612672 = 2^13 * 3^2 * 7^2
+    (11, 12)(13, 18)
+    (11, 18)(12, 13)
+    (11, 13)(14, 16)
+    (12, 14)(16, 18)
+    (12, 13)(16, 17)
+    (11, 13)(15, 17)
+    (6, 7)(8, 9)
+    (6, 9)(7, 8)
+    (3, 10)(6, 7)
+    (3, 8)(9, 10)
+    (5, 10)(7, 8)
+    (4, 5)(6, 7)
+    (3, 14)(4, 15)(5, 17)(6, 11)(7, 13)(8, 12)(9, 18)(10, 16)
+Ordnung des Stabilisators: 3612672
+Abstrakter Gruppentyp: C2^6.PSL(2,7)^2.C2
+Erzeuger des Stabilisators:
+{
+    (11, 13)(14, 16),
+    (4, 5)(6, 7),
+    (11, 12)(13, 18),
+    (3, 10)(6, 7),
+    (6, 7)(8, 9),
+    (5, 10)(7, 8),
+    (12, 14)(16, 18),
+    (11, 13)(15, 17),
+    (11, 18)(12, 13),
+    (3, 14)(4, 15)(5, 17)(6, 11)(7, 13)(8, 12)(9, 18)(10, 16),
+    (12, 13)(16, 17),
+    (6, 9)(7, 8),
+    (3, 8)(9, 10)
+}
+
+Klasse 2
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 1]
+[0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1]
+[0 0 0 1 0 0 1 0 1 1 1 0 0 0 0 1 1 1]
+[0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_1 x S_17:
+Permutation group acting on a set of cardinality 18
+Order = 322560 = 2^10 * 3^2 * 5 * 7
+    (3, 4)(7, 8)
+    (3, 8)(4, 7)
+    (3, 4)(6, 9)
+    (6, 7)(8, 9)
+    (2, 11)(3, 4)
+    (2, 6)(9, 11)
+    (3, 4)(5, 10)
+    (2, 5)(10, 11)
+    (14, 15)(16, 17)
+    (14, 17)(15, 16)
+    (13, 18)(15, 16)
+    (13, 14)(17, 18)
+    (12, 18)(14, 16)
+Ordnung des Stabilisators: 322560
+Abstrakter Gruppentyp: C2^4.S5*PSL(2,7)
+Erzeuger des Stabilisators:
+{
+    (3, 4)(5, 10),
+    (14, 17)(15, 16),
+    (14, 15)(16, 17),
+    (6, 7)(8, 9),
+    (2, 6)(9, 11),
+    (2, 11)(3, 4),
+    (3, 4)(7, 8),
+    (2, 5)(10, 11),
+    (3, 8)(4, 7),
+    (3, 4)(6, 9),
+    (13, 18)(15, 16),
+    (13, 14)(17, 18),
+    (12, 18)(14, 16)
+}
+
+Klasse 3
+Vertreter (Generatormatrix):
+[1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 1 1 1 0 1 0 0 1 0 1 1]
+[0 0 0 1 0 0 0 1 1 1 0 1 0 0 0 1 1 1]
+[0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_1 x S_17:
+Permutation group G1 acting on a set of cardinality 18
+Order = 5160960 = 2^14 * 3^2 * 5 * 7
+    (7, 8)(11, 12)
+    (7, 12)(8, 11)
+    (6, 9)(7, 8)
+    (6, 12)(9, 11)
+    (7, 8)(13, 18)
+    (6, 18)(9, 13)
+    (3, 4)(7, 8)
+    (3, 18)(4, 13)
+    (5, 10)(7, 8)
+    (3, 5)(4, 10)
+    (7, 8)(14, 17)
+    (5, 14)(10, 17)
+    (7, 8)(15, 16)
+    (14, 16)(15, 17)
+Ordnung des Stabilisators: 5160960
+Abstrakter Gruppentyp: C2^7.A8.C2
+Erzeuger des Stabilisators:
+{
+    (7, 12)(8, 11),
+    (7, 8)(14, 17),
+    (14, 16)(15, 17),
+    (5, 14)(10, 17),
+    (6, 12)(9, 11),
+    (5, 10)(7, 8),
+    (3, 5)(4, 10),
+    (6, 9)(7, 8),
+    (6, 18)(9, 13),
+    (7, 8)(13, 18),
+    (3, 18)(4, 13),
+    (7, 8)(11, 12),
+    (3, 4)(7, 8),
+    (7, 8)(15, 16)
+}
+
+Haeufigkeiten der Stabilisatortypen nach SmallGroup-Kennung:
+--------------------------------------------------
+Nicht durch die SmallGroups-Datenbank identifizierbare Stabilisatoren:
+Klasse 1: Ordnung 3612672, GroupName C2^6.PSL(2,7)^2.C2
+Klasse 2: Ordnung 322560, GroupName C2^4.S5*PSL(2,7)
+Klasse 3: Ordnung 5160960, GroupName C2^7.A8.C2
+
+Isomorphie-Sicherheitscheck:
+Keine doppelten Klassen gefunden.
+
+Massformel-Kontrolle:
+Anzahl t_(1,17) aller gelabelten Codes: 1270075950
+Erwartete Masse t_(N1,N2)/(N1!*N2!): 43/12042240
+Berechnete Masse Summe 1/|Aut(C)|: 43/12042240
+Massformel erfuellt: Die Klassenliste ist vollstaendig.

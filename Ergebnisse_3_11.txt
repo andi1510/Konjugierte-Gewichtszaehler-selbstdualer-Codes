@@ -1,0 +1,129 @@
+Aktuelle Klasse 1 | Gefundene Klassen 3
+Aktuelle Klasse 2 | Gefundene Klassen 3
+Aktuelle Klasse 3 | Gefundene Klassen 3
+==================================================
+Laenge: (3,11)
+Anzahl der Aequivalenzklassen: 3
+==================================================
+
+Klasse 1
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_3 x S_11:
+Permutation group acting on a set of cardinality 14
+Order = 8064 = 2^7 * 3^2 * 7
+    (7, 10)(11, 14)
+    (7, 14)(10, 11)
+    (7, 11)(8, 12)
+    (8, 10)(12, 14)
+    (10, 11)(12, 13)
+    (7, 11)(9, 13)
+    (1, 2)(4, 5)
+    (2, 3)(5, 6)
+Ordnung des Stabilisators: 8064
+Abstrakter Gruppentyp: C2^3.PSL(2,7)*S3
+Erzeuger des Stabilisators:
+{
+    (2, 3)(5, 6),
+    (7, 10)(11, 14),
+    (7, 14)(10, 11),
+    (1, 2)(4, 5),
+    (7, 11)(9, 13),
+    (7, 11)(8, 12),
+    (10, 11)(12, 13),
+    (8, 10)(12, 14)
+}
+
+Klasse 2
+Vertreter (Generatormatrix):
+[1 0 0 0 1 1 0 0 0 0 0 1 1 1]
+[0 1 0 0 1 0 1 0 0 0 0 1 1 1]
+[0 0 1 0 0 1 1 0 0 0 0 1 1 1]
+[0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_3 x S_11:
+Permutation group acting on a set of cardinality 14
+Order = 4032 = 2^6 * 3^2 * 7
+    (10, 11)(12, 13)
+    (10, 13)(11, 12)
+    (9, 14)(11, 12)
+    (9, 10)(13, 14)
+    (8, 14)(10, 12)
+    (4, 7)(5, 6)
+    (4, 5)(6, 7)
+    (2, 3)(5, 6)
+    (1, 3)(5, 7)
+Ordnung des Stabilisators: 4032
+Abstrakter Gruppentyp: PSL(2,7)*S4
+Erzeuger des Stabilisators:
+{
+    (10, 13)(11, 12),
+    (9, 14)(11, 12),
+    (2, 3)(5, 6),
+    (8, 14)(10, 12),
+    (9, 10)(13, 14),
+    (10, 11)(12, 13),
+    (4, 5)(6, 7),
+    (4, 7)(5, 6),
+    (1, 3)(5, 7)
+}
+
+Klasse 3
+Vertreter (Generatormatrix):
+[1 0 0 0 1 0 0 1 0 0 0 1 1 1]
+[0 1 0 0 1 0 0 1 0 0 1 0 1 1]
+[0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 1 1 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_3 x S_11:
+Permutation group G1 acting on a set of cardinality 14
+Order = 3840 = 2^8 * 3 * 5
+    (4, 14)(5, 9)
+    (4, 5)(9, 14)
+    (9, 14)(11, 12)
+    (4, 12)(5, 11)
+    (9, 14)(10, 13)
+    (10, 11)(12, 13)
+    (7, 8)(9, 14)
+    (7, 13)(8, 10)
+    (1, 2)(9, 14)
+Ordnung des Stabilisators: 3840
+Abstrakter Gruppentyp: C2wrS5
+Erzeuger des Stabilisators:
+{
+    (9, 14)(10, 13),
+    (4, 14)(5, 9),
+    (7, 13)(8, 10),
+    (7, 8)(9, 14),
+    (9, 14)(11, 12),
+    (1, 2)(9, 14),
+    (10, 11)(12, 13),
+    (4, 5)(9, 14),
+    (4, 12)(5, 11)
+}
+
+Haeufigkeiten der Stabilisatortypen nach SmallGroup-Kennung:
+--------------------------------------------------
+Nicht durch die SmallGroups-Datenbank identifizierbare Stabilisatoren:
+Klasse 1: Ordnung 8064, GroupName C2^3.PSL(2,7)*S3
+Klasse 2: Ordnung 4032, GroupName PSL(2,7)*S4
+Klasse 3: Ordnung 3840, GroupName C2wrS5
+
+Isomorphie-Sicherheitscheck:
+Keine doppelten Klassen gefunden.
+
+Massformel-Kontrolle:
+Anzahl t_(3,11) aller gelabelten Codes: 151470
+Erwartete Masse t_(N1,N2)/(N1!*N2!): 17/26880
+Berechnete Masse Summe 1/|Aut(C)|: 17/26880
+Massformel erfuellt: Die Klassenliste ist vollstaendig.

@@ -1,0 +1,6481 @@
+Aktuelle Klasse 1 | Gefundene Klassen 5
+Aktuelle Klasse 2 | Gefundene Klassen 17
+Aktuelle Klasse 3 | Gefundene Klassen 22
+Aktuelle Klasse 4 | Gefundene Klassen 22
+Aktuelle Klasse 5 | Gefundene Klassen 22
+Aktuelle Klasse 6 | Gefundene Klassen 38
+Aktuelle Klasse 7 | Gefundene Klassen 54
+Aktuelle Klasse 8 | Gefundene Klassen 57
+Aktuelle Klasse 9 | Gefundene Klassen 65
+Aktuelle Klasse 10 | Gefundene Klassen 66
+Aktuelle Klasse 11 | Gefundene Klassen 66
+Aktuelle Klasse 12 | Gefundene Klassen 66
+Aktuelle Klasse 13 | Gefundene Klassen 66
+Aktuelle Klasse 14 | Gefundene Klassen 66
+Aktuelle Klasse 15 | Gefundene Klassen 66
+Aktuelle Klasse 16 | Gefundene Klassen 66
+Aktuelle Klasse 17 | Gefundene Klassen 66
+Aktuelle Klasse 18 | Gefundene Klassen 68
+Aktuelle Klasse 19 | Gefundene Klassen 68
+Aktuelle Klasse 20 | Gefundene Klassen 68
+Aktuelle Klasse 21 | Gefundene Klassen 68
+Aktuelle Klasse 22 | Gefundene Klassen 68
+Aktuelle Klasse 23 | Gefundene Klassen 79
+Aktuelle Klasse 24 | Gefundene Klassen 90
+Aktuelle Klasse 25 | Gefundene Klassen 104
+Aktuelle Klasse 26 | Gefundene Klassen 109
+Aktuelle Klasse 27 | Gefundene Klassen 113
+Aktuelle Klasse 28 | Gefundene Klassen 113
+Aktuelle Klasse 29 | Gefundene Klassen 113
+Aktuelle Klasse 30 | Gefundene Klassen 115
+Aktuelle Klasse 31 | Gefundene Klassen 115
+Aktuelle Klasse 32 | Gefundene Klassen 115
+Aktuelle Klasse 33 | Gefundene Klassen 115
+Aktuelle Klasse 34 | Gefundene Klassen 116
+Aktuelle Klasse 35 | Gefundene Klassen 116
+Aktuelle Klasse 36 | Gefundene Klassen 116
+Aktuelle Klasse 37 | Gefundene Klassen 116
+Aktuelle Klasse 38 | Gefundene Klassen 116
+Aktuelle Klasse 39 | Gefundene Klassen 116
+Aktuelle Klasse 40 | Gefundene Klassen 116
+Aktuelle Klasse 41 | Gefundene Klassen 116
+Aktuelle Klasse 42 | Gefundene Klassen 116
+Aktuelle Klasse 43 | Gefundene Klassen 116
+Aktuelle Klasse 44 | Gefundene Klassen 116
+Aktuelle Klasse 45 | Gefundene Klassen 116
+Aktuelle Klasse 46 | Gefundene Klassen 116
+Aktuelle Klasse 47 | Gefundene Klassen 116
+Aktuelle Klasse 48 | Gefundene Klassen 116
+Aktuelle Klasse 49 | Gefundene Klassen 116
+Aktuelle Klasse 50 | Gefundene Klassen 116
+Aktuelle Klasse 51 | Gefundene Klassen 116
+Aktuelle Klasse 52 | Gefundene Klassen 116
+Aktuelle Klasse 53 | Gefundene Klassen 116
+Aktuelle Klasse 54 | Gefundene Klassen 116
+Aktuelle Klasse 55 | Gefundene Klassen 117
+Aktuelle Klasse 56 | Gefundene Klassen 117
+Aktuelle Klasse 57 | Gefundene Klassen 117
+Aktuelle Klasse 58 | Gefundene Klassen 118
+Aktuelle Klasse 59 | Gefundene Klassen 118
+Aktuelle Klasse 60 | Gefundene Klassen 118
+Aktuelle Klasse 61 | Gefundene Klassen 118
+Aktuelle Klasse 62 | Gefundene Klassen 118
+Aktuelle Klasse 63 | Gefundene Klassen 118
+Aktuelle Klasse 64 | Gefundene Klassen 118
+Aktuelle Klasse 65 | Gefundene Klassen 118
+Aktuelle Klasse 66 | Gefundene Klassen 118
+Aktuelle Klasse 67 | Gefundene Klassen 118
+Aktuelle Klasse 68 | Gefundene Klassen 118
+Aktuelle Klasse 69 | Gefundene Klassen 124
+Aktuelle Klasse 70 | Gefundene Klassen 128
+Aktuelle Klasse 71 | Gefundene Klassen 129
+Aktuelle Klasse 72 | Gefundene Klassen 130
+Aktuelle Klasse 73 | Gefundene Klassen 131
+Aktuelle Klasse 74 | Gefundene Klassen 131
+Aktuelle Klasse 75 | Gefundene Klassen 131
+Aktuelle Klasse 76 | Gefundene Klassen 131
+Aktuelle Klasse 77 | Gefundene Klassen 131
+Aktuelle Klasse 78 | Gefundene Klassen 131
+Aktuelle Klasse 79 | Gefundene Klassen 131
+Aktuelle Klasse 80 | Gefundene Klassen 132
+Aktuelle Klasse 81 | Gefundene Klassen 132
+Aktuelle Klasse 82 | Gefundene Klassen 132
+Aktuelle Klasse 83 | Gefundene Klassen 132
+Aktuelle Klasse 84 | Gefundene Klassen 132
+Aktuelle Klasse 85 | Gefundene Klassen 132
+Aktuelle Klasse 86 | Gefundene Klassen 132
+Aktuelle Klasse 87 | Gefundene Klassen 132
+Aktuelle Klasse 88 | Gefundene Klassen 132
+Aktuelle Klasse 89 | Gefundene Klassen 132
+Aktuelle Klasse 90 | Gefundene Klassen 132
+Aktuelle Klasse 91 | Gefundene Klassen 132
+Aktuelle Klasse 92 | Gefundene Klassen 132
+Aktuelle Klasse 93 | Gefundene Klassen 132
+Aktuelle Klasse 94 | Gefundene Klassen 132
+Aktuelle Klasse 95 | Gefundene Klassen 132
+Aktuelle Klasse 96 | Gefundene Klassen 132
+Aktuelle Klasse 97 | Gefundene Klassen 132
+Aktuelle Klasse 98 | Gefundene Klassen 132
+Aktuelle Klasse 99 | Gefundene Klassen 132
+Aktuelle Klasse 100 | Gefundene Klassen 132
+Aktuelle Klasse 101 | Gefundene Klassen 132
+Aktuelle Klasse 102 | Gefundene Klassen 132
+Aktuelle Klasse 103 | Gefundene Klassen 132
+Aktuelle Klasse 104 | Gefundene Klassen 132
+Aktuelle Klasse 105 | Gefundene Klassen 132
+Aktuelle Klasse 106 | Gefundene Klassen 132
+Aktuelle Klasse 107 | Gefundene Klassen 132
+Aktuelle Klasse 108 | Gefundene Klassen 132
+Aktuelle Klasse 109 | Gefundene Klassen 132
+Aktuelle Klasse 110 | Gefundene Klassen 132
+Aktuelle Klasse 111 | Gefundene Klassen 132
+Aktuelle Klasse 112 | Gefundene Klassen 132
+Aktuelle Klasse 113 | Gefundene Klassen 132
+Aktuelle Klasse 114 | Gefundene Klassen 132
+Aktuelle Klasse 115 | Gefundene Klassen 132
+Aktuelle Klasse 116 | Gefundene Klassen 132
+Aktuelle Klasse 117 | Gefundene Klassen 132
+Aktuelle Klasse 118 | Gefundene Klassen 132
+Aktuelle Klasse 119 | Gefundene Klassen 132
+Aktuelle Klasse 120 | Gefundene Klassen 132
+Aktuelle Klasse 121 | Gefundene Klassen 132
+Aktuelle Klasse 122 | Gefundene Klassen 132
+Aktuelle Klasse 123 | Gefundene Klassen 132
+Aktuelle Klasse 124 | Gefundene Klassen 132
+Aktuelle Klasse 125 | Gefundene Klassen 132
+Aktuelle Klasse 126 | Gefundene Klassen 132
+Aktuelle Klasse 127 | Gefundene Klassen 132
+Aktuelle Klasse 128 | Gefundene Klassen 132
+Aktuelle Klasse 129 | Gefundene Klassen 132
+Aktuelle Klasse 130 | Gefundene Klassen 132
+Aktuelle Klasse 131 | Gefundene Klassen 132
+Aktuelle Klasse 132 | Gefundene Klassen 132
+==================================================
+Laenge: (11,11)
+Anzahl der Aequivalenzklassen: 132
+==================================================
+
+Klasse 1
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 39916800 = 2^8 * 3^4 * 5^2 * 7 * 11
+    (1, 9)(12, 20)
+    (1, 2)(12, 13)
+    (2, 3)(13, 14)
+    (3, 5)(14, 16)
+    (5, 6)(16, 17)
+    (6, 7)(17, 18)
+    (7, 8)(18, 19)
+    (8, 10)(19, 21)
+    (10, 11)(21, 22)
+    (4, 11)(15, 22)
+Ordnung des Stabilisators: 39916800
+Abstrakter Gruppentyp: S11
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (8, 10)(19, 21),
+    (10, 11)(21, 22),
+    (6, 7)(17, 18),
+    (1, 9)(12, 20),
+    (1, 2)(12, 13),
+    (3, 5)(14, 16),
+    (5, 6)(16, 17),
+    (4, 11)(15, 22),
+    (2, 3)(13, 14)
+}
+
+Klasse 2
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 483840 = 2^9 * 3^3 * 5 * 7
+    (5, 6)(16, 17)
+    (6, 7)(17, 18)
+    (7, 8)(18, 19)
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (1, 3)(13, 15)
+    (1, 4)(13, 14)
+    (1, 3)(12, 14)
+Ordnung des Stabilisators: 483840
+Abstrakter Gruppentyp: S7*C2^2:S4
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (6, 7)(17, 18),
+    (1, 3)(13, 15),
+    (1, 2)(3, 4),
+    (10, 11)(21, 22),
+    (9, 10)(20, 21),
+    (8, 9)(19, 20),
+    (5, 6)(16, 17),
+    (1, 3)(12, 14),
+    (1, 3)(2, 4),
+    (1, 4)(13, 14)
+}
+
+Klasse 3
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 86400 = 2^7 * 3^3 * 5^2
+    (2, 3)(13, 14)
+    (3, 4)(14, 15)
+    (4, 5)(15, 16)
+    (1, 5)(12, 16)
+    (1, 6)(12, 17)
+    (7, 8)(18, 19)
+    (8, 10)(19, 21)
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+Ordnung des Stabilisators: 86400
+Abstrakter Gruppentyp: S6*S5
+Erzeuger des Stabilisators:
+{
+    (1, 6)(12, 17),
+    (7, 8)(18, 19),
+    (8, 10)(19, 21),
+    (2, 3)(13, 14),
+    (1, 5)(12, 16),
+    (10, 11)(21, 22),
+    (4, 5)(15, 16),
+    (3, 4)(14, 15),
+    (9, 11)(20, 22)
+}
+
+Klasse 4
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0 0 0 0]
+[0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0]
+[0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0]
+[0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 241920 = 2^8 * 3^3 * 5 * 7
+    (1, 2)(12, 13)
+    (2, 3)(13, 14)
+    (3, 5)(14, 16)
+    (5, 6)(16, 17)
+    (6, 7)(17, 18)
+    (7, 8)(18, 19)
+    (4, 8)(15, 19)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 241920
+Abstrakter Gruppentyp: S8*S3
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (4, 8)(15, 19),
+    (2, 3)(13, 14),
+    (3, 5)(14, 16),
+    (9, 10)(20, 21),
+    (10, 11)(21, 22),
+    (1, 2)(12, 13),
+    (5, 6)(16, 17),
+    (6, 7)(17, 18)
+}
+
+Klasse 5
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 0]
+[0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1 0]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 1 1 1 1 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 1 1 1 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 1 1 0]
+[0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 3628800 = 2^8 * 3^4 * 5^2 * 7
+    (5, 10)(16, 21)
+    (3, 5)(14, 16)
+    (3, 4)(14, 15)
+    (1, 4)(12, 15)
+    (1, 6)(12, 17)
+    (6, 7)(17, 18)
+    (7, 8)(18, 19)
+    (8, 9)(19, 20)
+    (2, 9)(13, 20)
+Ordnung des Stabilisators: 3628800
+Abstrakter Gruppentyp: S10
+Erzeuger des Stabilisators:
+{
+    (1, 6)(12, 17),
+    (7, 8)(18, 19),
+    (2, 9)(13, 20),
+    (3, 5)(14, 16),
+    (1, 4)(12, 15),
+    (8, 9)(19, 20),
+    (5, 10)(16, 21),
+    (3, 4)(14, 15),
+    (6, 7)(17, 18)
+}
+
+Klasse 6
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 138240 = 2^10 * 3^3 * 5
+    (1, 2)(3, 4)
+    (1, 4)(2, 3)
+    (1, 2)(5, 6)
+    (3, 5)(4, 6)
+    (1, 2)(14, 15)
+    (1, 2)(16, 17)
+    (14, 17)(15, 16)
+    (1, 2)(12, 13)
+    (12, 17)(13, 16)
+    (7, 11)(18, 22)
+    (7, 8)(18, 19)
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+Ordnung des Stabilisators: 138240
+Abstrakter Gruppentyp: A4^2.C2^3*S5
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (1, 2)(16, 17),
+    (1, 2)(3, 4),
+    (3, 5)(4, 6),
+    (1, 2)(12, 13),
+    (8, 9)(19, 20),
+    (14, 17)(15, 16),
+    (9, 10)(20, 21),
+    (1, 2)(14, 15),
+    (12, 17)(13, 16),
+    (1, 4)(2, 3),
+    (7, 11)(18, 22),
+    (1, 2)(5, 6)
+}
+
+Klasse 7
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 13824 = 2^9 * 3^3
+    (1, 5)(6, 7)
+    (1, 6)(5, 7)
+    (3, 4)(12, 13)
+    (2, 3)(13, 14)
+    (1, 5)(17, 18)
+    (5, 7)(16, 18)
+    (3, 4)(14, 15)
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 13824
+Abstrakter Gruppentyp: S4^3
+Erzeuger des Stabilisators:
+{
+    (1, 6)(5, 7),
+    (1, 5)(17, 18),
+    (2, 3)(13, 14),
+    (9, 10)(20, 21),
+    (1, 5)(6, 7),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (5, 7)(16, 18),
+    (3, 4)(14, 15),
+    (3, 4)(12, 13)
+}
+
+Klasse 8
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 110592 = 2^12 * 3^3
+    (5, 7)(6, 8)
+    (5, 6)(7, 8)
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (7, 8)(16, 17)
+    (5, 7)(17, 19)
+    (7, 8)(18, 19)
+    (3, 4)(14, 15)
+    (1, 3)(13, 15)
+    (3, 4)(12, 13)
+    (1, 5)(2, 6)(3, 7)(4, 8)(12, 18)(13, 19)(14, 16)(15, 17)
+    (9, 11)(20, 22)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 110592
+Abstrakter Gruppentyp: C2^8.S3wrC2*S3
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (3, 4)(14, 15),
+    (1, 3)(13, 15),
+    (10, 11)(21, 22),
+    (1, 2)(3, 4),
+    (9, 11)(20, 22),
+    (1, 3)(2, 4),
+    (3, 4)(12, 13),
+    (1, 5)(2, 6)(3, 7)(4, 8)(12, 18)(13, 19)(14, 16)(15, 17),
+    (5, 7)(6, 8),
+    (5, 6)(7, 8),
+    (7, 8)(16, 17),
+    (5, 7)(17, 19)
+}
+
+Klasse 9
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 4608 = 2^9 * 3^2
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (3, 4)(14, 15)
+    (3, 4)(12, 13)
+    (12, 15)(13, 14)
+    (6, 7)(17, 18)
+    (7, 8)(18, 19)
+    (5, 8)(16, 19)
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+Ordnung des Stabilisators: 4608
+Abstrakter Gruppentyp: (C2*C6*A4).C2^5
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (1, 3)(2, 4),
+    (12, 15)(13, 14),
+    (10, 11)(21, 22),
+    (5, 8)(16, 19),
+    (1, 2)(3, 4),
+    (3, 4)(14, 15),
+    (3, 4)(12, 13),
+    (6, 7)(17, 18),
+    (9, 11)(20, 22)
+}
+
+Klasse 10
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 1 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 1 1 1 1 0 0 0]
+[0 0 0 1 0 0 0 0 1 0 0 0 1 1 0 1 1 1 1 0 0 0]
+[0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0]
+[0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0]
+[0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 5760 = 2^7 * 3^2 * 5
+    (6, 7)(17, 18)
+    (7, 8)(18, 19)
+    (8, 9)(19, 20)
+    (5, 9)(16, 20)
+    (12, 13)(14, 15)
+    (12, 14)(13, 15)
+    (3, 4)(12, 13)
+    (2, 4)(13, 15)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 5760
+Abstrakter Gruppentyp: C2*S5*S4
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (5, 9)(16, 20),
+    (2, 4)(13, 15),
+    (12, 13)(14, 15),
+    (12, 14)(13, 15),
+    (6, 7)(17, 18),
+    (3, 4)(12, 13)
+}
+
+Klasse 11
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 69120 = 2^9 * 3^3 * 5
+    (5, 6)(16, 17)
+    (6, 7)(17, 18)
+    (7, 8)(18, 19)
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+    (1, 4)(2, 3)
+    (1, 2)(3, 4)
+    (3, 4)(12, 13)
+    (2, 3)(13, 14)
+    (3, 4)(14, 15)
+Ordnung des Stabilisators: 69120
+Abstrakter Gruppentyp: S6*C2^2:S4
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (6, 7)(17, 18),
+    (1, 2)(3, 4),
+    (9, 10)(20, 21),
+    (2, 3)(13, 14),
+    (3, 4)(14, 15),
+    (8, 9)(19, 20),
+    (5, 6)(16, 17),
+    (3, 4)(12, 13),
+    (1, 4)(2, 3)
+}
+
+Klasse 12
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 1 0 0 1 0 1 1 1 1 1 1 0 0]
+[0 1 0 1 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 1 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0]
+[0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0]
+[0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0]
+[0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 23040 = 2^9 * 3^2 * 5
+    (5, 9)(16, 20)
+    (7, 9)(18, 20)
+    (7, 8)(18, 19)
+    (8, 10)(19, 21)
+    (6, 10)(17, 21)
+    (1, 2)(3, 4)
+    (1, 3)(2, 4)
+    (1, 2)(12, 13)
+    (1, 2)(14, 15)
+    (12, 15)(13, 14)
+Ordnung des Stabilisators: 23040
+Abstrakter Gruppentyp: C2^2wrC2.A6.C2
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (1, 2)(3, 4),
+    (1, 2)(14, 15),
+    (1, 2)(12, 13),
+    (5, 9)(16, 20),
+    (6, 10)(17, 21),
+    (7, 9)(18, 20),
+    (12, 15)(13, 14),
+    (8, 10)(19, 21),
+    (1, 3)(2, 4)
+}
+
+Klasse 13
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1]
+[0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1]
+[0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 120960 = 2^7 * 3^3 * 5 * 7
+    (5, 6)(16, 17)
+    (6, 9)(17, 20)
+    (8, 9)(19, 20)
+    (8, 11)(19, 22)
+    (10, 11)(21, 22)
+    (7, 10)(18, 21)
+    (12, 13)(14, 15)
+    (12, 15)(13, 14)
+    (2, 4)(12, 14)
+    (3, 4)(12, 13)
+Ordnung des Stabilisators: 120960
+Abstrakter Gruppentyp: S7*S4
+Erzeuger des Stabilisators:
+{
+    (7, 10)(18, 21),
+    (2, 4)(12, 14),
+    (10, 11)(21, 22),
+    (8, 9)(19, 20),
+    (5, 6)(16, 17),
+    (6, 9)(17, 20),
+    (8, 11)(19, 22),
+    (12, 13)(14, 15),
+    (3, 4)(12, 13),
+    (12, 15)(13, 14)
+}
+
+Klasse 14
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 6912 = 2^8 * 3^3
+    (5, 6)(16, 17)
+    (6, 7)(17, 18)
+    (7, 8)(18, 19)
+    (3, 4)(14, 15)
+    (1, 4)(12, 15)
+    (1, 2)(12, 13)
+    (1, 7)(2, 8)(3, 5)(4, 6)(12, 18)(13, 19)(14, 16)(15, 17)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 6912
+Abstrakter Gruppentyp: A4^2.D4*S3
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (1, 4)(12, 15),
+    (9, 10)(20, 21),
+    (10, 11)(21, 22),
+    (1, 2)(12, 13),
+    (3, 4)(14, 15),
+    (5, 6)(16, 17),
+    (6, 7)(17, 18),
+    (1, 7)(2, 8)(3, 5)(4, 6)(12, 18)(13, 19)(14, 16)(15, 17)
+}
+
+Klasse 15
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 1 1 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 5760 = 2^7 * 3^2 * 5
+    (5, 9)(16, 20)
+    (5, 6)(16, 17)
+    (6, 7)(17, 18)
+    (7, 8)(18, 19)
+    (1, 2)(3, 4)
+    (1, 4)(2, 3)
+    (1, 2)(14, 15)
+    (1, 3)(13, 15)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 5760
+Abstrakter Gruppentyp: C2*S5*S4
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (6, 7)(17, 18),
+    (1, 2)(3, 4),
+    (1, 2)(14, 15),
+    (1, 3)(13, 15),
+    (10, 11)(21, 22),
+    (5, 6)(16, 17),
+    (5, 9)(16, 20),
+    (1, 4)(2, 3)
+}
+
+Klasse 16
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 0]
+[0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1 0]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 1 1 1 1 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 17280 = 2^7 * 3^3 * 5
+    (5, 6)(16, 17)
+    (6, 7)(17, 18)
+    (7, 8)(18, 19)
+    (8, 10)(19, 21)
+    (9, 10)(20, 21)
+    (1, 2)(12, 13)
+    (2, 4)(13, 15)
+    (3, 4)(14, 15)
+Ordnung des Stabilisators: 17280
+Abstrakter Gruppentyp: S6*S4
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (6, 7)(17, 18),
+    (9, 10)(20, 21),
+    (3, 4)(14, 15),
+    (5, 6)(16, 17),
+    (1, 2)(12, 13),
+    (8, 10)(19, 21),
+    (2, 4)(13, 15)
+}
+
+Klasse 17
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 120960 = 2^7 * 3^3 * 5 * 7
+    (5, 11)(16, 22)
+    (6, 11)(17, 22)
+    (6, 7)(17, 18)
+    (7, 9)(18, 20)
+    (9, 10)(20, 21)
+    (8, 10)(19, 21)
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (1, 4)(13, 14)
+    (3, 4)(14, 15)
+Ordnung des Stabilisators: 120960
+Abstrakter Gruppentyp: S7*S4
+Erzeuger des Stabilisators:
+{
+    (9, 10)(20, 21),
+    (6, 7)(17, 18),
+    (1, 2)(3, 4),
+    (3, 4)(14, 15),
+    (6, 11)(17, 22),
+    (5, 11)(16, 22),
+    (7, 9)(18, 20),
+    (8, 10)(19, 21),
+    (1, 3)(2, 4),
+    (1, 4)(13, 14)
+}
+
+Klasse 18
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 1 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1296 = 2^4 * 3^4
+    (5, 6)(16, 17)
+    (4, 6)(15, 17)
+    (2, 3)(13, 14)
+    (1, 3)(12, 14)
+    (8, 9)(19, 20)
+    (7, 9)(18, 20)
+    (1, 4, 7)(2, 5, 8)(3, 6, 9)(12, 15, 18)(13, 16, 19)(14, 17, 20)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 1296
+Abstrakter Gruppentyp: C2*S3wrC3
+SmallGroup-Kennung: <1296, 3494>
+Erzeuger des Stabilisators:
+{
+    (1, 4, 7)(2, 5, 8)(3, 6, 9)(12, 15, 18)(13, 16, 19)(14, 17, 20),
+    (4, 6)(15, 17),
+    (2, 3)(13, 14),
+    (7, 9)(18, 20),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (1, 3)(12, 14),
+    (5, 6)(16, 17)
+}
+
+Klasse 19
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0]
+[0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 2304 = 2^8 * 3^2
+    (7, 9)(18, 20)
+    (7, 8)(18, 19)
+    (8, 10)(19, 21)
+    (4, 6)(15, 17)
+    (3, 6)(14, 17)
+    (3, 5)(14, 16)
+    (3, 8)(4, 9)(5, 10)(6, 7)(14, 19)(15, 20)(16, 21)(17, 18)
+    (1, 2)(12, 13)
+Ordnung des Stabilisators: 2304
+Abstrakter Gruppentyp: C2*A4^2.D4
+Erzeuger des Stabilisators:
+{
+    (4, 6)(15, 17),
+    (7, 8)(18, 19),
+    (3, 6)(14, 17),
+    (1, 2)(12, 13),
+    (7, 9)(18, 20),
+    (8, 10)(19, 21),
+    (3, 5)(14, 16),
+    (3, 8)(4, 9)(5, 10)(6, 7)(14, 19)(15, 20)(16, 21)(17, 18)
+}
+
+Klasse 20
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 0 1 0]
+[0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 1 1 1 0 0]
+[0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 1 1 1 1 0 0]
+[0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0]
+[0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1 1 1 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 2304 = 2^8 * 3^2
+    (1, 2)(12, 13)
+    (2, 3)(13, 14)
+    (3, 4)(14, 15)
+    (8, 9)(19, 20)
+    (7, 9)(18, 20)
+    (7, 10)(18, 21)
+    (1, 8)(2, 9)(3, 7)(4, 10)(12, 19)(13, 20)(14, 18)(15, 21)
+    (5, 6)(16, 17)
+Ordnung des Stabilisators: 2304
+Abstrakter Gruppentyp: C2*A4^2.D4
+Erzeuger des Stabilisators:
+{
+    (7, 10)(18, 21),
+    (2, 3)(13, 14),
+    (1, 8)(2, 9)(3, 7)(4, 10)(12, 19)(13, 20)(14, 18)(15, 21),
+    (3, 4)(14, 15),
+    (8, 9)(19, 20),
+    (5, 6)(16, 17),
+    (1, 2)(12, 13),
+    (7, 9)(18, 20)
+}
+
+Klasse 21
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 14400 = 2^6 * 3^2 * 5^2
+    (7, 9)(18, 20)
+    (9, 11)(20, 22)
+    (10, 11)(21, 22)
+    (8, 10)(19, 21)
+    (3, 4)(14, 15)
+    (4, 5)(15, 16)
+    (5, 6)(16, 17)
+    (2, 6)(13, 17)
+Ordnung des Stabilisators: 14400
+Abstrakter Gruppentyp: S5^2
+Erzeuger des Stabilisators:
+{
+    (8, 10)(19, 21),
+    (7, 9)(18, 20),
+    (2, 6)(13, 17),
+    (10, 11)(21, 22),
+    (4, 5)(15, 16),
+    (3, 4)(14, 15),
+    (9, 11)(20, 22),
+    (5, 6)(16, 17)
+}
+
+Klasse 22
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 1 1 1 0]
+[0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 1 1 1 0]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 1 0 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 4320 = 2^5 * 3^3 * 5
+    (5, 6)(16, 17)
+    (4, 6)(15, 17)
+    (1, 2)(12, 13)
+    (2, 3)(13, 14)
+    (7, 8)(18, 19)
+    (8, 10)(19, 21)
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+Ordnung des Stabilisators: 4320
+Abstrakter Gruppentyp: S3^2*S5
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (8, 10)(19, 21),
+    (4, 6)(15, 17),
+    (2, 3)(13, 14),
+    (10, 11)(21, 22),
+    (1, 2)(12, 13),
+    (5, 6)(16, 17),
+    (9, 11)(20, 22)
+}
+
+Klasse 23
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 677376 = 2^9 * 3^3 * 7^2
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (1, 4)(6, 7)
+    (2, 7)(3, 6)
+    (1, 3)(5, 7)
+    (13, 14)(17, 18)
+    (13, 18)(14, 17)
+    (12, 16)(13, 17)
+    (12, 18)(14, 16)
+    (12, 15)(13, 14)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (8, 11)(19, 22)
+Ordnung des Stabilisators: 677376
+Abstrakter Gruppentyp: PSL(2,7)^2*S4
+Erzeuger des Stabilisators:
+{
+    (12, 15)(13, 14),
+    (10, 11)(21, 22),
+    (1, 2)(3, 4),
+    (13, 14)(17, 18),
+    (1, 4)(6, 7),
+    (1, 3)(5, 7),
+    (12, 16)(13, 17),
+    (1, 3)(2, 4),
+    (2, 7)(3, 6),
+    (8, 11)(19, 22),
+    (9, 10)(20, 21),
+    (12, 18)(14, 16),
+    (13, 18)(14, 17)
+}
+
+Klasse 24
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 1 0 0 0 0 1 0 1 0 1 1 0 0 0 0]
+[0 1 0 1 0 1 0 1 0 0 0 0 1 0 1 0 1 0 1 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 442368 = 2^14 * 3^3
+    (1, 7)(2, 8)
+    (1, 2)(7, 8)
+    (5, 6)(7, 8)
+    (1, 6)(2, 5)
+    (3, 4)(7, 8)
+    (3, 5)(4, 6)
+    (7, 8)(14, 15)
+    (7, 8)(12, 13)
+    (12, 14)(13, 15)
+    (7, 8)(16, 17)
+    (12, 17)(13, 16)
+    (7, 8)(18, 19)
+    (16, 18)(17, 19)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 442368
+Abstrakter Gruppentyp: C2^4.C2^6.C3.D6.C2*S3
+Erzeuger des Stabilisators:
+{
+    (1, 2)(7, 8),
+    (7, 8)(18, 19),
+    (10, 11)(21, 22),
+    (1, 6)(2, 5),
+    (7, 8)(12, 13),
+    (3, 5)(4, 6),
+    (1, 7)(2, 8),
+    (12, 14)(13, 15),
+    (9, 10)(20, 21),
+    (12, 17)(13, 16),
+    (5, 6)(7, 8),
+    (16, 18)(17, 19),
+    (7, 8)(14, 15),
+    (7, 8)(16, 17),
+    (3, 4)(7, 8)
+}
+
+Klasse 25
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 13824 = 2^9 * 3^3
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (1, 3)(7, 8)
+    (2, 8)(4, 7)
+    (12, 14)(13, 15)
+    (12, 13)(14, 15)
+    (5, 6)(14, 15)
+    (1, 3)(18, 19)
+    (14, 15)(16, 17)
+    (12, 17)(13, 16)
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+Ordnung des Stabilisators: 13824
+Abstrakter Gruppentyp: C2^2*S4^2*S3
+Erzeuger des Stabilisators:
+{
+    (5, 6)(14, 15),
+    (1, 2)(3, 4),
+    (1, 3)(7, 8),
+    (1, 3)(18, 19),
+    (10, 11)(21, 22),
+    (14, 15)(16, 17),
+    (12, 14)(13, 15),
+    (12, 17)(13, 16),
+    (2, 8)(4, 7),
+    (12, 13)(14, 15),
+    (9, 11)(20, 22),
+    (1, 3)(2, 4)
+}
+
+Klasse 26
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0 0]
+[0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0 1 1 1 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 9216 = 2^10 * 3^2
+    (12, 16)(13, 17)
+    (12, 13)(16, 17)
+    (14, 15)(16, 17)
+    (12, 14)(13, 15)
+    (5, 6)(16, 17)
+    (3, 4)(16, 17)
+    (3, 6)(4, 5)
+    (1, 7)(8, 9)
+    (1, 9)(7, 8)
+    (7, 8)(18, 19)
+    (1, 7)(19, 20)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 9216
+Abstrakter Gruppentyp: C2*D4*S4*S4
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (10, 11)(21, 22),
+    (1, 7)(19, 20),
+    (12, 16)(13, 17),
+    (3, 6)(4, 5),
+    (12, 14)(13, 15),
+    (3, 4)(16, 17),
+    (5, 6)(16, 17),
+    (12, 13)(16, 17),
+    (14, 15)(16, 17),
+    (1, 7)(8, 9),
+    (1, 9)(7, 8)
+}
+
+Klasse 27
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 0 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 6912 = 2^8 * 3^3
+    (3, 4)(5, 6)
+    (3, 6)(4, 5)
+    (1, 2)(3, 4)
+    (1, 6)(2, 5)
+    (14, 16)(15, 17)
+    (14, 15)(16, 17)
+    (7, 8)(18, 19)
+    (8, 9)(19, 20)
+    (12, 13)(16, 17)
+    (12, 14)(13, 15)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 6912
+Abstrakter Gruppentyp: C2*S4^2*S3
+Erzeuger des Stabilisators:
+{
+    (1, 6)(2, 5),
+    (7, 8)(18, 19),
+    (3, 6)(4, 5),
+    (14, 15)(16, 17),
+    (12, 13)(16, 17),
+    (14, 16)(15, 17),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (3, 4)(5, 6),
+    (1, 2)(3, 4),
+    (12, 14)(13, 15)
+}
+
+Klasse 28
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 110592 = 2^12 * 3^3
+    (3, 6)(4, 5)
+    (3, 4)(5, 6)
+    (1, 2)(5, 6)
+    (1, 4)(2, 3)
+    (5, 6)(14, 15)
+    (5, 6)(16, 17)
+    (14, 17)(15, 16)
+    (5, 6)(12, 13)
+    (12, 17)(13, 16)
+    (7, 8)(9, 10)
+    (7, 9)(8, 10)
+    (7, 10)(19, 20)
+    (8, 10)(18, 20)
+    (7, 10)(18, 21)
+Ordnung des Stabilisators: 110592
+Abstrakter Gruppentyp: A4^2.C2^3*C2^2:S4
+Erzeuger des Stabilisators:
+{
+    (7, 10)(19, 20),
+    (7, 9)(8, 10),
+    (5, 6)(12, 13),
+    (7, 8)(9, 10),
+    (14, 17)(15, 16),
+    (3, 6)(4, 5),
+    (7, 10)(18, 21),
+    (12, 17)(13, 16),
+    (5, 6)(16, 17),
+    (8, 10)(18, 20),
+    (5, 6)(14, 15),
+    (1, 4)(2, 3),
+    (3, 4)(5, 6),
+    (1, 2)(5, 6)
+}
+
+Klasse 29
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 1 1 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0 1 1 1 1 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 27648 = 2^10 * 3^3
+    (3, 5)(4, 6)
+    (3, 4)(5, 6)
+    (1, 2)(5, 6)
+    (1, 4)(2, 3)
+    (5, 6)(14, 15)
+    (5, 6)(16, 17)
+    (14, 17)(15, 16)
+    (5, 6)(12, 13)
+    (12, 16)(13, 17)
+    (8, 9)(19, 20)
+    (7, 9)(18, 20)
+    (7, 10)(18, 21)
+Ordnung des Stabilisators: 27648
+Abstrakter Gruppentyp: A4^2.C2^3*S4
+Erzeuger des Stabilisators:
+{
+    (1, 2)(5, 6),
+    (5, 6)(14, 15),
+    (7, 10)(18, 21),
+    (12, 16)(13, 17),
+    (3, 4)(5, 6),
+    (8, 9)(19, 20),
+    (5, 6)(16, 17),
+    (14, 17)(15, 16),
+    (5, 6)(12, 13),
+    (7, 9)(18, 20),
+    (3, 5)(4, 6),
+    (1, 4)(2, 3)
+}
+
+Klasse 30
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0]
+[0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0]
+[0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 1 0]
+[0 0 0 0 1 0 0 0 0 1 0 0 1 0 1 1 0 1 1 1 0 0]
+[0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 0 1 1 1 1 0 0]
+[0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 4608 = 2^9 * 3^2
+    (12, 13)(16, 17)
+    (12, 16)(13, 17)
+    (12, 13)(14, 15)
+    (14, 16)(15, 17)
+    (7, 10)(18, 21)
+    (8, 10)(19, 21)
+    (5, 6)(12, 13)
+    (8, 9)(19, 20)
+    (1, 2)(3, 4)
+    (1, 3)(2, 4)
+Ordnung des Stabilisators: 4608
+Abstrakter Gruppentyp: C2^3*S4^2
+Erzeuger des Stabilisators:
+{
+    (8, 10)(19, 21),
+    (1, 3)(2, 4),
+    (12, 13)(16, 17),
+    (12, 16)(13, 17),
+    (14, 16)(15, 17),
+    (8, 9)(19, 20),
+    (5, 6)(12, 13),
+    (1, 2)(3, 4),
+    (12, 13)(14, 15),
+    (7, 10)(18, 21)
+}
+
+Klasse 31
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0]
+[0 0 1 0 0 1 0 0 0 0 1 0 1 0 1 0 1 1 1 1 1 0]
+[0 0 0 1 0 1 0 0 0 0 1 0 1 0 1 1 0 1 1 1 1 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 23040 = 2^9 * 3^2 * 5
+    (12, 13)(14, 15)
+    (12, 15)(13, 14)
+    (12, 13)(16, 17)
+    (14, 17)(15, 16)
+    (7, 8)(18, 19)
+    (8, 9)(19, 20)
+    (9, 11)(20, 22)
+    (10, 11)(21, 22)
+    (3, 4)(12, 13)
+    (5, 6)(12, 13)
+    (3, 5)(4, 6)
+Ordnung des Stabilisators: 23040
+Abstrakter Gruppentyp: D4*S4*S5
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (10, 11)(21, 22),
+    (12, 15)(13, 14),
+    (5, 6)(12, 13),
+    (12, 13)(14, 15),
+    (3, 5)(4, 6),
+    (9, 11)(20, 22),
+    (8, 9)(19, 20),
+    (14, 17)(15, 16),
+    (3, 4)(12, 13),
+    (12, 13)(16, 17)
+}
+
+Klasse 32
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1]
+[0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1]
+[0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 69120 = 2^9 * 3^3 * 5
+    (3, 5)(4, 6)
+    (3, 4)(5, 6)
+    (1, 2)(5, 6)
+    (1, 4)(2, 3)
+    (12, 15)(13, 14)
+    (12, 13)(14, 15)
+    (14, 15)(16, 17)
+    (12, 17)(13, 16)
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+    (7, 10)(18, 21)
+    (7, 11)(18, 22)
+Ordnung des Stabilisators: 69120
+Abstrakter Gruppentyp: S4^2*S5
+Erzeuger des Stabilisators:
+{
+    (12, 15)(13, 14),
+    (12, 13)(14, 15),
+    (3, 5)(4, 6),
+    (8, 9)(19, 20),
+    (7, 10)(18, 21),
+    (9, 10)(20, 21),
+    (12, 17)(13, 16),
+    (14, 15)(16, 17),
+    (1, 4)(2, 3),
+    (7, 11)(18, 22),
+    (3, 4)(5, 6),
+    (1, 2)(5, 6)
+}
+
+Klasse 33
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 9216 = 2^10 * 3^2
+    (1, 2)(5, 6)
+    (1, 5)(2, 6)
+    (1, 2)(3, 4)
+    (3, 5)(4, 6)
+    (12, 18)(19, 20)
+    (12, 19)(18, 20)
+    (1, 2)(14, 15)
+    (1, 2)(16, 17)
+    (14, 16)(15, 17)
+    (7, 9)(18, 20)
+    (7, 8)(12, 20)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 9216
+Abstrakter Gruppentyp: C2*D4*S4*S4
+Erzeuger des Stabilisators:
+{
+    (1, 2)(16, 17),
+    (10, 11)(21, 22),
+    (7, 8)(12, 20),
+    (1, 2)(3, 4),
+    (7, 9)(18, 20),
+    (3, 5)(4, 6),
+    (14, 16)(15, 17),
+    (1, 2)(14, 15),
+    (12, 19)(18, 20),
+    (1, 5)(2, 6),
+    (12, 18)(19, 20),
+    (1, 2)(5, 6)
+}
+
+Klasse 34
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 768 = 2^8 * 3
+    (1, 2)(3, 4)
+    (1, 3)(2, 4)
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (5, 6)(16, 17)
+    (1, 2)(12, 13)
+    (8, 9)(19, 20)
+    (7, 9)(18, 20)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 768
+Abstrakter Gruppentyp: C3:(C2^5.C2^3)
+SmallGroup-Kennung: <768, 1076474>
+Erzeuger des Stabilisators:
+{
+    (1, 2)(3, 4),
+    (10, 11)(21, 22),
+    (14, 15)(16, 17),
+    (8, 9)(19, 20),
+    (5, 6)(16, 17),
+    (14, 17)(15, 16),
+    (1, 2)(12, 13),
+    (7, 9)(18, 20),
+    (1, 3)(2, 4)
+}
+
+Klasse 35
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0]
+[0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 0]
+[0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1536 = 2^9 * 3
+    (3, 5)(4, 6)
+    (3, 4)(5, 6)
+    (5, 6)(16, 17)
+    (5, 6)(14, 15)
+    (14, 17)(15, 16)
+    (7, 10)(18, 21)
+    (9, 10)(20, 21)
+    (8, 9)(19, 20)
+    (1, 2)(12, 13)
+Ordnung des Stabilisators: 1536
+Abstrakter Gruppentyp: (C2^3*A4).C2^4
+Erzeuger des Stabilisators:
+{
+    (3, 5)(4, 6),
+    (5, 6)(14, 15),
+    (9, 10)(20, 21),
+    (14, 17)(15, 16),
+    (8, 9)(19, 20),
+    (3, 4)(5, 6),
+    (1, 2)(12, 13),
+    (5, 6)(16, 17),
+    (7, 10)(18, 21)
+}
+
+Klasse 36
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 4608 = 2^9 * 3^2
+    (1, 5)(2, 6)
+    (1, 2)(5, 6)
+    (3, 4)(5, 6)
+    (1, 4)(2, 3)
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+    (5, 6)(12, 13)
+    (7, 10)(18, 21)
+    (14, 15)(16, 17)
+    (14, 16)(15, 17)
+Ordnung des Stabilisators: 4608
+Abstrakter Gruppentyp: C2^3*S4^2
+Erzeuger des Stabilisators:
+{
+    (1, 2)(5, 6),
+    (7, 10)(18, 21),
+    (1, 5)(2, 6),
+    (9, 10)(20, 21),
+    (14, 16)(15, 17),
+    (14, 15)(16, 17),
+    (3, 4)(5, 6),
+    (8, 9)(19, 20),
+    (5, 6)(12, 13),
+    (1, 4)(2, 3)
+}
+
+Klasse 37
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1]
+[0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 23040 = 2^9 * 3^2 * 5
+    (3, 5)(4, 6)
+    (3, 4)(5, 6)
+    (1, 2)(5, 6)
+    (1, 3)(2, 4)
+    (7, 8)(18, 19)
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (5, 6)(14, 15)
+    (5, 6)(16, 17)
+    (14, 17)(15, 16)
+Ordnung des Stabilisators: 23040
+Abstrakter Gruppentyp: D4*S4*S5
+Erzeuger des Stabilisators:
+{
+    (3, 5)(4, 6),
+    (7, 8)(18, 19),
+    (1, 3)(2, 4),
+    (1, 2)(5, 6),
+    (5, 6)(14, 15),
+    (9, 10)(20, 21),
+    (8, 9)(19, 20),
+    (14, 17)(15, 16),
+    (10, 11)(21, 22),
+    (3, 4)(5, 6),
+    (5, 6)(16, 17)
+}
+
+Klasse 38
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 1 1 0 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 7680 = 2^9 * 3 * 5
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (5, 6)(16, 17)
+    (3, 4)(12, 13)
+    (7, 8)(18, 19)
+    (8, 9)(19, 20)
+    (9, 11)(20, 22)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 7680
+Abstrakter Gruppentyp: D4^2.S5
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (1, 2)(3, 4),
+    (10, 11)(21, 22),
+    (14, 15)(16, 17),
+    (8, 9)(19, 20),
+    (5, 6)(16, 17),
+    (14, 17)(15, 16),
+    (3, 4)(12, 13),
+    (9, 11)(20, 22),
+    (1, 3)(2, 4)
+}
+
+Klasse 39
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 3456 = 2^7 * 3^3
+    (12, 13)(14, 15)
+    (12, 15)(13, 14)
+    (1, 10)(8, 9)
+    (1, 8)(9, 10)
+    (3, 4)(12, 13)
+    (2, 3)(13, 14)
+    (8, 10)(19, 21)
+    (8, 9)(19, 20)
+    (5, 7)(16, 18)
+    (5, 6)(16, 17)
+Ordnung des Stabilisators: 3456
+Abstrakter Gruppentyp: S4^2*S3
+Erzeuger des Stabilisators:
+{
+    (1, 10)(8, 9),
+    (2, 3)(13, 14),
+    (8, 9)(19, 20),
+    (5, 6)(16, 17),
+    (5, 7)(16, 18),
+    (12, 13)(14, 15),
+    (3, 4)(12, 13),
+    (1, 8)(9, 10),
+    (12, 15)(13, 14),
+    (8, 10)(19, 21)
+}
+
+Klasse 40
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0]
+[0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 9216 = 2^10 * 3^2
+    (2, 9)(8, 10)
+    (2, 8)(9, 10)
+    (1, 6)(5, 7)
+    (1, 5)(6, 7)
+    (9, 10)(20, 21)
+    (2, 10)(19, 20)
+    (6, 7)(17, 18)
+    (1, 6)(16, 18)
+    (1, 2)(5, 8)(6, 10)(7, 9)(14, 15)(16, 19)(17, 21)(18, 20)
+    (1, 2)(5, 8)(6, 10)(7, 9)(12, 13)(16, 19)(17, 21)(18, 20)
+    (12, 14)(13, 15)
+    (1, 2)(3, 4)(5, 8)(6, 10)(7, 9)(16, 19)(17, 21)(18, 20)
+Ordnung des Stabilisators: 9216
+Abstrakter Gruppentyp: A4^2.D4^2
+Erzeuger des Stabilisators:
+{
+    (1, 6)(5, 7),
+    (1, 2)(3, 4)(5, 8)(6, 10)(7, 9)(16, 19)(17, 21)(18, 20),
+    (6, 7)(17, 18),
+    (1, 5)(6, 7),
+    (2, 8)(9, 10),
+    (12, 14)(13, 15),
+    (9, 10)(20, 21),
+    (1, 2)(5, 8)(6, 10)(7, 9)(12, 13)(16, 19)(17, 21)(18, 20),
+    (2, 10)(19, 20),
+    (1, 6)(16, 18),
+    (2, 9)(8, 10),
+    (1, 2)(5, 8)(6, 10)(7, 9)(14, 15)(16, 19)(17, 21)(18, 20)
+}
+
+Klasse 41
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 1 0]
+[0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 0 0 1 0]
+[0 0 1 0 0 0 0 0 0 1 0 0 1 0 1 1 1 1 0 0 1 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 1 0 0 1 1 0 0 1 1 1 1 0 0]
+[0 0 0 0 0 1 0 0 0 1 0 0 1 1 0 1 0 1 1 1 0 0]
+[0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 1 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 576 = 2^6 * 3^2
+    (12, 13)(14, 15)
+    (12, 14)(13, 15)
+    (5, 7)(16, 18)
+    (5, 6)(16, 17)
+    (9, 10)(20, 21)
+    (2, 3)(12, 15)
+    (8, 10)(19, 21)
+    (1, 4)(5, 10)(6, 8)(7, 9)(12, 15)(16, 21)(17, 19)(18, 20)
+Ordnung des Stabilisators: 576
+Abstrakter Gruppentyp: D6^2.C2^2
+SmallGroup-Kennung: <576, 8399>
+Erzeuger des Stabilisators:
+{
+    (8, 10)(19, 21),
+    (9, 10)(20, 21),
+    (2, 3)(12, 15),
+    (1, 4)(5, 10)(6, 8)(7, 9)(12, 15)(16, 21)(17, 19)(18, 20),
+    (5, 7)(16, 18),
+    (12, 13)(14, 15),
+    (12, 14)(13, 15),
+    (5, 6)(16, 17)
+}
+
+Klasse 42
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 0 1 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 0 0 1 1 1 1 0]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 384 = 2^7 * 3
+    (1, 5)(6, 7)
+    (1, 6)(5, 7)
+    (12, 13)(14, 15)
+    (12, 14)(13, 15)
+    (3, 4)(12, 13)
+    (8, 10)(19, 21)
+    (1, 5)(17, 18)
+    (9, 10)(20, 21)
+Ordnung des Stabilisators: 384
+Abstrakter Gruppentyp: C3:(C2^4.C2^3)
+SmallGroup-Kennung: <384, 19195>
+Erzeuger des Stabilisators:
+{
+    (1, 6)(5, 7),
+    (8, 10)(19, 21),
+    (1, 5)(17, 18),
+    (9, 10)(20, 21),
+    (1, 5)(6, 7),
+    (12, 13)(14, 15),
+    (12, 14)(13, 15),
+    (3, 4)(12, 13)
+}
+
+Klasse 43
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 1 0 0]
+[0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 1 1 1 1 0 0]
+[0 0 1 0 0 0 0 0 0 1 0 0 1 0 1 0 1 1 1 1 0 0]
+[0 0 0 1 0 0 0 0 0 1 0 0 1 1 0 0 1 1 1 1 0 0]
+[0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 9216 = 2^10 * 3^2
+    (16, 21)(19, 20)
+    (16, 19)(20, 21)
+    (12, 13)(14, 15)
+    (12, 14)(13, 15)
+    (9, 10)(20, 21)
+    (8, 10)(19, 21)
+    (2, 4)(13, 15)
+    (3, 4)(12, 13)
+    (2, 9)(3, 8)(4, 10)(6, 7)(12, 19)(13, 21)(14, 16)(15, 20)
+    (1, 5)(2, 9)(3, 8)(4, 10)(12, 19)(13, 21)(14, 16)(15, 20)
+    (1, 7)(5, 6)
+    (2, 9)(3, 8)(4, 10)(12, 19)(13, 21)(14, 16)(15, 20)(17, 18)
+Ordnung des Stabilisators: 9216
+Abstrakter Gruppentyp: A4^2.D4^2
+Erzeuger des Stabilisators:
+{
+    (1, 7)(5, 6),
+    (9, 10)(20, 21),
+    (16, 21)(19, 20),
+    (12, 14)(13, 15),
+    (16, 19)(20, 21),
+    (2, 9)(3, 8)(4, 10)(6, 7)(12, 19)(13, 21)(14, 16)(15, 20),
+    (12, 13)(14, 15),
+    (3, 4)(12, 13),
+    (1, 5)(2, 9)(3, 8)(4, 10)(12, 19)(13, 21)(14, 16)(15, 20),
+    (8, 10)(19, 21),
+    (2, 9)(3, 8)(4, 10)(12, 19)(13, 21)(14, 16)(15, 20)(17, 18),
+    (2, 4)(13, 15)
+}
+
+Klasse 44
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 55296 = 2^11 * 3^3
+    (1, 5)(6, 7)
+    (1, 7)(5, 6)
+    (3, 4)(12, 13)
+    (2, 4)(13, 15)
+    (5, 6)(16, 17)
+    (1, 5)(17, 18)
+    (3, 4)(14, 15)
+    (8, 11)(9, 10)
+    (8, 9)(10, 11)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (9, 10)(19, 22)
+Ordnung des Stabilisators: 55296
+Abstrakter Gruppentyp: S4^2*C2^2:S4
+Erzeuger des Stabilisators:
+{
+    (3, 4)(14, 15),
+    (8, 9)(10, 11),
+    (10, 11)(21, 22),
+    (9, 10)(19, 22),
+    (1, 5)(17, 18),
+    (1, 7)(5, 6),
+    (1, 5)(6, 7),
+    (2, 4)(13, 15),
+    (3, 4)(12, 13),
+    (9, 10)(20, 21),
+    (8, 11)(9, 10),
+    (5, 6)(16, 17)
+}
+
+Klasse 45
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 0 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 1 0 0 1 1 1 0 0 1 1 1 0]
+[0 0 0 0 0 1 0 0 0 0 1 0 0 1 1 0 1 0 1 1 1 0]
+[0 0 0 0 0 0 1 0 0 0 1 0 0 1 1 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1152 = 2^7 * 3^2
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (12, 13)(14, 15)
+    (12, 15)(13, 14)
+    (6, 7)(17, 18)
+    (5, 7)(16, 18)
+    (3, 4)(12, 13)
+Ordnung des Stabilisators: 1152
+Abstrakter Gruppentyp: C2^2.D6^2.C2
+Erzeuger des Stabilisators:
+{
+    (12, 15)(13, 14),
+    (9, 10)(20, 21),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (5, 7)(16, 18),
+    (12, 13)(14, 15),
+    (6, 7)(17, 18),
+    (3, 4)(12, 13)
+}
+
+Klasse 46
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 4608 = 2^9 * 3^2
+    (12, 13)(14, 15)
+    (12, 14)(13, 15)
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (1, 5)(6, 7)
+    (1, 7)(5, 6)
+    (1, 6)(16, 18)
+    (1, 5)(17, 18)
+    (2, 3)(12, 15)
+Ordnung des Stabilisators: 4608
+Abstrakter Gruppentyp: D4*S4^2
+Erzeuger des Stabilisators:
+{
+    (10, 11)(21, 22),
+    (1, 5)(17, 18),
+    (1, 7)(5, 6),
+    (12, 13)(14, 15),
+    (1, 5)(6, 7),
+    (8, 9)(19, 20),
+    (12, 14)(13, 15),
+    (9, 10)(20, 21),
+    (1, 6)(16, 18),
+    (2, 3)(12, 15)
+}
+
+Klasse 47
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 0 1]
+[0 0 1 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0 0 0 1]
+[0 0 0 1 0 0 0 0 0 0 1 0 1 1 0 1 1 1 0 0 0 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 3456 = 2^7 * 3^3
+    (8, 9)(19, 20)
+    (8, 11)(19, 22)
+    (10, 11)(21, 22)
+    (12, 13)(14, 15)
+    (12, 14)(13, 15)
+    (2, 3)(12, 15)
+    (3, 4)(12, 13)
+    (5, 6)(16, 17)
+    (6, 7)(17, 18)
+Ordnung des Stabilisators: 3456
+Abstrakter Gruppentyp: S4^2*S3
+Erzeuger des Stabilisators:
+{
+    (10, 11)(21, 22),
+    (6, 7)(17, 18),
+    (8, 9)(19, 20),
+    (12, 14)(13, 15),
+    (5, 6)(16, 17),
+    (8, 11)(19, 22),
+    (12, 13)(14, 15),
+    (3, 4)(12, 13),
+    (2, 3)(12, 15)
+}
+
+Klasse 48
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 4608 = 2^9 * 3^2
+    (12, 13)(14, 15)
+    (12, 14)(13, 15)
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (1, 7)(5, 6)
+    (1, 5)(6, 7)
+    (2, 3)(12, 15)
+    (3, 4)(12, 13)
+    (6, 7)(17, 18)
+Ordnung des Stabilisators: 4608
+Abstrakter Gruppentyp: A4^2.C2^4.C2
+Erzeuger des Stabilisators:
+{
+    (1, 7)(5, 6),
+    (9, 10)(20, 21),
+    (10, 11)(21, 22),
+    (6, 7)(17, 18),
+    (8, 9)(19, 20),
+    (12, 14)(13, 15),
+    (12, 13)(14, 15),
+    (3, 4)(12, 13),
+    (1, 5)(6, 7),
+    (2, 3)(12, 15)
+}
+
+Klasse 49
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1]
+[0 1 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 0 1]
+[0 0 1 0 0 0 0 0 0 0 1 0 0 1 1 1 0 0 1 1 1 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1]
+[0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 1 0 0 0 1]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1536 = 2^9 * 3
+    (12, 14)(13, 15)
+    (12, 13)(14, 15)
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (1, 7)(5, 6)
+    (1, 5)(6, 7)
+    (2, 3)(12, 15)
+    (6, 7)(17, 18)
+Ordnung des Stabilisators: 1536
+Abstrakter Gruppentyp: A4.C2^5.C2^2
+Erzeuger des Stabilisators:
+{
+    (1, 7)(5, 6),
+    (9, 10)(20, 21),
+    (8, 9)(19, 20),
+    (1, 5)(6, 7),
+    (10, 11)(21, 22),
+    (2, 3)(12, 15),
+    (12, 14)(13, 15),
+    (12, 13)(14, 15),
+    (6, 7)(17, 18)
+}
+
+Klasse 50
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 1 1 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 648 = 2^3 * 3^4
+    (9, 10)(20, 21)
+    (8, 10)(19, 21)
+    (3, 4)(14, 15)
+    (2, 3)(12, 15)
+    (5, 6)(16, 17)
+    (5, 7)(16, 18)
+    (2, 8, 7)(3, 10, 5)(4, 9, 6)(12, 19, 18)(14, 20, 17)(15, 21, 16)
+Ordnung des Stabilisators: 648
+Abstrakter Gruppentyp: S3wrC3
+SmallGroup-Kennung: <648, 705>
+Erzeuger des Stabilisators:
+{
+    (8, 10)(19, 21),
+    (9, 10)(20, 21),
+    (2, 8, 7)(3, 10, 5)(4, 9, 6)(12, 19, 18)(14, 20, 17)(15, 21, 16),
+    (2, 3)(12, 15),
+    (5, 7)(16, 18),
+    (3, 4)(14, 15),
+    (5, 6)(16, 17)
+}
+
+Klasse 51
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 1 1 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 0]
+[0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 1 0 1 1 1 0]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1 1 1 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 576 = 2^6 * 3^2
+    (1, 6)(5, 7)
+    (1, 5)(6, 7)
+    (3, 4)(14, 15)
+    (2, 4)(13, 15)
+    (8, 10)(19, 21)
+    (6, 7)(17, 18)
+    (8, 9)(19, 20)
+    (2, 9)(3, 10)(4, 8)(6, 7)(12, 16)(13, 20)(14, 21)(15, 19)
+Ordnung des Stabilisators: 576
+Abstrakter Gruppentyp: D6^2.C2^2
+SmallGroup-Kennung: <576, 8399>
+Erzeuger des Stabilisators:
+{
+    (3, 4)(14, 15),
+    (6, 7)(17, 18),
+    (8, 9)(19, 20),
+    (2, 9)(3, 10)(4, 8)(6, 7)(12, 16)(13, 20)(14, 21)(15, 19),
+    (8, 10)(19, 21),
+    (1, 6)(5, 7),
+    (2, 4)(13, 15),
+    (1, 5)(6, 7)
+}
+
+Klasse 52
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 864 = 2^5 * 3^3
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (8, 11)(19, 22)
+    (5, 6)(16, 17)
+    (5, 7)(16, 18)
+    (3, 4)(14, 15)
+    (2, 4)(13, 15)
+Ordnung des Stabilisators: 864
+Abstrakter Gruppentyp: S4*S3^2
+SmallGroup-Kennung: <864, 4673>
+Erzeuger des Stabilisators:
+{
+    (9, 10)(20, 21),
+    (8, 11)(19, 22),
+    (10, 11)(21, 22),
+    (5, 7)(16, 18),
+    (2, 4)(13, 15),
+    (3, 4)(14, 15),
+    (5, 6)(16, 17)
+}
+
+Klasse 53
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1]
+[0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 1 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 3456 = 2^7 * 3^3
+    (9, 11)(20, 22)
+    (8, 9)(19, 20)
+    (8, 10)(19, 21)
+    (1, 5)(6, 7)
+    (1, 6)(5, 7)
+    (2, 3)(12, 15)
+    (2, 4)(12, 14)
+    (1, 7)(16, 17)
+    (1, 5)(17, 18)
+Ordnung des Stabilisators: 3456
+Abstrakter Gruppentyp: S4^2*S3
+Erzeuger des Stabilisators:
+{
+    (2, 4)(12, 14),
+    (8, 9)(19, 20),
+    (1, 7)(16, 17),
+    (9, 11)(20, 22),
+    (8, 10)(19, 21),
+    (1, 6)(5, 7),
+    (2, 3)(12, 15),
+    (1, 5)(6, 7),
+    (1, 5)(17, 18)
+}
+
+Klasse 54
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 1 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1152 = 2^7 * 3^2
+    (8, 10)(19, 21)
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+    (1, 5)(6, 7)
+    (1, 6)(5, 7)
+    (3, 4)(14, 15)
+    (2, 3)(12, 15)
+    (1, 5)(17, 18)
+Ordnung des Stabilisators: 1152
+Abstrakter Gruppentyp: C2^2.D6^2.C2
+Erzeuger des Stabilisators:
+{
+    (8, 10)(19, 21),
+    (1, 6)(5, 7),
+    (1, 5)(17, 18),
+    (1, 5)(6, 7),
+    (10, 11)(21, 22),
+    (2, 3)(12, 15),
+    (3, 4)(14, 15),
+    (9, 11)(20, 22)
+}
+
+Klasse 55
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1 1 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 1 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 1 0 0 0 0 0 1 1 0 1 0 1 1 1 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 4096 = 2^12
+    (5, 6)(7, 8)
+    (5, 7)(6, 8)
+    (1, 4)(2, 3)
+    (1, 2)(3, 4)
+    (3, 4)(14, 15)
+    (3, 4)(12, 13)
+    (12, 14)(13, 15)
+    (5, 6)(16, 17)
+    (5, 6)(18, 19)
+    (16, 19)(17, 18)
+    (1, 7)(2, 8)(3, 6)(4, 5)(12, 18)(13, 19)(14, 17)(15, 16)
+    (9, 10)(20, 21)
+Ordnung des Stabilisators: 4096
+Abstrakter Gruppentyp: C2*C2^5.C2^5.C2
+Erzeuger des Stabilisators:
+{
+    (3, 4)(14, 15),
+    (5, 6)(18, 19),
+    (1, 2)(3, 4),
+    (1, 7)(2, 8)(3, 6)(4, 5)(12, 18)(13, 19)(14, 17)(15, 16),
+    (12, 14)(13, 15),
+    (3, 4)(12, 13),
+    (9, 10)(20, 21),
+    (5, 7)(6, 8),
+    (5, 6)(7, 8),
+    (5, 6)(16, 17),
+    (16, 19)(17, 18),
+    (1, 4)(2, 3)
+}
+
+Klasse 56
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1]
+[0 1 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 1 0 0 1 1 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 1 0 0 0 1 0 0 1 1 0 1 0 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 4608 = 2^9 * 3^2
+    (16, 19)(17, 18)
+    (16, 17)(18, 19)
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (3, 4)(12, 13)
+    (3, 4)(14, 15)
+    (12, 15)(13, 14)
+    (7, 8)(18, 19)
+    (6, 8)(17, 19)
+    (9, 11)(20, 22)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 4608
+Abstrakter Gruppentyp: (C2*C6*A4).C2^5
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (3, 4)(14, 15),
+    (1, 2)(3, 4),
+    (10, 11)(21, 22),
+    (16, 17)(18, 19),
+    (6, 8)(17, 19),
+    (16, 19)(17, 18),
+    (3, 4)(12, 13),
+    (9, 11)(20, 22),
+    (12, 15)(13, 14),
+    (1, 3)(2, 4)
+}
+
+Klasse 57
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 1 1 1 1]
+[0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 1 0 1 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 4608 = 2^9 * 3^2
+    (5, 6)(7, 8)
+    (5, 8)(6, 7)
+    (5, 6)(18, 19)
+    (5, 6)(16, 17)
+    (16, 18)(17, 19)
+    (1, 4)(2, 3)
+    (1, 2)(3, 4)
+    (9, 11)(20, 22)
+    (10, 11)(21, 22)
+    (2, 4)(13, 15)
+    (3, 4)(14, 15)
+Ordnung des Stabilisators: 4608
+Abstrakter Gruppentyp: (C2*C6*A4).C2^5
+Erzeuger des Stabilisators:
+{
+    (5, 8)(6, 7),
+    (5, 6)(18, 19),
+    (1, 2)(3, 4),
+    (5, 6)(7, 8),
+    (10, 11)(21, 22),
+    (3, 4)(14, 15),
+    (16, 18)(17, 19),
+    (5, 6)(16, 17),
+    (9, 11)(20, 22),
+    (1, 4)(2, 3),
+    (2, 4)(13, 15)
+}
+
+Klasse 58
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1 1 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 1 0 0 1 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 384 = 2^7 * 3
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (7, 8)(18, 19)
+    (5, 6)(16, 17)
+    (9, 10)(20, 21)
+    (1, 4, 3)(5, 9, 8)(6, 10, 7)(12, 13, 15)(16, 20, 19)(17, 21, 18)
+    (12, 14)(13, 15)
+Ordnung des Stabilisators: 384
+Abstrakter Gruppentyp: C2^6.C6
+SmallGroup-Kennung: <384, 20165>
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (1, 3)(2, 4),
+    (9, 10)(20, 21),
+    (1, 2)(3, 4),
+    (12, 14)(13, 15),
+    (5, 6)(16, 17),
+    (1, 4, 3)(5, 9, 8)(6, 10, 7)(12, 13, 15)(16, 20, 19)(17, 21, 18)
+}
+
+Klasse 59
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1152 = 2^7 * 3^2
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (3, 4)(14, 15)
+    (3, 4)(12, 13)
+    (12, 14)(13, 15)
+    (10, 11)(21, 22)
+    (9, 10)(20, 21)
+    (6, 7)(17, 18)
+    (7, 8)(18, 19)
+Ordnung des Stabilisators: 1152
+Abstrakter Gruppentyp: C6^2.C2^5
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (1, 3)(2, 4),
+    (9, 10)(20, 21),
+    (10, 11)(21, 22),
+    (1, 2)(3, 4),
+    (3, 4)(14, 15),
+    (12, 14)(13, 15),
+    (3, 4)(12, 13),
+    (6, 7)(17, 18)
+}
+
+Klasse 60
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1152 = 2^7 * 3^2
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (7, 8)(18, 19)
+    (6, 8)(17, 19)
+    (1, 4)(6, 11)(7, 9)(8, 10)(12, 15)(17, 22)(18, 20)(19, 21)
+    (1, 4)(6, 11)(7, 9)(8, 10)(13, 14)(17, 22)(18, 20)(19, 21)
+    (12, 13)(14, 15)
+Ordnung des Stabilisators: 1152
+Abstrakter Gruppentyp: (C2^3*S3^2).C2^2
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (1, 3)(2, 4),
+    (1, 4)(6, 11)(7, 9)(8, 10)(12, 15)(17, 22)(18, 20)(19, 21),
+    (6, 8)(17, 19),
+    (9, 10)(20, 21),
+    (1, 4)(6, 11)(7, 9)(8, 10)(13, 14)(17, 22)(18, 20)(19, 21),
+    (10, 11)(21, 22),
+    (1, 2)(3, 4),
+    (12, 13)(14, 15)
+}
+
+Klasse 61
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 1 1 0]
+[0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 1 1 0]
+[0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 1 1 1 1 0]
+[0 0 0 0 1 0 0 0 0 0 1 0 0 1 1 0 1 1 1 0 0 1]
+[0 0 0 0 0 1 0 0 0 0 1 0 0 1 1 1 0 1 1 0 0 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 192 = 2^6 * 3
+    (12, 15)(13, 14)
+    (12, 13)(14, 15)
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+    (7, 8)(18, 19)
+    (3, 4)(14, 15)
+    (5, 6)(16, 17)
+Ordnung des Stabilisators: 192
+Abstrakter Gruppentyp: C2^2*S3*D4
+SmallGroup-Kennung: <192, 1514>
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (12, 15)(13, 14),
+    (10, 11)(21, 22),
+    (12, 13)(14, 15),
+    (3, 4)(14, 15),
+    (9, 11)(20, 22),
+    (5, 6)(16, 17)
+}
+
+Klasse 62
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 1]
+[0 0 0 0 1 0 0 0 0 0 1 0 0 1 1 0 1 1 1 0 0 1]
+[0 0 0 0 0 1 0 0 0 0 1 0 0 1 1 1 0 1 1 0 0 1]
+[0 0 0 0 0 0 1 0 0 0 1 0 0 1 1 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1152 = 2^7 * 3^2
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+    (5, 6)(16, 17)
+    (6, 7)(17, 18)
+    (1, 3)(5, 10)(6, 11)(7, 9)(13, 15)(16, 21)(17, 22)(18, 20)
+    (1, 3)(5, 10)(6, 11)(7, 9)(12, 14)(16, 21)(17, 22)(18, 20)
+    (12, 13)(14, 15)
+Ordnung des Stabilisators: 1152
+Abstrakter Gruppentyp: (C2^3*S3^2).C2^2
+Erzeuger des Stabilisators:
+{
+    (10, 11)(21, 22),
+    (6, 7)(17, 18),
+    (1, 2)(3, 4),
+    (5, 6)(16, 17),
+    (1, 3)(5, 10)(6, 11)(7, 9)(12, 14)(16, 21)(17, 22)(18, 20),
+    (12, 13)(14, 15),
+    (1, 3)(5, 10)(6, 11)(7, 9)(13, 15)(16, 21)(17, 22)(18, 20),
+    (9, 11)(20, 22),
+    (1, 3)(2, 4)
+}
+
+Klasse 63
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 1 0 1 1 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 320 = 2^6 * 5
+    (3, 4)(14, 15)
+    (5, 6)(16, 17)
+    (1, 2)(12, 13)
+    (9, 10)(20, 21)
+    (1, 10)(2, 9)(3, 5)(4, 6)(12, 21)(13, 20)(14, 16)(15, 17)
+    (7, 8)(18, 19)
+    (1, 5)(2, 6)(7, 10)(8, 9)(12, 17)(13, 16)(18, 20)(19, 21)
+Ordnung des Stabilisators: 320
+Abstrakter Gruppentyp: C2*C2^4:D5
+SmallGroup-Kennung: <320, 1636>
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (9, 10)(20, 21),
+    (1, 5)(2, 6)(7, 10)(8, 9)(12, 17)(13, 16)(18, 20)(19, 21),
+    (1, 10)(2, 9)(3, 5)(4, 6)(12, 21)(13, 20)(14, 16)(15, 17),
+    (1, 2)(12, 13),
+    (3, 4)(14, 15),
+    (5, 6)(16, 17)
+}
+
+Klasse 64
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 1 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 144 = 2^4 * 3^2
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+    (7, 8)(18, 19)
+    (6, 8)(17, 19)
+    (3, 4)(14, 15)
+    (1, 2)(12, 13)
+Ordnung des Stabilisators: 144
+Abstrakter Gruppentyp: D6^2
+SmallGroup-Kennung: <144, 192>
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (6, 8)(17, 19),
+    (10, 11)(21, 22),
+    (1, 2)(12, 13),
+    (3, 4)(14, 15),
+    (9, 11)(20, 22)
+}
+
+Klasse 65
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 1 0 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 192 = 2^6 * 3
+    (1, 4)(2, 3)
+    (1, 2)(3, 4)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (7, 8)(18, 19)
+    (3, 4)(14, 15)
+    (5, 6)(16, 17)
+Ordnung des Stabilisators: 192
+Abstrakter Gruppentyp: C2^2*S3*D4
+SmallGroup-Kennung: <192, 1514>
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (1, 4)(2, 3),
+    (9, 10)(20, 21),
+    (10, 11)(21, 22),
+    (1, 2)(3, 4),
+    (3, 4)(14, 15),
+    (5, 6)(16, 17)
+}
+
+Klasse 66
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 1 1]
+[0 1 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 1 1 0 0 1 1 1]
+[0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 1 1 1]
+[0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 1 1 0 1 1]
+[0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 1 1 1 0 1 1]
+[0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 288 = 2^5 * 3^2
+    (8, 9)(19, 20)
+    (7, 9)(18, 20)
+    (3, 4)(14, 15)
+    (2, 4)(13, 15)
+    (10, 11)(21, 22)
+    (2, 7)(3, 8)(4, 9)(5, 6)(10, 11)(13, 18)(14, 19)(15, 20)
+    (2, 7)(3, 8)(4, 9)(10, 11)(13, 18)(14, 19)(15, 20)(16, 17)
+Ordnung des Stabilisators: 288
+Abstrakter Gruppentyp: C2^2*S3wrC2
+SmallGroup-Kennung: <288, 1031>
+Erzeuger des Stabilisators:
+{
+    (2, 7)(3, 8)(4, 9)(5, 6)(10, 11)(13, 18)(14, 19)(15, 20),
+    (7, 9)(18, 20),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (2, 7)(3, 8)(4, 9)(10, 11)(13, 18)(14, 19)(15, 20)(16, 17),
+    (2, 4)(13, 15),
+    (3, 4)(14, 15)
+}
+
+Klasse 67
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 1 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1 0 1 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 1 1 1 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 64 = 2^6
+    (5, 6)(16, 17)
+    (8, 9)(19, 20)
+    (1, 2)(12, 13)
+    (10, 11)(21, 22)
+    (1, 8)(2, 9)(5, 10)(6, 11)(12, 19)(13, 20)(16, 21)(17, 22)
+    (1, 5, 8, 10)(2, 6, 9, 11)(3, 7)(12, 16, 19, 21)(13, 17, 20, 22)(14, 18)
+Ordnung des Stabilisators: 64
+Abstrakter Gruppentyp: C2wrC4
+SmallGroup-Kennung: <64, 32>
+Erzeuger des Stabilisators:
+{
+    (1, 8)(2, 9)(5, 10)(6, 11)(12, 19)(13, 20)(16, 21)(17, 22),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (1, 2)(12, 13),
+    (5, 6)(16, 17),
+    (1, 5, 8, 10)(2, 6, 9, 11)(3, 7)(12, 16, 19, 21)(13, 17, 20, 22)(14, 18)
+}
+
+Klasse 68
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 1 0 1]
+[0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 1 1 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1]
+[0 0 0 1 0 0 0 0 0 0 1 0 0 1 1 0 1 1 1 0 1 0]
+[0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 1 1 1 1 0 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 1 1]
+[0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 1 1 0 1 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 384 = 2^7 * 3
+    (7, 8)(18, 19)
+    (10, 11)(21, 22)
+    (4, 5)(15, 16)
+    (1, 2)(12, 13)
+    (1, 5)(2, 4)(7, 10)(8, 11)(12, 16)(13, 15)(18, 21)(19, 22)
+    (1, 11)(2, 10)(4, 7)(5, 8)(12, 22)(13, 21)(15, 18)(16, 19)
+    (1, 2)(3, 6)(4, 8)(5, 7)(10, 11)(14, 20)(15, 18)(16, 19)
+    (1, 2)(4, 11)(5, 10)(6, 9)(7, 8)(14, 17)(15, 21)(16, 22)
+Ordnung des Stabilisators: 384
+Abstrakter Gruppentyp: C2wrA4.C2
+SmallGroup-Kennung: <384, 5602>
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (1, 5)(2, 4)(7, 10)(8, 11)(12, 16)(13, 15)(18, 21)(19, 22),
+    (1, 11)(2, 10)(4, 7)(5, 8)(12, 22)(13, 21)(15, 18)(16, 19),
+    (10, 11)(21, 22),
+    (4, 5)(15, 16),
+    (1, 2)(3, 6)(4, 8)(5, 7)(10, 11)(14, 20)(15, 18)(16, 19),
+    (1, 2)(12, 13),
+    (1, 2)(4, 11)(5, 10)(6, 9)(7, 8)(14, 17)(15, 21)(16, 22)
+}
+
+Klasse 69
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 10838016 = 2^13 * 3^3 * 7^2
+    (3, 4)(5, 6)
+    (3, 6)(4, 5)
+    (2, 7)(4, 5)
+    (2, 3)(6, 7)
+    (3, 4)(7, 8)
+    (1, 8)(4, 5)
+    (13, 15)(16, 18)
+    (13, 18)(15, 16)
+    (13, 16)(14, 19)
+    (14, 15)(18, 19)
+    (12, 19)(15, 16)
+    (12, 17)(13, 16)
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+Ordnung des Stabilisators: 10838016
+Abstrakter Gruppentyp: (C2^3.PSL(2,7))^2*S3
+Erzeuger des Stabilisators:
+{
+    (14, 15)(18, 19),
+    (10, 11)(21, 22),
+    (2, 7)(4, 5),
+    (13, 15)(16, 18),
+    (9, 11)(20, 22),
+    (3, 6)(4, 5),
+    (1, 8)(4, 5),
+    (12, 17)(13, 16),
+    (13, 18)(15, 16),
+    (2, 3)(6, 7),
+    (12, 19)(15, 16),
+    (3, 4)(5, 6),
+    (13, 16)(14, 19),
+    (3, 4)(7, 8)
+}
+
+Klasse 70
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 0]
+[0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 1 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 129024 = 2^11 * 3^2 * 7
+    (1, 5)(2, 6)
+    (1, 2)(5, 6)
+    (5, 6)(8, 9)
+    (1, 8)(2, 9)
+    (3, 4)(5, 6)
+    (3, 8)(4, 9)
+    (12, 17)(15, 18)
+    (12, 15)(17, 18)
+    (12, 17)(13, 16)
+    (13, 15)(16, 18)
+    (13, 14)(17, 18)
+    (10, 11)(21, 22)
+    (5, 6)(19, 20)
+Ordnung des Stabilisators: 129024
+Abstrakter Gruppentyp: C2*C2^3:S4.C2*PSL(2,7)
+Erzeuger des Stabilisators:
+{
+    (10, 11)(21, 22),
+    (13, 15)(16, 18),
+    (12, 17)(15, 18),
+    (13, 14)(17, 18),
+    (1, 8)(2, 9),
+    (12, 15)(17, 18),
+    (3, 8)(4, 9),
+    (12, 17)(13, 16),
+    (5, 6)(19, 20),
+    (1, 5)(2, 6),
+    (3, 4)(5, 6),
+    (1, 2)(5, 6),
+    (5, 6)(8, 9)
+}
+
+Klasse 71
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0]
+[0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0]
+[0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0]
+[0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 96768 = 2^9 * 3^3 * 7
+    (12, 17)(13, 16)
+    (12, 13)(16, 17)
+    (13, 17)(14, 18)
+    (12, 14)(16, 18)
+    (14, 15)(16, 17)
+    (2, 4)(5, 7)
+    (2, 5)(4, 7)
+    (2, 7)(3, 6)
+    (3, 4)(5, 6)
+    (9, 10)(20, 21)
+    (8, 10)(19, 21)
+    (1, 8)(20, 21)
+Ordnung des Stabilisators: 96768
+Abstrakter Gruppentyp: PSL(2,7)*S4^2
+Erzeuger des Stabilisators:
+{
+    (1, 8)(20, 21),
+    (2, 7)(3, 6),
+    (9, 10)(20, 21),
+    (14, 15)(16, 17),
+    (3, 4)(5, 6),
+    (2, 5)(4, 7),
+    (12, 17)(13, 16),
+    (12, 13)(16, 17),
+    (12, 14)(16, 18),
+    (8, 10)(19, 21),
+    (13, 17)(14, 18),
+    (2, 4)(5, 7)
+}
+
+Klasse 72
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0]
+[0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 169344 = 2^7 * 3^3 * 7^2
+    (1, 4)(6, 7)
+    (1, 7)(4, 6)
+    (3, 5)(4, 6)
+    (1, 5)(3, 7)
+    (1, 4)(2, 3)
+    (13, 14)(17, 18)
+    (13, 18)(14, 17)
+    (12, 16)(13, 17)
+    (12, 18)(14, 16)
+    (12, 15)(13, 14)
+    (9, 10)(20, 21)
+    (8, 10)(19, 21)
+Ordnung des Stabilisators: 169344
+Abstrakter Gruppentyp: PSL(2,7)^2*S3
+Erzeuger des Stabilisators:
+{
+    (12, 15)(13, 14),
+    (8, 10)(19, 21),
+    (13, 14)(17, 18),
+    (3, 5)(4, 6),
+    (1, 4)(6, 7),
+    (12, 16)(13, 17),
+    (9, 10)(20, 21),
+    (1, 7)(4, 6),
+    (1, 5)(3, 7),
+    (12, 18)(14, 16),
+    (13, 18)(14, 17),
+    (1, 4)(2, 3)
+}
+
+Klasse 73
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 2709504 = 2^11 * 3^3 * 7^2
+    (3, 4)(5, 6)
+    (3, 6)(4, 5)
+    (2, 7)(4, 5)
+    (2, 3)(6, 7)
+    (1, 7)(3, 5)
+    (12, 15)(13, 14)
+    (12, 13)(14, 15)
+    (13, 14)(17, 18)
+    (12, 18)(15, 17)
+    (13, 15)(16, 18)
+    (8, 10)(9, 11)
+    (8, 9)(10, 11)
+    (8, 11)(20, 21)
+    (10, 11)(21, 22)
+    (8, 11)(19, 22)
+Ordnung des Stabilisators: 2709504
+Abstrakter Gruppentyp: PSL(2,7)^2*C2^2:S4
+Erzeuger des Stabilisators:
+{
+    (12, 15)(13, 14),
+    (8, 9)(10, 11),
+    (10, 11)(21, 22),
+    (2, 7)(4, 5),
+    (13, 15)(16, 18),
+    (12, 13)(14, 15),
+    (13, 14)(17, 18),
+    (12, 18)(15, 17),
+    (8, 11)(20, 21),
+    (1, 7)(3, 5),
+    (8, 10)(9, 11),
+    (3, 6)(4, 5),
+    (8, 11)(19, 22),
+    (2, 3)(6, 7),
+    (3, 4)(5, 6)
+}
+
+Klasse 74
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1]
+[0 1 0 1 0 1 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 1]
+[0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0]
+[0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0]
+[0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 96768 = 2^9 * 3^3 * 7
+    (13, 17)(14, 18)
+    (13, 14)(17, 18)
+    (12, 15)(17, 18)
+    (12, 13)(14, 15)
+    (13, 18)(15, 16)
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (3, 4)(5, 6)
+    (1, 5)(2, 6)
+    (8, 11)(19, 22)
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+Ordnung des Stabilisators: 96768
+Abstrakter Gruppentyp: PSL(2,7)*S4^2
+Erzeuger des Stabilisators:
+{
+    (12, 13)(14, 15),
+    (13, 14)(17, 18),
+    (1, 2)(3, 4),
+    (12, 15)(17, 18),
+    (8, 9)(19, 20),
+    (1, 3)(2, 4),
+    (8, 11)(19, 22),
+    (9, 10)(20, 21),
+    (13, 18)(15, 16),
+    (3, 4)(5, 6),
+    (13, 17)(14, 18),
+    (1, 5)(2, 6)
+}
+
+Klasse 75
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 129024 = 2^11 * 3^2 * 7
+    (13, 18)(14, 17)
+    (13, 14)(17, 18)
+    (14, 17)(19, 20)
+    (13, 20)(18, 19)
+    (14, 17)(15, 16)
+    (15, 19)(16, 20)
+    (1, 5)(2, 6)
+    (1, 2)(5, 6)
+    (1, 5)(3, 7)
+    (2, 7)(3, 6)
+    (1, 6)(4, 7)
+    (8, 9)(14, 17)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 129024
+Abstrakter Gruppentyp: C2*C2^3:S4.C2*PSL(2,7)
+Erzeuger des Stabilisators:
+{
+    (10, 11)(21, 22),
+    (13, 14)(17, 18),
+    (14, 17)(15, 16),
+    (8, 9)(14, 17),
+    (2, 7)(3, 6),
+    (1, 6)(4, 7),
+    (15, 19)(16, 20),
+    (1, 5)(3, 7),
+    (13, 20)(18, 19),
+    (14, 17)(19, 20),
+    (13, 18)(14, 17),
+    (1, 5)(2, 6),
+    (1, 2)(5, 6)
+}
+
+Klasse 76
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 96768 = 2^9 * 3^3 * 7
+    (1, 2)(3, 4)
+    (1, 3)(2, 4)
+    (1, 4)(6, 7)
+    (2, 7)(3, 6)
+    (1, 2)(5, 6)
+    (13, 17)(14, 18)
+    (13, 14)(17, 18)
+    (13, 18)(15, 16)
+    (14, 16)(15, 17)
+    (9, 10)(12, 19)
+    (8, 9)(12, 21)
+    (9, 10)(20, 21)
+Ordnung des Stabilisators: 96768
+Abstrakter Gruppentyp: PSL(2,7)*S4^2
+Erzeuger des Stabilisators:
+{
+    (8, 9)(12, 21),
+    (1, 2)(3, 4),
+    (13, 14)(17, 18),
+    (1, 4)(6, 7),
+    (1, 3)(2, 4),
+    (2, 7)(3, 6),
+    (14, 16)(15, 17),
+    (9, 10)(20, 21),
+    (13, 18)(15, 16),
+    (9, 10)(12, 19),
+    (13, 17)(14, 18),
+    (1, 2)(5, 6)
+}
+
+Klasse 77
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 0]
+[0 1 0 1 0 1 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 3456 = 2^7 * 3^3
+    (1, 5)(2, 6)
+    (1, 2)(5, 6)
+    (3, 4)(5, 6)
+    (1, 4)(2, 3)
+    (13, 18)(15, 16)
+    (13, 15)(16, 18)
+    (14, 17)(15, 16)
+    (13, 14)(17, 18)
+    (8, 9)(19, 20)
+    (9, 10)(20, 21)
+Ordnung des Stabilisators: 3456
+Abstrakter Gruppentyp: S4^2*S3
+Erzeuger des Stabilisators:
+{
+    (1, 2)(5, 6),
+    (1, 5)(2, 6),
+    (13, 15)(16, 18),
+    (13, 14)(17, 18),
+    (9, 10)(20, 21),
+    (8, 9)(19, 20),
+    (3, 4)(5, 6),
+    (14, 17)(15, 16),
+    (13, 18)(15, 16),
+    (1, 4)(2, 3)
+}
+
+Klasse 78
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1]
+[0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 1 1 1 1]
+[0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 1]
+[0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1]
+[0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 1 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 13824 = 2^9 * 3^3
+    (3, 6)(4, 5)
+    (3, 4)(5, 6)
+    (2, 7)(4, 5)
+    (2, 3)(6, 7)
+    (14, 15)(16, 17)
+    (14, 17)(15, 16)
+    (13, 18)(15, 16)
+    (13, 14)(17, 18)
+    (9, 11)(20, 22)
+    (8, 9)(19, 20)
+    (8, 10)(19, 21)
+Ordnung des Stabilisators: 13824
+Abstrakter Gruppentyp: S4^3
+Erzeuger des Stabilisators:
+{
+    (8, 10)(19, 21),
+    (2, 7)(4, 5),
+    (13, 14)(17, 18),
+    (9, 11)(20, 22),
+    (8, 9)(19, 20),
+    (14, 17)(15, 16),
+    (3, 6)(4, 5),
+    (13, 18)(15, 16),
+    (14, 15)(16, 17),
+    (2, 3)(6, 7),
+    (3, 4)(5, 6)
+}
+
+Klasse 79
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1]
+[0 0 1 1 0 0 1 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1]
+[0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 96768 = 2^9 * 3^3 * 7
+    (3, 6)(4, 5)
+    (3, 4)(5, 6)
+    (1, 7)(4, 6)
+    (1, 3)(5, 7)
+    (1, 2)(5, 6)
+    (13, 18)(14, 17)
+    (13, 14)(17, 18)
+    (14, 17)(15, 16)
+    (13, 16)(15, 18)
+    (8, 9)(19, 20)
+    (8, 10)(19, 21)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 96768
+Abstrakter Gruppentyp: PSL(2,7)*S4^2
+Erzeuger des Stabilisators:
+{
+    (8, 10)(19, 21),
+    (10, 11)(21, 22),
+    (13, 16)(15, 18),
+    (13, 14)(17, 18),
+    (1, 3)(5, 7),
+    (8, 9)(19, 20),
+    (14, 17)(15, 16),
+    (3, 6)(4, 5),
+    (1, 7)(4, 6),
+    (13, 18)(14, 17),
+    (3, 4)(5, 6),
+    (1, 2)(5, 6)
+}
+
+Klasse 80
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 1 0 0]
+[0 1 0 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 0 1 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 7372800 = 2^15 * 3^2 * 5^2
+    (5, 8)(6, 7)
+    (5, 6)(7, 8)
+    (1, 2)(7, 8)
+    (1, 6)(2, 5)
+    (3, 4)(7, 8)
+    (1, 4)(2, 3)
+    (7, 8)(9, 10)
+    (3, 10)(4, 9)
+    (7, 8)(14, 15)
+    (7, 8)(12, 13)
+    (12, 15)(13, 14)
+    (7, 8)(16, 17)
+    (12, 17)(13, 16)
+    (7, 8)(20, 21)
+    (16, 20)(17, 21)
+    (7, 8)(18, 19)
+    (18, 21)(19, 20)
+Ordnung des Stabilisators: 7372800
+Abstrakter Gruppentyp: C2^9.A5.S5.C2
+Erzeuger des Stabilisators:
+{
+    (1, 2)(7, 8),
+    (7, 8)(18, 19),
+    (12, 15)(13, 14),
+    (1, 6)(2, 5),
+    (7, 8)(12, 13),
+    (16, 20)(17, 21),
+    (18, 21)(19, 20),
+    (7, 8)(9, 10),
+    (12, 17)(13, 16),
+    (5, 8)(6, 7),
+    (5, 6)(7, 8),
+    (3, 10)(4, 9),
+    (7, 8)(14, 15),
+    (1, 4)(2, 3),
+    (7, 8)(16, 17),
+    (7, 8)(20, 21),
+    (3, 4)(7, 8)
+}
+
+Klasse 81
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0]
+[0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 0 1 0 1 1 1 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 73728 = 2^13 * 3^2
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (12, 13)(16, 17)
+    (12, 15)(13, 14)
+    (16, 17)(18, 19)
+    (12, 19)(13, 18)
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (1, 3)(9, 10)
+    (2, 9)(4, 10)
+    (7, 8)(16, 17)
+    (5, 6)(16, 17)
+    (5, 7)(6, 8)
+    (1, 3)(20, 21)
+Ordnung des Stabilisators: 73728
+Abstrakter Gruppentyp: C2*C2^3.(D4*S4)*S4
+Erzeuger des Stabilisators:
+{
+    (16, 17)(18, 19),
+    (1, 3)(9, 10),
+    (12, 15)(13, 14),
+    (1, 2)(3, 4),
+    (14, 17)(15, 16),
+    (1, 3)(2, 4),
+    (12, 19)(13, 18),
+    (1, 3)(20, 21),
+    (5, 7)(6, 8),
+    (5, 6)(16, 17),
+    (12, 13)(16, 17),
+    (14, 15)(16, 17),
+    (2, 9)(4, 10),
+    (7, 8)(16, 17)
+}
+
+Klasse 82
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+[0 1 0 1 0 1 0 1 0 0 0 0 1 0 1 0 1 0 1 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 1 1 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 73728 = 2^13 * 3^2
+    (1, 2)(3, 4)
+    (1, 3)(2, 4)
+    (1, 2)(7, 8)
+    (3, 8)(4, 7)
+    (1, 2)(5, 6)
+    (5, 8)(6, 7)
+    (14, 15)(16, 17)
+    (14, 17)(15, 16)
+    (14, 15)(18, 19)
+    (16, 18)(17, 19)
+    (12, 13)(14, 15)
+    (12, 18)(13, 19)
+    (9, 10)(20, 21)
+Ordnung des Stabilisators: 73728
+Abstrakter Gruppentyp: C2*(C2^3:S4)^2
+Erzeuger des Stabilisators:
+{
+    (1, 2)(7, 8),
+    (14, 15)(18, 19),
+    (12, 13)(14, 15),
+    (1, 2)(3, 4),
+    (3, 8)(4, 7),
+    (14, 17)(15, 16),
+    (1, 3)(2, 4),
+    (12, 18)(13, 19),
+    (9, 10)(20, 21),
+    (5, 8)(6, 7),
+    (16, 18)(17, 19),
+    (14, 15)(16, 17),
+    (1, 2)(5, 6)
+}
+
+Klasse 83
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1 0 1 1 1 1]
+[0 0 0 1 0 1 0 1 0 0 0 0 1 0 1 0 1 1 0 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 221184 = 2^13 * 3^3
+    (16, 17)(18, 19)
+    (16, 19)(17, 18)
+    (12, 13)(16, 17)
+    (12, 18)(13, 19)
+    (14, 15)(16, 17)
+    (12, 14)(13, 15)
+    (7, 8)(16, 17)
+    (3, 4)(16, 17)
+    (3, 7)(4, 8)
+    (5, 6)(16, 17)
+    (3, 6)(4, 5)
+    (1, 9)(10, 11)
+    (1, 10)(9, 11)
+    (9, 11)(20, 22)
+    (1, 11)(20, 21)
+Ordnung des Stabilisators: 221184
+Abstrakter Gruppentyp: C2^3.A4^2.C2^3*S4
+Erzeuger des Stabilisators:
+{
+    (16, 17)(18, 19),
+    (3, 7)(4, 8),
+    (1, 10)(9, 11),
+    (1, 11)(20, 21),
+    (9, 11)(20, 22),
+    (3, 6)(4, 5),
+    (12, 18)(13, 19),
+    (12, 14)(13, 15),
+    (3, 4)(16, 17),
+    (1, 9)(10, 11),
+    (5, 6)(16, 17),
+    (12, 13)(16, 17),
+    (14, 15)(16, 17),
+    (16, 19)(17, 18),
+    (7, 8)(16, 17)
+}
+
+Klasse 84
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1]
+[0 1 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0]
+[0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1]
+[0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1]
+[0 0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 1 0 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 1 0 1 0 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 55296 = 2^11 * 3^3
+    (16, 19)(17, 18)
+    (16, 17)(18, 19)
+    (12, 13)(18, 19)
+    (12, 17)(13, 16)
+    (14, 15)(18, 19)
+    (12, 15)(13, 14)
+    (3, 6)(4, 5)
+    (3, 4)(5, 6)
+    (1, 2)(5, 6)
+    (1, 4)(2, 3)
+    (9, 11)(20, 22)
+    (10, 11)(21, 22)
+    (7, 8)(18, 19)
+Ordnung des Stabilisators: 55296
+Abstrakter Gruppentyp: C2^3:S4.C2*S4*S3
+Erzeuger des Stabilisators:
+{
+    (14, 15)(18, 19),
+    (1, 2)(5, 6),
+    (10, 11)(21, 22),
+    (7, 8)(18, 19),
+    (3, 4)(5, 6),
+    (16, 17)(18, 19),
+    (16, 19)(17, 18),
+    (12, 17)(13, 16),
+    (12, 13)(18, 19),
+    (9, 11)(20, 22),
+    (12, 15)(13, 14),
+    (3, 6)(4, 5),
+    (1, 4)(2, 3)
+}
+
+Klasse 85
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0]
+[0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 4608 = 2^9 * 3^2
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (3, 4)(5, 6)
+    (1, 5)(2, 6)
+    (14, 15)(16, 17)
+    (14, 17)(15, 16)
+    (14, 15)(18, 19)
+    (16, 18)(17, 19)
+    (7, 8)(14, 15)
+    (3, 4)(12, 13)
+    (9, 10)(20, 21)
+Ordnung des Stabilisators: 4608
+Abstrakter Gruppentyp: C2^3*S4^2
+Erzeuger des Stabilisators:
+{
+    (14, 15)(18, 19),
+    (1, 2)(3, 4),
+    (14, 17)(15, 16),
+    (1, 3)(2, 4),
+    (3, 4)(12, 13),
+    (9, 10)(20, 21),
+    (16, 18)(17, 19),
+    (7, 8)(14, 15),
+    (14, 15)(16, 17),
+    (1, 5)(2, 6),
+    (3, 4)(5, 6)
+}
+
+Klasse 86
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 1 0 0 0 0 1 0 1 0 1 1 0 0 0 0]
+[0 1 0 1 0 1 0 1 0 0 0 0 1 0 1 0 1 0 1 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 221184 = 2^13 * 3^3
+    (5, 7)(6, 8)
+    (5, 6)(7, 8)
+    (3, 4)(7, 8)
+    (3, 6)(4, 5)
+    (1, 2)(7, 8)
+    (1, 4)(2, 3)
+    (7, 8)(14, 15)
+    (7, 8)(16, 17)
+    (14, 17)(15, 16)
+    (7, 8)(18, 19)
+    (16, 19)(17, 18)
+    (12, 21)(20, 22)
+    (12, 20)(21, 22)
+    (9, 11)(12, 21)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 221184
+Abstrakter Gruppentyp: C2^5.(C6*S4).C2*S4
+Erzeuger des Stabilisators:
+{
+    (1, 2)(7, 8),
+    (7, 8)(18, 19),
+    (10, 11)(21, 22),
+    (14, 17)(15, 16),
+    (3, 6)(4, 5),
+    (9, 11)(12, 21),
+    (5, 7)(6, 8),
+    (5, 6)(7, 8),
+    (12, 21)(20, 22),
+    (12, 20)(21, 22),
+    (7, 8)(14, 15),
+    (16, 19)(17, 18),
+    (7, 8)(16, 17),
+    (1, 4)(2, 3),
+    (3, 4)(7, 8)
+}
+
+Klasse 87
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0 1 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 1 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 9216 = 2^10 * 3^2
+    (14, 18)(15, 19)
+    (14, 15)(18, 19)
+    (16, 17)(18, 19)
+    (14, 17)(15, 16)
+    (1, 2)(3, 4)
+    (1, 3)(2, 4)
+    (10, 11)(21, 22)
+    (1, 2)(12, 13)
+    (9, 11)(20, 22)
+    (5, 6)(18, 19)
+    (7, 8)(18, 19)
+    (5, 8)(6, 7)
+Ordnung des Stabilisators: 9216
+Abstrakter Gruppentyp: (C6*A4).C2^6.C2
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (16, 17)(18, 19),
+    (14, 15)(18, 19),
+    (10, 11)(21, 22),
+    (5, 6)(18, 19),
+    (1, 2)(3, 4),
+    (9, 11)(20, 22),
+    (1, 2)(12, 13),
+    (14, 17)(15, 16),
+    (1, 3)(2, 4),
+    (5, 8)(6, 7),
+    (14, 18)(15, 19)
+}
+
+Klasse 88
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 1]
+[0 1 0 1 0 1 0 1 0 0 0 0 1 0 1 0 1 0 1 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 55296 = 2^11 * 3^3
+    (5, 8)(6, 7)
+    (5, 6)(7, 8)
+    (1, 2)(7, 8)
+    (1, 6)(2, 5)
+    (3, 4)(7, 8)
+    (1, 3)(2, 4)
+    (16, 18)(17, 19)
+    (16, 17)(18, 19)
+    (14, 15)(18, 19)
+    (14, 17)(15, 16)
+    (9, 10)(20, 21)
+    (9, 11)(20, 22)
+    (7, 8)(12, 13)
+Ordnung des Stabilisators: 55296
+Abstrakter Gruppentyp: C2^3:S4.C2*S4*S3
+Erzeuger des Stabilisators:
+{
+    (1, 2)(7, 8),
+    (16, 17)(18, 19),
+    (14, 15)(18, 19),
+    (1, 6)(2, 5),
+    (7, 8)(12, 13),
+    (9, 11)(20, 22),
+    (14, 17)(15, 16),
+    (1, 3)(2, 4),
+    (9, 10)(20, 21),
+    (5, 8)(6, 7),
+    (5, 6)(7, 8),
+    (16, 18)(17, 19),
+    (3, 4)(7, 8)
+}
+
+Klasse 89
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 0]
+[0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 73728 = 2^13 * 3^2
+    (5, 8)(6, 7)
+    (5, 6)(7, 8)
+    (3, 4)(7, 8)
+    (3, 6)(4, 5)
+    (1, 2)(7, 8)
+    (1, 3)(2, 4)
+    (12, 13)(14, 15)
+    (12, 15)(13, 14)
+    (12, 14)(20, 21)
+    (13, 20)(15, 21)
+    (7, 8)(16, 17)
+    (7, 8)(18, 19)
+    (16, 19)(17, 18)
+    (9, 10)(12, 14)
+Ordnung des Stabilisators: 73728
+Abstrakter Gruppentyp: C2*C2^3.(D4*S4)*S4
+Erzeuger des Stabilisators:
+{
+    (1, 2)(7, 8),
+    (7, 8)(18, 19),
+    (12, 15)(13, 14),
+    (12, 13)(14, 15),
+    (13, 20)(15, 21),
+    (3, 6)(4, 5),
+    (1, 3)(2, 4),
+    (9, 10)(12, 14),
+    (5, 8)(6, 7),
+    (5, 6)(7, 8),
+    (16, 19)(17, 18),
+    (12, 14)(20, 21),
+    (7, 8)(16, 17),
+    (3, 4)(7, 8)
+}
+
+Klasse 90
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1]
+[0 0 1 0 0 1 0 1 0 0 0 0 0 1 1 0 1 1 0 1 1 1]
+[0 0 0 1 0 1 0 1 0 0 0 0 0 1 1 0 1 0 1 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 9216 = 2^10 * 3^2
+    (5, 6)(7, 8)
+    (5, 7)(6, 8)
+    (3, 4)(5, 6)
+    (3, 7)(4, 8)
+    (12, 15)(13, 14)
+    (12, 13)(14, 15)
+    (9, 11)(20, 22)
+    (1, 2)(14, 15)
+    (10, 11)(21, 22)
+    (5, 6)(18, 19)
+    (5, 6)(16, 17)
+    (16, 19)(17, 18)
+Ordnung des Stabilisators: 9216
+Abstrakter Gruppentyp: (C6*A4).C2^6.C2
+Erzeuger des Stabilisators:
+{
+    (12, 15)(13, 14),
+    (10, 11)(21, 22),
+    (5, 6)(18, 19),
+    (3, 7)(4, 8),
+    (12, 13)(14, 15),
+    (9, 11)(20, 22),
+    (1, 2)(14, 15),
+    (5, 7)(6, 8),
+    (5, 6)(7, 8),
+    (5, 6)(16, 17),
+    (16, 19)(17, 18),
+    (3, 4)(5, 6)
+}
+
+Klasse 91
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 1 1 0 0]
+[0 1 0 0 0 0 0 1 0 0 0 0 1 0 1 0 1 1 0 1 1 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 1 0 1 0 1 0 1 1 1 0]
+[0 0 0 0 1 0 0 0 0 1 0 0 1 0 1 1 0 1 1 0 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 3072 = 2^10 * 3
+    (12, 13)(16, 17)
+    (12, 17)(13, 16)
+    (12, 13)(14, 15)
+    (14, 16)(15, 17)
+    (2, 8)(4, 7)
+    (2, 4)(7, 8)
+    (7, 8)(18, 19)
+    (9, 10)(20, 21)
+    (1, 5)(20, 21)
+    (1, 10)(5, 9)
+    (1, 2)(3, 6)(4, 5)(7, 10, 8, 9)(12, 13)(18, 21, 19, 20)
+Ordnung des Stabilisators: 3072
+Abstrakter Gruppentyp: (C2*D4*A4).C2^4
+Erzeuger des Stabilisators:
+{
+    (1, 2)(3, 6)(4, 5)(7, 10, 8, 9)(12, 13)(18, 21, 19, 20),
+    (7, 8)(18, 19),
+    (9, 10)(20, 21),
+    (14, 16)(15, 17),
+    (12, 17)(13, 16),
+    (2, 8)(4, 7),
+    (12, 13)(16, 17),
+    (12, 13)(14, 15),
+    (1, 10)(5, 9),
+    (1, 5)(20, 21),
+    (2, 4)(7, 8)
+}
+
+Klasse 92
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0]
+[0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 9216 = 2^10 * 3^2
+    (12, 13)(16, 17)
+    (12, 17)(13, 16)
+    (12, 13)(14, 15)
+    (14, 16)(15, 17)
+    (2, 8)(4, 7)
+    (2, 4)(7, 8)
+    (1, 10)(9, 11)
+    (1, 9)(10, 11)
+    (1, 11)(20, 21)
+    (10, 11)(21, 22)
+    (5, 6)(12, 13)
+    (7, 8)(18, 19)
+Ordnung des Stabilisators: 9216
+Abstrakter Gruppentyp: A4^2.C2^5.C2
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (10, 11)(21, 22),
+    (5, 6)(12, 13),
+    (1, 10)(9, 11),
+    (12, 13)(14, 15),
+    (1, 11)(20, 21),
+    (2, 8)(4, 7),
+    (14, 16)(15, 17),
+    (12, 17)(13, 16),
+    (1, 9)(10, 11),
+    (12, 13)(16, 17),
+    (2, 4)(7, 8)
+}
+
+Klasse 93
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 27648 = 2^10 * 3^3
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (12, 13)(16, 17)
+    (12, 14)(13, 15)
+    (1, 4)(2, 3)
+    (1, 2)(3, 4)
+    (2, 4)(7, 8)
+    (1, 8)(3, 7)
+    (5, 11)(9, 10)
+    (5, 9)(10, 11)
+    (9, 11)(20, 22)
+    (9, 10)(20, 21)
+    (2, 4)(18, 19)
+Ordnung des Stabilisators: 27648
+Abstrakter Gruppentyp: C2*S4^3
+Erzeuger des Stabilisators:
+{
+    (2, 4)(18, 19),
+    (1, 8)(3, 7),
+    (5, 11)(9, 10),
+    (1, 2)(3, 4),
+    (9, 11)(20, 22),
+    (14, 17)(15, 16),
+    (12, 14)(13, 15),
+    (5, 9)(10, 11),
+    (9, 10)(20, 21),
+    (12, 13)(16, 17),
+    (2, 4)(7, 8),
+    (14, 15)(16, 17),
+    (1, 4)(2, 3)
+}
+
+Klasse 94
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1]
+[0 0 1 1 0 0 0 0 0 0 1 0 1 0 1 1 0 1 1 1 1 0]
+[0 0 0 0 1 0 0 0 0 0 1 0 1 0 1 1 0 1 1 0 0 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 1 0 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 1 0 1 0 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1152 = 2^7 * 3^2
+    (12, 13)(14, 15)
+    (12, 15)(13, 14)
+    (12, 13)(16, 17)
+    (14, 17)(15, 16)
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (9, 10)(20, 21)
+    (9, 11)(20, 22)
+    (7, 8)(18, 19)
+Ordnung des Stabilisators: 1152
+Abstrakter Gruppentyp: C2^3*S4*S3
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (1, 3)(2, 4),
+    (12, 15)(13, 14),
+    (12, 13)(16, 17),
+    (9, 10)(20, 21),
+    (14, 17)(15, 16),
+    (1, 2)(3, 4),
+    (12, 13)(14, 15),
+    (9, 11)(20, 22)
+}
+
+Klasse 95
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 1 0 0 0 0 1 0 1 0 1 1 0 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 1 1 0 0 0 1 0 0 0 0 1 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 6912 = 2^8 * 3^3
+    (12, 13)(16, 17)
+    (12, 17)(13, 16)
+    (12, 13)(14, 15)
+    (14, 16)(15, 17)
+    (1, 2)(3, 4)
+    (1, 3)(2, 4)
+    (2, 4)(7, 8)
+    (1, 8)(3, 7)
+    (10, 11)(21, 22)
+    (9, 10)(20, 21)
+    (2, 4)(18, 19)
+Ordnung des Stabilisators: 6912
+Abstrakter Gruppentyp: C2*S4^2*S3
+Erzeuger des Stabilisators:
+{
+    (1, 3)(2, 4),
+    (12, 17)(13, 16),
+    (12, 13)(16, 17),
+    (14, 16)(15, 17),
+    (9, 10)(20, 21),
+    (2, 4)(18, 19),
+    (1, 8)(3, 7),
+    (10, 11)(21, 22),
+    (2, 4)(7, 8),
+    (1, 2)(3, 4),
+    (12, 13)(14, 15)
+}
+
+Klasse 96
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1]
+[0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0]
+[0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0]
+[0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 1 0]
+[0 0 0 0 1 0 0 0 0 0 1 0 1 0 1 1 0 1 1 0 0 1]
+[0 0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 1 1 1 0 0 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 2304 = 2^8 * 3^2
+    (12, 15)(13, 14)
+    (12, 13)(14, 15)
+    (14, 15)(16, 17)
+    (12, 16)(13, 17)
+    (2, 8)(4, 7)
+    (2, 4)(7, 8)
+    (9, 11)(20, 22)
+    (9, 10)(20, 21)
+    (5, 6)(14, 15)
+    (7, 8)(18, 19)
+Ordnung des Stabilisators: 2304
+Abstrakter Gruppentyp: (C6*S4).C2^4
+Erzeuger des Stabilisators:
+{
+    (5, 6)(14, 15),
+    (12, 16)(13, 17),
+    (9, 10)(20, 21),
+    (7, 8)(18, 19),
+    (14, 15)(16, 17),
+    (2, 8)(4, 7),
+    (12, 13)(14, 15),
+    (9, 11)(20, 22),
+    (12, 15)(13, 14),
+    (2, 4)(7, 8)
+}
+
+Klasse 97
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1]
+[0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 6912 = 2^8 * 3^3
+    (12, 13)(14, 15)
+    (12, 14)(13, 15)
+    (12, 13)(16, 17)
+    (14, 17)(15, 16)
+    (2, 8)(4, 7)
+    (2, 4)(7, 8)
+    (1, 3)(7, 8)
+    (1, 2)(3, 4)
+    (9, 11)(20, 22)
+    (10, 11)(21, 22)
+    (5, 6)(12, 13)
+Ordnung des Stabilisators: 6912
+Abstrakter Gruppentyp: C2*S4^2*S3
+Erzeuger des Stabilisators:
+{
+    (1, 3)(7, 8),
+    (1, 2)(3, 4),
+    (10, 11)(21, 22),
+    (12, 14)(13, 15),
+    (2, 8)(4, 7),
+    (14, 17)(15, 16),
+    (12, 13)(16, 17),
+    (12, 13)(14, 15),
+    (5, 6)(12, 13),
+    (9, 11)(20, 22),
+    (2, 4)(7, 8)
+}
+
+Klasse 98
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 1 1 0 0 1 1 0]
+[0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0]
+[0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 1 0 1 0 1 1 0 0 1 1 1 0]
+[0 0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 1 0 1 1 1 0]
+[0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 27648 = 2^10 * 3^3
+    (2, 7)(4, 8)
+    (2, 4)(7, 8)
+    (1, 3)(7, 8)
+    (1, 2)(3, 4)
+    (12, 15)(13, 14)
+    (12, 13)(14, 15)
+    (14, 15)(16, 17)
+    (12, 17)(13, 16)
+    (18, 20)(21, 22)
+    (18, 21)(20, 22)
+    (10, 11)(18, 20)
+    (9, 10)(18, 22)
+    (5, 6)(14, 15)
+Ordnung des Stabilisators: 27648
+Abstrakter Gruppentyp: C2*S4^3
+Erzeuger des Stabilisators:
+{
+    (12, 15)(13, 14),
+    (9, 10)(18, 22),
+    (10, 11)(18, 20),
+    (12, 13)(14, 15),
+    (1, 2)(3, 4),
+    (18, 20)(21, 22),
+    (1, 3)(7, 8),
+    (12, 17)(13, 16),
+    (2, 7)(4, 8),
+    (2, 4)(7, 8),
+    (5, 6)(14, 15),
+    (14, 15)(16, 17),
+    (18, 21)(20, 22)
+}
+
+Klasse 99
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0]
+[0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 1 1 1 0]
+[0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 0]
+[0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 3072 = 2^10 * 3
+    (1, 7)(3, 8)
+    (1, 3)(7, 8)
+    (2, 4)(7, 8)
+    (1, 2)(3, 4)
+    (13, 18)(20, 21)
+    (13, 21)(18, 20)
+    (9, 10)(13, 18)
+    (5, 6)(16, 17)
+    (5, 6)(14, 15)
+    (14, 17)(15, 16)
+    (5, 10, 6, 9)(7, 8)(12, 19)(13, 17, 18, 16)(14, 20)(15, 21)
+Ordnung des Stabilisators: 3072
+Abstrakter Gruppentyp: (C2*D4*A4).C2^4
+Erzeuger des Stabilisators:
+{
+    (1, 7)(3, 8),
+    (9, 10)(13, 18),
+    (5, 6)(14, 15),
+    (5, 10, 6, 9)(7, 8)(12, 19)(13, 17, 18, 16)(14, 20)(15, 21),
+    (14, 17)(15, 16),
+    (1, 3)(7, 8),
+    (2, 4)(7, 8),
+    (13, 18)(20, 21),
+    (1, 2)(3, 4),
+    (13, 21)(18, 20),
+    (5, 6)(16, 17)
+}
+
+Klasse 100
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 9216 = 2^10 * 3^2
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (1, 3)(7, 8)
+    (2, 8)(4, 7)
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (12, 22)(20, 21)
+    (12, 20)(21, 22)
+    (9, 11)(20, 22)
+    (9, 10)(20, 21)
+    (5, 6)(16, 17)
+    (1, 3)(18, 19)
+Ordnung des Stabilisators: 9216
+Abstrakter Gruppentyp: A4^2.C2^4.C2^2
+Erzeuger des Stabilisators:
+{
+    (1, 2)(3, 4),
+    (1, 3)(7, 8),
+    (9, 10)(20, 21),
+    (1, 3)(18, 19),
+    (14, 15)(16, 17),
+    (5, 6)(16, 17),
+    (2, 8)(4, 7),
+    (14, 17)(15, 16),
+    (12, 20)(21, 22),
+    (12, 22)(20, 21),
+    (9, 11)(20, 22),
+    (1, 3)(2, 4)
+}
+
+Klasse 101
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 1 1 0 0 1 1 1 1 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 384 = 2^7 * 3
+    (14, 16)(15, 17)
+    (14, 15)(16, 17)
+    (1, 2)(3, 4)
+    (1, 4)(2, 3)
+    (10, 11)(21, 22)
+    (9, 10)(20, 21)
+    (5, 6)(16, 17)
+    (7, 8)(18, 19)
+Ordnung des Stabilisators: 384
+Abstrakter Gruppentyp: C3:(C2^6.C2)
+SmallGroup-Kennung: <384, 20133>
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (14, 15)(16, 17),
+    (1, 4)(2, 3),
+    (14, 16)(15, 17),
+    (9, 10)(20, 21),
+    (10, 11)(21, 22),
+    (1, 2)(3, 4),
+    (5, 6)(16, 17)
+}
+
+Klasse 102
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 1 0 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 1 1 0 0 0 1 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 2304 = 2^8 * 3^2
+    (1, 3)(7, 8)
+    (1, 8)(3, 7)
+    (1, 3)(2, 4)
+    (2, 8)(4, 7)
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (5, 6)(16, 17)
+    (1, 3)(18, 19)
+Ordnung des Stabilisators: 2304
+Abstrakter Gruppentyp: (C6*S4).C2^4
+Erzeuger des Stabilisators:
+{
+    (9, 10)(20, 21),
+    (1, 3)(7, 8),
+    (10, 11)(21, 22),
+    (1, 3)(18, 19),
+    (14, 15)(16, 17),
+    (5, 6)(16, 17),
+    (2, 8)(4, 7),
+    (14, 17)(15, 16),
+    (1, 8)(3, 7),
+    (1, 3)(2, 4)
+}
+
+Klasse 103
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 1 1 1 1 1]
+[0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 0 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 384 = 2^7 * 3
+    (14, 15)(16, 17)
+    (14, 16)(15, 17)
+    (2, 7)(4, 8)
+    (2, 4)(7, 8)
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+    (7, 8)(18, 19)
+    (5, 6)(12, 13)
+Ordnung des Stabilisators: 384
+Abstrakter Gruppentyp: C3:(C2.C2^6)
+SmallGroup-Kennung: <384, 20133>
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (14, 15)(16, 17),
+    (14, 16)(15, 17),
+    (10, 11)(21, 22),
+    (2, 4)(7, 8),
+    (5, 6)(12, 13),
+    (2, 7)(4, 8),
+    (9, 11)(20, 22)
+}
+
+Klasse 104
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 1 1 1 1 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 1 1]
+[0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1152 = 2^7 * 3^2
+    (1, 3)(7, 8)
+    (1, 8)(3, 7)
+    (1, 3)(2, 4)
+    (2, 7)(4, 8)
+    (14, 16)(15, 17)
+    (14, 15)(16, 17)
+    (9, 10)(20, 21)
+    (9, 11)(20, 22)
+    (5, 6)(12, 13)
+Ordnung des Stabilisators: 1152
+Abstrakter Gruppentyp: C2^3*S4*S3
+Erzeuger des Stabilisators:
+{
+    (14, 16)(15, 17),
+    (1, 3)(7, 8),
+    (9, 10)(20, 21),
+    (14, 15)(16, 17),
+    (2, 7)(4, 8),
+    (5, 6)(12, 13),
+    (9, 11)(20, 22),
+    (1, 8)(3, 7),
+    (1, 3)(2, 4)
+}
+
+Klasse 105
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1]
+[0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 0 0 1 1]
+[0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0 1 0 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 1 0 1 0 1]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 36864 = 2^12 * 3^2
+    (12, 13)(14, 15)
+    (12, 15)(13, 14)
+    (12, 13)(16, 17)
+    (14, 17)(15, 16)
+    (8, 9)(10, 11)
+    (8, 11)(9, 10)
+    (1, 7)(8, 9)
+    (1, 11)(7, 10)
+    (5, 6)(12, 13)
+    (3, 4)(12, 13)
+    (3, 6)(4, 5)
+    (8, 9)(21, 22)
+    (8, 9)(19, 20)
+    (19, 21)(20, 22)
+Ordnung des Stabilisators: 36864
+Abstrakter Gruppentyp: (D4*S4)^2
+Erzeuger des Stabilisators:
+{
+    (8, 9)(10, 11),
+    (12, 15)(13, 14),
+    (5, 6)(12, 13),
+    (12, 13)(14, 15),
+    (8, 9)(21, 22),
+    (1, 11)(7, 10),
+    (8, 9)(19, 20),
+    (14, 17)(15, 16),
+    (3, 6)(4, 5),
+    (3, 4)(12, 13),
+    (8, 11)(9, 10),
+    (12, 13)(16, 17),
+    (19, 21)(20, 22),
+    (1, 7)(8, 9)
+}
+
+Klasse 106
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 1 0 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1]
+[0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0 1 1 1 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 1 0 1 0 0 0 1 0 1 1 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1536 = 2^9 * 3
+    (12, 16)(13, 17)
+    (12, 13)(16, 17)
+    (14, 15)(16, 17)
+    (12, 15)(13, 14)
+    (3, 4)(5, 6)
+    (3, 6)(4, 5)
+    (1, 7)(8, 9)
+    (1, 8)(7, 9)
+    (1, 7)(19, 20)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 1536
+Abstrakter Gruppentyp: A4.C2^5.C2^2
+Erzeuger des Stabilisators:
+{
+    (1, 7)(19, 20),
+    (12, 16)(13, 17),
+    (1, 7)(8, 9),
+    (10, 11)(21, 22),
+    (14, 15)(16, 17),
+    (3, 4)(5, 6),
+    (12, 13)(16, 17),
+    (1, 8)(7, 9),
+    (12, 15)(13, 14),
+    (3, 6)(4, 5)
+}
+
+Klasse 107
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 0 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1]
+[0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1]
+[0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 1 0 0 1 1 1]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 2048 = 2^11
+    (13, 21)(18, 22)
+    (13, 18)(21, 22)
+    (3, 5)(4, 6)
+    (3, 4)(5, 6)
+    (5, 6)(16, 17)
+    (5, 6)(14, 15)
+    (14, 17)(15, 16)
+    (1, 9)(7, 8)
+    (1, 7)(8, 9)
+    (10, 11)(21, 22)
+    (8, 9)(19, 20)
+Ordnung des Stabilisators: 2048
+Abstrakter Gruppentyp: C2^6.C2^5
+Erzeuger des Stabilisators:
+{
+    (5, 6)(14, 15),
+    (1, 7)(8, 9),
+    (10, 11)(21, 22),
+    (3, 4)(5, 6),
+    (8, 9)(19, 20),
+    (5, 6)(16, 17),
+    (1, 9)(7, 8),
+    (13, 21)(18, 22),
+    (14, 17)(15, 16),
+    (13, 18)(21, 22),
+    (3, 5)(4, 6)
+}
+
+Klasse 108
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 1 1 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 1]
+[0 0 0 0 0 0 1 0 1 0 0 1 1 0 0 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 256 = 2^8
+    (14, 16)(15, 17)
+    (14, 15)(16, 17)
+    (1, 7)(8, 9)
+    (1, 8)(7, 9)
+    (5, 6)(16, 17)
+    (10, 11)(21, 22)
+    (1, 7)(19, 20)
+    (3, 4)(12, 13)
+Ordnung des Stabilisators: 256
+Abstrakter Gruppentyp: C2^4.C2^4
+SmallGroup-Kennung: <256, 55683>
+Erzeuger des Stabilisators:
+{
+    (1, 7)(19, 20),
+    (14, 16)(15, 17),
+    (1, 7)(8, 9),
+    (10, 11)(21, 22),
+    (14, 15)(16, 17),
+    (5, 6)(16, 17),
+    (3, 4)(12, 13),
+    (1, 8)(7, 9)
+}
+
+Klasse 109
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 1 0 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1]
+[0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 1 1 1 0 0 1 1]
+[0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0 1 1 1 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1024 = 2^10
+    (3, 4)(5, 6)
+    (3, 6)(4, 5)
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (1, 9)(7, 8)
+    (1, 7)(8, 9)
+    (3, 4)(12, 13)
+    (8, 9)(19, 20)
+    (1, 6)(3, 9)(4, 8)(5, 7)(10, 11)(12, 19)(13, 20)(15, 17)
+    (1, 6)(3, 9)(4, 8)(5, 7)(12, 19)(13, 20)(15, 17)(21, 22)
+Ordnung des Stabilisators: 1024
+Abstrakter Gruppentyp: C2^4.C2^4.C2^2
+Erzeuger des Stabilisators:
+{
+    (1, 7)(8, 9),
+    (14, 15)(16, 17),
+    (3, 4)(5, 6),
+    (8, 9)(19, 20),
+    (1, 9)(7, 8),
+    (1, 6)(3, 9)(4, 8)(5, 7)(10, 11)(12, 19)(13, 20)(15, 17),
+    (14, 17)(15, 16),
+    (3, 4)(12, 13),
+    (3, 6)(4, 5),
+    (1, 6)(3, 9)(4, 8)(5, 7)(12, 19)(13, 20)(15, 17)(21, 22)
+}
+
+Klasse 110
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0 0 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 1 0 1 0 0 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 1 0 0 0 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 0 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 2304 = 2^8 * 3^2
+    (3, 5)(4, 6)
+    (3, 4)(5, 6)
+    (1, 2)(5, 6)
+    (1, 4)(2, 3)
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (12, 13)(16, 17)
+    (12, 15)(13, 14)
+    (10, 11)(21, 22)
+    (8, 9)(19, 20)
+Ordnung des Stabilisators: 2304
+Abstrakter Gruppentyp: C2^2*S4^2
+Erzeuger des Stabilisators:
+{
+    (1, 2)(5, 6),
+    (10, 11)(21, 22),
+    (14, 15)(16, 17),
+    (3, 4)(5, 6),
+    (8, 9)(19, 20),
+    (14, 17)(15, 16),
+    (12, 13)(16, 17),
+    (3, 5)(4, 6),
+    (12, 15)(13, 14),
+    (1, 4)(2, 3)
+}
+
+Klasse 111
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1]
+[0 1 0 1 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 1 0 0 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 1 0 1 0 1 1 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 1 0 0 1 0 1 0 1 1 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 18432 = 2^11 * 3^2
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (3, 4)(5, 6)
+    (1, 5)(2, 6)
+    (12, 13)(14, 15)
+    (12, 14)(13, 15)
+    (12, 13)(16, 17)
+    (14, 17)(15, 16)
+    (7, 11)(8, 10)
+    (7, 8)(10, 11)
+    (10, 11)(21, 22)
+    (10, 11)(18, 19)
+    (18, 22)(19, 21)
+Ordnung des Stabilisators: 18432
+Abstrakter Gruppentyp: A4^2.C2^5.C2^2
+Erzeuger des Stabilisators:
+{
+    (10, 11)(21, 22),
+    (12, 13)(14, 15),
+    (1, 2)(3, 4),
+    (7, 8)(10, 11),
+    (7, 11)(8, 10),
+    (14, 17)(15, 16),
+    (1, 3)(2, 4),
+    (12, 14)(13, 15),
+    (10, 11)(18, 19),
+    (12, 13)(16, 17),
+    (1, 5)(2, 6),
+    (3, 4)(5, 6),
+    (18, 22)(19, 21)
+}
+
+Klasse 112
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 0 0 1 0 0 0 1 1 0 1 1 1 1]
+[0 1 0 1 0 1 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1536 = 2^9 * 3
+    (3, 6)(4, 5)
+    (3, 4)(5, 6)
+    (1, 2)(5, 6)
+    (1, 4)(2, 3)
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (13, 18)(21, 22)
+    (13, 21)(18, 22)
+    (10, 11)(13, 18)
+    (8, 9)(19, 20)
+Ordnung des Stabilisators: 1536
+Abstrakter Gruppentyp: A4.C2^5.C2^2
+Erzeuger des Stabilisators:
+{
+    (1, 2)(5, 6),
+    (14, 15)(16, 17),
+    (3, 4)(5, 6),
+    (8, 9)(19, 20),
+    (13, 21)(18, 22),
+    (14, 17)(15, 16),
+    (10, 11)(13, 18),
+    (13, 18)(21, 22),
+    (3, 6)(4, 5),
+    (1, 4)(2, 3)
+}
+
+Klasse 113
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 1 0 0 1 1 0 1 1 1 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 0 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 128 = 2^7
+    (1, 2)(3, 4)
+    (1, 4)(2, 3)
+    (14, 16)(15, 17)
+    (14, 15)(16, 17)
+    (10, 11)(21, 22)
+    (8, 9)(19, 20)
+    (1, 3)(5, 7)(8, 11)(9, 10)(12, 18)(14, 16)(19, 21)(20, 22)
+Ordnung des Stabilisators: 128
+Abstrakter Gruppentyp: C2^3wrC2
+SmallGroup-Kennung: <128, 1578>
+Erzeuger des Stabilisators:
+{
+    (14, 15)(16, 17),
+    (1, 4)(2, 3),
+    (14, 16)(15, 17),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (1, 2)(3, 4),
+    (1, 3)(5, 7)(8, 11)(9, 10)(12, 18)(14, 16)(19, 21)(20, 22)
+}
+
+Klasse 114
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0]
+[0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0]
+[0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 1 0]
+[0 0 0 0 1 0 0 0 0 1 0 0 1 0 1 1 0 1 1 1 0 0]
+[0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 0 1 1 1 1 0 0]
+[0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 1 1 0 1 0 1 1]
+[0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 1024 = 2^10
+    (12, 19)(18, 22)
+    (12, 18)(19, 22)
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (7, 8)(12, 22)
+    (5, 6)(16, 17)
+    (1, 4)(5, 7)(6, 8)(9, 10)(12, 17)(14, 18)(15, 19)(16, 22)
+    (1, 4)(5, 7)(6, 8)(12, 17)(14, 18)(15, 19)(16, 22)(20, 21)
+Ordnung des Stabilisators: 1024
+Abstrakter Gruppentyp: C2^4.C2^4.C2^2
+Erzeuger des Stabilisators:
+{
+    (1, 2)(3, 4),
+    (14, 15)(16, 17),
+    (1, 4)(5, 7)(6, 8)(9, 10)(12, 17)(14, 18)(15, 19)(16, 22),
+    (12, 19)(18, 22),
+    (5, 6)(16, 17),
+    (14, 17)(15, 16),
+    (12, 18)(19, 22),
+    (1, 4)(5, 7)(6, 8)(12, 17)(14, 18)(15, 19)(16, 22)(20, 21),
+    (1, 3)(2, 4),
+    (7, 8)(12, 22)
+}
+
+Klasse 115
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 0 0 1 0 1]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 1]
+[0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 1 0 1 1 0 1 1]
+[0 0 0 0 1 0 0 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0]
+[0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 0 1 1 1 1 0 0]
+[0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 1 0 1 0 1 1 0 0 1 1 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 192 = 2^6 * 3
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (7, 8)(18, 19)
+    (9, 10)(20, 21)
+    (5, 6)(12, 13)
+    (2, 11, 3)(5, 8, 10)(6, 7, 9)(12, 18, 21)(13, 19, 20)(15, 16, 17)
+    (1, 4)(3, 11)(5, 8)(6, 7)(12, 19)(13, 18)(15, 16)(20, 21)
+Ordnung des Stabilisators: 192
+Abstrakter Gruppentyp: C2*C2^2:S4
+SmallGroup-Kennung: <192, 1538>
+Erzeuger des Stabilisators:
+{
+    (7, 8)(18, 19),
+    (14, 15)(16, 17),
+    (1, 4)(3, 11)(5, 8)(6, 7)(12, 19)(13, 18)(15, 16)(20, 21),
+    (9, 10)(20, 21),
+    (14, 17)(15, 16),
+    (2, 11, 3)(5, 8, 10)(6, 7, 9)(12, 18, 21)(13, 19, 20)(15, 16, 17),
+    (5, 6)(12, 13)
+}
+
+Klasse 116
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 1 1]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 0 1 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 192 = 2^6 * 3
+    (1, 4)(2, 3)
+    (1, 2)(3, 4)
+    (10, 11)(21, 22)
+    (5, 6)(16, 17)
+    (8, 9)(19, 20)
+    (2, 3, 4)(5, 10, 9)(6, 11, 8)(13, 18, 14)(16, 22, 20)(17, 21, 19)
+    (2, 3)(5, 11)(6, 10)(8, 9)(12, 15)(14, 18)(16, 22)(17, 21)
+Ordnung des Stabilisators: 192
+Abstrakter Gruppentyp: C2*C2^2:S4
+SmallGroup-Kennung: <192, 1538>
+Erzeuger des Stabilisators:
+{
+    (2, 3)(5, 11)(6, 10)(8, 9)(12, 15)(14, 18)(16, 22)(17, 21),
+    (2, 3, 4)(5, 10, 9)(6, 11, 8)(13, 18, 14)(16, 22, 20)(17, 21, 19),
+    (1, 4)(2, 3),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (1, 2)(3, 4),
+    (5, 6)(16, 17)
+}
+
+Klasse 117
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 1 0 1]
+[0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 1 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 0 1 1]
+[0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 0 1 1 1 0 1]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 1 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 3072 = 2^10 * 3
+    (5, 6)(7, 8)
+    (5, 7)(6, 8)
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (16, 17)(18, 19)
+    (16, 18)(17, 19)
+    (12, 14)(13, 15)
+    (12, 13)(14, 15)
+    (1, 8)(2, 7)(3, 6)(4, 5)(12, 16)(13, 17)(14, 18)(15, 19)
+    (1, 8)(2, 7)(3, 5)(4, 6)(9, 11)(12, 13)(16, 17)(21, 22)
+    (1, 5)(2, 7)(3, 6)(4, 8)(9, 10)(12, 15)(16, 19)(20, 22)
+Ordnung des Stabilisators: 3072
+Abstrakter Gruppentyp: C2^8.D6
+Erzeuger des Stabilisators:
+{
+    (1, 8)(2, 7)(3, 5)(4, 6)(9, 11)(12, 13)(16, 17)(21, 22),
+    (5, 7)(6, 8),
+    (1, 2)(3, 4),
+    (5, 6)(7, 8),
+    (16, 17)(18, 19),
+    (12, 14)(13, 15),
+    (16, 18)(17, 19),
+    (12, 13)(14, 15),
+    (1, 5)(2, 7)(3, 6)(4, 8)(9, 10)(12, 15)(16, 19)(20, 22),
+    (1, 8)(2, 7)(3, 6)(4, 5)(12, 16)(13, 17)(14, 18)(15, 19),
+    (1, 3)(2, 4)
+}
+
+Klasse 118
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 1]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 1 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 0]
+[0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 660 = 2^2 * 3 * 5 * 11
+    (1, 3, 2)(5, 9, 8)(6, 10, 7)(12, 15, 14)(16, 20, 19)(17, 21, 18)
+    (1, 2)(4, 11)(5, 9)(6, 7)(12, 21)(14, 18)(15, 17)(19, 20)
+    (1, 5)(3, 9)(6, 11)(7, 10)(12, 20)(14, 16)(17, 18)(21, 22)
+    (1, 7)(2, 6)(3, 10)(5, 9)(13, 22)(14, 15)(17, 18)(19, 20)
+Ordnung des Stabilisators: 660
+Abstrakter Gruppentyp: PSL(2,11)
+SmallGroup-Kennung: <660, 13>
+Erzeuger des Stabilisators:
+{
+    (1, 3, 2)(5, 9, 8)(6, 10, 7)(12, 15, 14)(16, 20, 19)(17, 21, 18),
+    (1, 7)(2, 6)(3, 10)(5, 9)(13, 22)(14, 15)(17, 18)(19, 20),
+    (1, 2)(4, 11)(5, 9)(6, 7)(12, 21)(14, 18)(15, 17)(19, 20),
+    (1, 5)(3, 9)(6, 11)(7, 10)(12, 20)(14, 16)(17, 18)(21, 22)
+}
+
+Klasse 119
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 1 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 5160960 = 2^14 * 3^2 * 5 * 7
+    (3, 6)(4, 5)
+    (3, 4)(5, 6)
+    (5, 6)(9, 10)
+    (3, 10)(4, 9)
+    (1, 2)(5, 6)
+    (1, 9)(2, 10)
+    (5, 6)(7, 8)
+    (1, 7)(2, 8)
+    (16, 19)(17, 18)
+    (16, 17)(18, 19)
+    (12, 14)(17, 19)
+    (12, 18)(14, 16)
+    (13, 14)(17, 18)
+    (13, 15)(17, 19)
+    (5, 6)(20, 21)
+Ordnung des Stabilisators: 5160960
+Abstrakter Gruppentyp: C2wrS5*C2^3.PSL(2,7)
+Erzeuger des Stabilisators:
+{
+    (16, 17)(18, 19),
+    (12, 14)(17, 19),
+    (13, 14)(17, 18),
+    (5, 6)(9, 10),
+    (1, 7)(2, 8),
+    (3, 6)(4, 5),
+    (13, 15)(17, 19),
+    (5, 6)(7, 8),
+    (12, 18)(14, 16),
+    (16, 19)(17, 18),
+    (3, 10)(4, 9),
+    (1, 9)(2, 10),
+    (3, 4)(5, 6),
+    (5, 6)(20, 21),
+    (1, 2)(5, 6)
+}
+
+Klasse 120
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0]
+[0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1]
+[0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1]
+[0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1]
+[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 5419008 = 2^12 * 3^3 * 7^2
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (13, 18)(15, 16)
+    (13, 14)(17, 18)
+    (13, 19)(15, 17)
+    (12, 19)(15, 16)
+    (5, 6)(7, 8)
+    (5, 7)(6, 8)
+    (2, 3)(5, 8)
+    (2, 7)(3, 6)
+    (2, 4)(6, 8)
+    (1, 9)(10, 11)
+    (1, 11)(9, 10)
+    (1, 10)(20, 22)
+    (9, 10)(20, 21)
+Ordnung des Stabilisators: 5419008
+Abstrakter Gruppentyp: C2^3.PSL(2,7)*PSL(2,7)*S4
+Erzeuger des Stabilisators:
+{
+    (2, 3)(5, 8),
+    (13, 14)(17, 18),
+    (1, 10)(20, 22),
+    (14, 17)(15, 16),
+    (2, 7)(3, 6),
+    (9, 10)(20, 21),
+    (1, 9)(10, 11),
+    (13, 18)(15, 16),
+    (5, 7)(6, 8),
+    (5, 6)(7, 8),
+    (1, 11)(9, 10),
+    (2, 4)(6, 8),
+    (14, 15)(16, 17),
+    (12, 19)(15, 16),
+    (13, 19)(15, 17)
+}
+
+Klasse 121
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 5419008 = 2^12 * 3^3 * 7^2
+    (2, 4)(5, 7)
+    (2, 7)(4, 5)
+    (1, 8)(4, 5)
+    (1, 2)(7, 8)
+    (2, 4)(6, 8)
+    (3, 6)(4, 5)
+    (13, 16)(14, 19)
+    (13, 14)(16, 19)
+    (13, 19)(15, 17)
+    (14, 15)(16, 17)
+    (13, 16)(15, 18)
+    (12, 20)(21, 22)
+    (12, 21)(20, 22)
+    (9, 11)(20, 22)
+    (10, 11)(12, 20)
+Ordnung des Stabilisators: 5419008
+Abstrakter Gruppentyp: C2^3.PSL(2,7)*PSL(2,7)*S4
+Erzeuger des Stabilisators:
+{
+    (1, 2)(7, 8),
+    (2, 7)(4, 5),
+    (13, 16)(15, 18),
+    (9, 11)(20, 22),
+    (3, 6)(4, 5),
+    (1, 8)(4, 5),
+    (10, 11)(12, 20),
+    (2, 4)(5, 7),
+    (12, 21)(20, 22),
+    (2, 4)(6, 8),
+    (12, 20)(21, 22),
+    (14, 15)(16, 17),
+    (13, 14)(16, 19),
+    (13, 16)(14, 19),
+    (13, 19)(15, 17)
+}
+
+Klasse 122
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 1]
+[0 1 0 1 0 1 0 1 0 0 0 1 0 0 1 0 1 1 0 0 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 1 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 193536 = 2^10 * 3^3 * 7
+    (5, 6)(7, 8)
+    (5, 8)(6, 7)
+    (3, 4)(5, 6)
+    (3, 8)(4, 7)
+    (1, 2)(5, 6)
+    (1, 3)(2, 4)
+    (13, 16)(14, 19)
+    (13, 14)(16, 19)
+    (13, 16)(15, 18)
+    (14, 15)(18, 19)
+    (13, 19)(15, 17)
+    (9, 11)(20, 22)
+    (9, 10)(20, 21)
+Ordnung des Stabilisators: 193536
+Abstrakter Gruppentyp: C2^3:S4*PSL(2,7)*S3
+Erzeuger des Stabilisators:
+{
+    (14, 15)(18, 19),
+    (13, 16)(15, 18),
+    (3, 8)(4, 7),
+    (9, 11)(20, 22),
+    (1, 3)(2, 4),
+    (9, 10)(20, 21),
+    (5, 8)(6, 7),
+    (5, 6)(7, 8),
+    (13, 14)(16, 19),
+    (3, 4)(5, 6),
+    (13, 16)(14, 19),
+    (13, 19)(15, 17),
+    (1, 2)(5, 6)
+}
+
+Klasse 123
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 1 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 5160960 = 2^14 * 3^2 * 5 * 7
+    (14, 15)(18, 19)
+    (14, 18)(15, 19)
+    (12, 13)(14, 15)
+    (12, 18)(13, 19)
+    (14, 15)(20, 21)
+    (12, 21)(13, 20)
+    (14, 15)(16, 17)
+    (16, 21)(17, 20)
+    (3, 6)(4, 5)
+    (3, 4)(5, 6)
+    (5, 6)(7, 8)
+    (3, 8)(4, 7)
+    (2, 8)(4, 6)
+    (1, 2)(5, 6)
+    (9, 10)(14, 15)
+Ordnung des Stabilisators: 5160960
+Abstrakter Gruppentyp: C2wrS5*C2^3.PSL(2,7)
+Erzeuger des Stabilisators:
+{
+    (14, 15)(20, 21),
+    (12, 21)(13, 20),
+    (14, 15)(18, 19),
+    (12, 13)(14, 15),
+    (3, 8)(4, 7),
+    (2, 8)(4, 6),
+    (9, 10)(14, 15),
+    (3, 6)(4, 5),
+    (12, 18)(13, 19),
+    (5, 6)(7, 8),
+    (14, 15)(16, 17),
+    (14, 18)(15, 19),
+    (16, 21)(17, 20),
+    (3, 4)(5, 6),
+    (1, 2)(5, 6)
+}
+
+Klasse 124
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]
+[0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0 1 1 0 1 1 1]
+[0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1 1 0 1 1 1]
+[0 0 0 1 0 1 1 0 0 0 0 0 1 0 1 0 1 1 0 1 1 1]
+[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 1 0 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 193536 = 2^10 * 3^3 * 7
+    (16, 19)(17, 18)
+    (16, 17)(18, 19)
+    (12, 13)(18, 19)
+    (12, 17)(13, 16)
+    (14, 15)(18, 19)
+    (12, 14)(13, 15)
+    (2, 4)(5, 7)
+    (2, 7)(4, 5)
+    (3, 6)(4, 5)
+    (2, 6)(3, 7)
+    (2, 5)(3, 8)
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+Ordnung des Stabilisators: 193536
+Abstrakter Gruppentyp: C2^3:S4*PSL(2,7)*S3
+Erzeuger des Stabilisators:
+{
+    (16, 17)(18, 19),
+    (14, 15)(18, 19),
+    (10, 11)(21, 22),
+    (2, 7)(4, 5),
+    (9, 11)(20, 22),
+    (12, 13)(18, 19),
+    (3, 6)(4, 5),
+    (2, 6)(3, 7),
+    (12, 14)(13, 15),
+    (12, 17)(13, 16),
+    (2, 4)(5, 7),
+    (16, 19)(17, 18),
+    (2, 5)(3, 8)
+}
+
+Klasse 125
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 1 0 1 0 0 0 0 1 1 1 0 1 1 0]
+[0 1 0 1 0 1 0 0 1 0 1 0 0 0 0 1 1 1 0 1 0 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 2580480 = 2^13 * 3^2 * 5 * 7
+    (5, 11)(6, 10)
+    (5, 6)(10, 11)
+    (3, 4)(10, 11)
+    (3, 6)(4, 5)
+    (1, 2)(10, 11)
+    (1, 3)(2, 4)
+    (8, 9)(10, 11)
+    (1, 8)(2, 9)
+    (13, 18)(15, 16)
+    (13, 15)(16, 18)
+    (14, 17)(15, 16)
+    (13, 14)(17, 18)
+    (12, 14)(16, 18)
+    (10, 11)(19, 20)
+    (10, 11)(21, 22)
+    (19, 22)(20, 21)
+Ordnung des Stabilisators: 2580480
+Abstrakter Gruppentyp: C2^6.C2.S5*PSL(2,7)
+Erzeuger des Stabilisators:
+{
+    (8, 9)(10, 11),
+    (10, 11)(21, 22),
+    (13, 15)(16, 18),
+    (13, 14)(17, 18),
+    (10, 11)(19, 20),
+    (5, 6)(10, 11),
+    (12, 14)(16, 18),
+    (1, 8)(2, 9),
+    (19, 22)(20, 21),
+    (14, 17)(15, 16),
+    (3, 6)(4, 5),
+    (1, 3)(2, 4),
+    (3, 4)(10, 11),
+    (1, 2)(10, 11),
+    (13, 18)(15, 16),
+    (5, 11)(6, 10)
+}
+
+Klasse 126
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1]
+[0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 1 1]
+[0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 64512 = 2^10 * 3^2 * 7
+    (12, 18)(14, 16)
+    (12, 14)(16, 18)
+    (14, 16)(15, 17)
+    (12, 17)(15, 18)
+    (13, 17)(14, 18)
+    (1, 10)(3, 11)
+    (1, 3)(10, 11)
+    (2, 4)(10, 11)
+    (1, 2)(3, 4)
+    (5, 6)(8, 9)
+    (5, 8)(6, 9)
+    (5, 6)(19, 20)
+    (10, 11)(21, 22)
+Ordnung des Stabilisators: 64512
+Abstrakter Gruppentyp: (C2^3*S4).C2.PSL(2,7)
+Erzeuger des Stabilisators:
+{
+    (1, 3)(10, 11),
+    (5, 8)(6, 9),
+    (10, 11)(21, 22),
+    (12, 17)(15, 18),
+    (1, 2)(3, 4),
+    (12, 14)(16, 18),
+    (2, 4)(10, 11),
+    (1, 10)(3, 11),
+    (14, 16)(15, 17),
+    (5, 6)(19, 20),
+    (12, 18)(14, 16),
+    (13, 17)(14, 18),
+    (5, 6)(8, 9)
+}
+
+Klasse 127
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 1]
+[0 1 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 147456 = 2^14 * 3^2
+    (13, 16)(15, 18)
+    (13, 15)(16, 18)
+    (13, 18)(21, 22)
+    (15, 22)(16, 21)
+    (13, 18)(14, 17)
+    (14, 22)(17, 21)
+    (5, 9)(6, 8)
+    (5, 6)(8, 9)
+    (3, 4)(8, 9)
+    (3, 6)(4, 5)
+    (1, 2)(8, 9)
+    (1, 3)(2, 4)
+    (10, 11)(13, 18)
+    (8, 9)(19, 20)
+Ordnung des Stabilisators: 147456
+Abstrakter Gruppentyp: (C2^3:S4.C2)^2
+Erzeuger des Stabilisators:
+{
+    (13, 15)(16, 18),
+    (13, 16)(15, 18),
+    (8, 9)(19, 20),
+    (3, 6)(4, 5),
+    (1, 3)(2, 4),
+    (13, 18)(21, 22),
+    (15, 22)(16, 21),
+    (14, 22)(17, 21),
+    (1, 2)(8, 9),
+    (10, 11)(13, 18),
+    (13, 18)(14, 17),
+    (3, 4)(8, 9),
+    (5, 9)(6, 8),
+    (5, 6)(8, 9)
+}
+
+Klasse 128
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0 1 1]
+[0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 1 0 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 1 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 36864 = 2^12 * 3^2
+    (5, 6)(8, 9)
+    (5, 9)(6, 8)
+    (3, 4)(5, 6)
+    (3, 9)(4, 8)
+    (1, 2)(5, 6)
+    (1, 3)(2, 4)
+    (13, 14)(17, 18)
+    (13, 17)(14, 18)
+    (13, 18)(15, 16)
+    (14, 15)(16, 17)
+    (12, 19)(21, 22)
+    (12, 22)(19, 21)
+    (10, 11)(12, 19)
+Ordnung des Stabilisators: 36864
+Abstrakter Gruppentyp: C2.C2^6.D6^2.C2
+Erzeuger des Stabilisators:
+{
+    (3, 9)(4, 8),
+    (13, 14)(17, 18),
+    (1, 3)(2, 4),
+    (10, 11)(12, 19),
+    (13, 18)(15, 16),
+    (14, 15)(16, 17),
+    (12, 19)(21, 22),
+    (3, 4)(5, 6),
+    (13, 17)(14, 18),
+    (12, 22)(19, 21),
+    (5, 9)(6, 8),
+    (1, 2)(5, 6),
+    (5, 6)(8, 9)
+}
+
+Klasse 129
+Vertreter (Generatormatrix):
+[1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0 1 0 1]
+[0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0]
+[0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0]
+[0 0 0 1 0 1 1 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1]
+[0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 1 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 36864 = 2^12 * 3^2
+    (15, 16)(19, 22)
+    (15, 19)(16, 22)
+    (13, 18)(15, 16)
+    (13, 19)(18, 22)
+    (14, 17)(15, 16)
+    (13, 14)(17, 18)
+    (3, 4)(5, 6)
+    (3, 5)(4, 6)
+    (2, 7)(3, 6)
+    (2, 4)(5, 7)
+    (1, 9)(8, 10)
+    (1, 8)(9, 10)
+    (9, 10)(20, 21)
+Ordnung des Stabilisators: 36864
+Abstrakter Gruppentyp: C2.C2^6.D6^2.C2
+Erzeuger des Stabilisators:
+{
+    (13, 14)(17, 18),
+    (1, 9)(8, 10),
+    (3, 5)(4, 6),
+    (14, 17)(15, 16),
+    (2, 7)(3, 6),
+    (13, 19)(18, 22),
+    (15, 19)(16, 22),
+    (1, 8)(9, 10),
+    (9, 10)(20, 21),
+    (15, 16)(19, 22),
+    (13, 18)(15, 16),
+    (2, 4)(5, 7),
+    (3, 4)(5, 6)
+}
+
+Klasse 130
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0]
+[0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 64512 = 2^10 * 3^2 * 7
+    (3, 6)(4, 5)
+    (3, 4)(5, 6)
+    (1, 7)(4, 6)
+    (1, 3)(5, 7)
+    (1, 2)(5, 6)
+    (13, 16)(15, 18)
+    (13, 15)(16, 18)
+    (13, 18)(14, 17)
+    (14, 15)(16, 17)
+    (12, 19)(20, 22)
+    (12, 20)(19, 22)
+    (8, 9)(12, 22)
+    (10, 11)(13, 18)
+Ordnung des Stabilisators: 64512
+Abstrakter Gruppentyp: C2*PSL(2,7)*S4*D4
+Erzeuger des Stabilisators:
+{
+    (13, 15)(16, 18),
+    (13, 16)(15, 18),
+    (1, 3)(5, 7),
+    (3, 6)(4, 5),
+    (8, 9)(12, 22),
+    (12, 20)(19, 22),
+    (12, 19)(20, 22),
+    (1, 7)(4, 6),
+    (10, 11)(13, 18),
+    (14, 15)(16, 17),
+    (13, 18)(14, 17),
+    (3, 4)(5, 6),
+    (1, 2)(5, 6)
+}
+
+Klasse 131
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 1 1 1 0 1 0 1]
+[0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 1 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]
+Stabilisator in S_11 x S_11:
+Permutation group acting on a set of cardinality 22
+Order = 2580480 = 2^13 * 3^2 * 5 * 7
+    (14, 15)(16, 17)
+    (14, 17)(15, 16)
+    (13, 18)(15, 16)
+    (13, 14)(17, 18)
+    (15, 16)(19, 20)
+    (13, 20)(18, 19)
+    (15, 16)(21, 22)
+    (19, 21)(20, 22)
+    (1, 6)(2, 5)
+    (1, 2)(5, 6)
+    (3, 4)(5, 6)
+    (1, 3)(2, 4)
+    (2, 6)(3, 7)
+    (10, 11)(15, 16)
+    (8, 9)(15, 16)
+    (8, 10)(9, 11)
+Ordnung des Stabilisators: 2580480
+Abstrakter Gruppentyp: C2^6.C2.S5*PSL(2,7)
+Erzeuger des Stabilisators:
+{
+    (15, 16)(19, 20),
+    (8, 9)(15, 16),
+    (1, 6)(2, 5),
+    (13, 20)(18, 19),
+    (14, 17)(15, 16),
+    (2, 6)(3, 7),
+    (10, 11)(15, 16),
+    (1, 2)(5, 6),
+    (13, 18)(15, 16),
+    (19, 21)(20, 22),
+    (3, 4)(5, 6),
+    (13, 14)(17, 18),
+    (14, 15)(16, 17),
+    (1, 3)(2, 4),
+    (15, 16)(21, 22),
+    (8, 10)(9, 11)
+}
+
+Klasse 132
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1]
+[0 1 0 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 0 1 0]
+[0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 1 1]
+[0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 1 0 1 0 1 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 0 1 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_11 x S_11:
+Permutation group G1 acting on a set of cardinality 22
+Order = 3686400 = 2^14 * 3^2 * 5^2
+    (3, 5)(4, 6)
+    (3, 4)(5, 6)
+    (5, 6)(9, 10)
+    (3, 9)(4, 10)
+    (1, 2)(5, 6)
+    (1, 9)(2, 10)
+    (5, 6)(7, 8)
+    (1, 7)(2, 8)
+    (14, 15)(18, 19)
+    (14, 19)(15, 18)
+    (12, 13)(14, 15)
+    (12, 19)(13, 18)
+    (14, 15)(20, 21)
+    (12, 21)(13, 20)
+    (14, 15)(16, 17)
+    (16, 20)(17, 21)
+Ordnung des Stabilisators: 3686400
+Abstrakter Gruppentyp: (C2^4.S5)^2
+Erzeuger des Stabilisators:
+{
+    (14, 15)(20, 21),
+    (12, 21)(13, 20),
+    (14, 15)(18, 19),
+    (3, 9)(4, 10),
+    (14, 19)(15, 18),
+    (16, 20)(17, 21),
+    (12, 13)(14, 15),
+    (3, 5)(4, 6),
+    (5, 6)(9, 10),
+    (1, 7)(2, 8),
+    (12, 19)(13, 18),
+    (5, 6)(7, 8),
+    (14, 15)(16, 17),
+    (1, 9)(2, 10),
+    (3, 4)(5, 6),
+    (1, 2)(5, 6)
+}
+
+Haeufigkeiten der Stabilisatortypen nach SmallGroup-Kennung:
+--------------------------------------------------
+SmallGroup-Kennung: <1296, 3494>
+Abstrakter Gruppentyp: C2*S3wrC3
+Ordnung: 1296
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 18):
+Permutation group S acting on a set of cardinality 22
+Order = 1296 = 2^4 * 3^4
+    (5, 6)(16, 17)
+    (4, 6)(15, 17)
+    (2, 3)(13, 14)
+    (1, 3)(12, 14)
+    (8, 9)(19, 20)
+    (7, 9)(18, 20)
+    (1, 4, 7)(2, 5, 8)(3, 6, 9)(12, 15, 18)(13, 16, 19)(14, 17, 20)
+    (10, 11)(21, 22)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (1, 4, 7)(2, 5, 8)(3, 6, 9)(12, 15, 18)(13, 16, 19)(14, 17, 20),
+    (4, 6)(15, 17),
+    (2, 3)(13, 14),
+    (7, 9)(18, 20),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (1, 3)(12, 14),
+    (5, 6)(16, 17)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <768, 1076474>
+Abstrakter Gruppentyp: C3:(C2^5.C2^3)
+Ordnung: 768
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 34):
+Permutation group S acting on a set of cardinality 22
+Order = 768 = 2^8 * 3
+    (1, 2)(3, 4)
+    (1, 3)(2, 4)
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (5, 6)(16, 17)
+    (1, 2)(12, 13)
+    (8, 9)(19, 20)
+    (7, 9)(18, 20)
+    (10, 11)(21, 22)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (1, 2)(3, 4),
+    (10, 11)(21, 22),
+    (14, 15)(16, 17),
+    (8, 9)(19, 20),
+    (5, 6)(16, 17),
+    (14, 17)(15, 16),
+    (1, 2)(12, 13),
+    (7, 9)(18, 20),
+    (1, 3)(2, 4)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <576, 8399>
+Abstrakter Gruppentyp: D6^2.C2^2
+Ordnung: 576
+Haeufigkeit: 2
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 41):
+Permutation group S acting on a set of cardinality 22
+Order = 576 = 2^6 * 3^2
+    (12, 13)(14, 15)
+    (12, 14)(13, 15)
+    (5, 7)(16, 18)
+    (5, 6)(16, 17)
+    (9, 10)(20, 21)
+    (2, 3)(12, 15)
+    (8, 10)(19, 21)
+    (1, 4)(5, 10)(6, 8)(7, 9)(12, 15)(16, 21)(17, 19)(18, 20)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (8, 10)(19, 21),
+    (9, 10)(20, 21),
+    (2, 3)(12, 15),
+    (1, 4)(5, 10)(6, 8)(7, 9)(12, 15)(16, 21)(17, 19)(18, 20),
+    (5, 7)(16, 18),
+    (12, 13)(14, 15),
+    (12, 14)(13, 15),
+    (5, 6)(16, 17)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <384, 19195>
+Abstrakter Gruppentyp: C3:(C2^4.C2^3)
+Ordnung: 384
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 42):
+Permutation group S acting on a set of cardinality 22
+Order = 384 = 2^7 * 3
+    (1, 5)(6, 7)
+    (1, 6)(5, 7)
+    (12, 13)(14, 15)
+    (12, 14)(13, 15)
+    (3, 4)(12, 13)
+    (8, 10)(19, 21)
+    (1, 5)(17, 18)
+    (9, 10)(20, 21)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (1, 6)(5, 7),
+    (8, 10)(19, 21),
+    (1, 5)(17, 18),
+    (9, 10)(20, 21),
+    (1, 5)(6, 7),
+    (12, 13)(14, 15),
+    (12, 14)(13, 15),
+    (3, 4)(12, 13)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <648, 705>
+Abstrakter Gruppentyp: S3wrC3
+Ordnung: 648
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 50):
+Permutation group S acting on a set of cardinality 22
+Order = 648 = 2^3 * 3^4
+    (9, 10)(20, 21)
+    (8, 10)(19, 21)
+    (3, 4)(14, 15)
+    (2, 3)(12, 15)
+    (5, 6)(16, 17)
+    (5, 7)(16, 18)
+    (2, 8, 7)(3, 10, 5)(4, 9, 6)(12, 19, 18)(14, 20, 17)(15, 21, 16)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (8, 10)(19, 21),
+    (9, 10)(20, 21),
+    (2, 8, 7)(3, 10, 5)(4, 9, 6)(12, 19, 18)(14, 20, 17)(15, 21, 16),
+    (2, 3)(12, 15),
+    (5, 7)(16, 18),
+    (3, 4)(14, 15),
+    (5, 6)(16, 17)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <864, 4673>
+Abstrakter Gruppentyp: S4*S3^2
+Ordnung: 864
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 52):
+Permutation group S acting on a set of cardinality 22
+Order = 864 = 2^5 * 3^3
+    (9, 10)(20, 21)
+    (10, 11)(21, 22)
+    (8, 11)(19, 22)
+    (5, 6)(16, 17)
+    (5, 7)(16, 18)
+    (3, 4)(14, 15)
+    (2, 4)(13, 15)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (9, 10)(20, 21),
+    (8, 11)(19, 22),
+    (10, 11)(21, 22),
+    (5, 7)(16, 18),
+    (2, 4)(13, 15),
+    (3, 4)(14, 15),
+    (5, 6)(16, 17)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <384, 20165>
+Abstrakter Gruppentyp: C2^6.C6
+Ordnung: 384
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 58):
+Permutation group S acting on a set of cardinality 22
+Order = 384 = 2^7 * 3
+    (1, 3)(2, 4)
+    (1, 2)(3, 4)
+    (7, 8)(18, 19)
+    (5, 6)(16, 17)
+    (9, 10)(20, 21)
+    (1, 4, 3)(5, 9, 8)(6, 10, 7)(12, 13, 15)(16, 20, 19)(17, 21, 18)
+    (12, 14)(13, 15)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (7, 8)(18, 19),
+    (1, 3)(2, 4),
+    (9, 10)(20, 21),
+    (1, 2)(3, 4),
+    (12, 14)(13, 15),
+    (5, 6)(16, 17),
+    (1, 4, 3)(5, 9, 8)(6, 10, 7)(12, 13, 15)(16, 20, 19)(17, 21, 18)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <192, 1514>
+Abstrakter Gruppentyp: C2^2*S3*D4
+Ordnung: 192
+Haeufigkeit: 2
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 61):
+Permutation group S acting on a set of cardinality 22
+Order = 192 = 2^6 * 3
+    (12, 15)(13, 14)
+    (12, 13)(14, 15)
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+    (7, 8)(18, 19)
+    (3, 4)(14, 15)
+    (5, 6)(16, 17)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (7, 8)(18, 19),
+    (12, 15)(13, 14),
+    (10, 11)(21, 22),
+    (12, 13)(14, 15),
+    (3, 4)(14, 15),
+    (9, 11)(20, 22),
+    (5, 6)(16, 17)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <320, 1636>
+Abstrakter Gruppentyp: C2*C2^4:D5
+Ordnung: 320
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 63):
+Permutation group S acting on a set of cardinality 22
+Order = 320 = 2^6 * 5
+    (3, 4)(14, 15)
+    (5, 6)(16, 17)
+    (1, 2)(12, 13)
+    (9, 10)(20, 21)
+    (1, 10)(2, 9)(3, 5)(4, 6)(12, 21)(13, 20)(14, 16)(15, 17)
+    (7, 8)(18, 19)
+    (1, 5)(2, 6)(7, 10)(8, 9)(12, 17)(13, 16)(18, 20)(19, 21)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (7, 8)(18, 19),
+    (9, 10)(20, 21),
+    (1, 5)(2, 6)(7, 10)(8, 9)(12, 17)(13, 16)(18, 20)(19, 21),
+    (1, 10)(2, 9)(3, 5)(4, 6)(12, 21)(13, 20)(14, 16)(15, 17),
+    (1, 2)(12, 13),
+    (3, 4)(14, 15),
+    (5, 6)(16, 17)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <144, 192>
+Abstrakter Gruppentyp: D6^2
+Ordnung: 144
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 64):
+Permutation group S acting on a set of cardinality 22
+Order = 144 = 2^4 * 3^2
+    (10, 11)(21, 22)
+    (9, 11)(20, 22)
+    (7, 8)(18, 19)
+    (6, 8)(17, 19)
+    (3, 4)(14, 15)
+    (1, 2)(12, 13)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (7, 8)(18, 19),
+    (6, 8)(17, 19),
+    (10, 11)(21, 22),
+    (1, 2)(12, 13),
+    (3, 4)(14, 15),
+    (9, 11)(20, 22)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <288, 1031>
+Abstrakter Gruppentyp: C2^2*S3wrC2
+Ordnung: 288
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 66):
+Permutation group S acting on a set of cardinality 22
+Order = 288 = 2^5 * 3^2
+    (8, 9)(19, 20)
+    (7, 9)(18, 20)
+    (3, 4)(14, 15)
+    (2, 4)(13, 15)
+    (10, 11)(21, 22)
+    (2, 7)(3, 8)(4, 9)(5, 6)(10, 11)(13, 18)(14, 19)(15, 20)
+    (2, 7)(3, 8)(4, 9)(10, 11)(13, 18)(14, 19)(15, 20)(16, 17)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (2, 7)(3, 8)(4, 9)(5, 6)(10, 11)(13, 18)(14, 19)(15, 20),
+    (7, 9)(18, 20),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (2, 7)(3, 8)(4, 9)(10, 11)(13, 18)(14, 19)(15, 20)(16, 17),
+    (2, 4)(13, 15),
+    (3, 4)(14, 15)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <64, 32>
+Abstrakter Gruppentyp: C2wrC4
+Ordnung: 64
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 67):
+Permutation group S acting on a set of cardinality 22
+Order = 64 = 2^6
+    (5, 6)(16, 17)
+    (8, 9)(19, 20)
+    (1, 2)(12, 13)
+    (10, 11)(21, 22)
+    (1, 8)(2, 9)(5, 10)(6, 11)(12, 19)(13, 20)(16, 21)(17, 22)
+    (1, 5, 8, 10)(2, 6, 9, 11)(3, 7)(12, 16, 19, 21)(13, 17, 20, 22)(14, 18)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (1, 8)(2, 9)(5, 10)(6, 11)(12, 19)(13, 20)(16, 21)(17, 22),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (1, 2)(12, 13),
+    (5, 6)(16, 17),
+    (1, 5, 8, 10)(2, 6, 9, 11)(3, 7)(12, 16, 19, 21)(13, 17, 20, 22)(14, 18)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <384, 5602>
+Abstrakter Gruppentyp: C2wrA4.C2
+Ordnung: 384
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 68):
+Permutation group S acting on a set of cardinality 22
+Order = 384 = 2^7 * 3
+    (7, 8)(18, 19)
+    (10, 11)(21, 22)
+    (4, 5)(15, 16)
+    (1, 2)(12, 13)
+    (1, 5)(2, 4)(7, 10)(8, 11)(12, 16)(13, 15)(18, 21)(19, 22)
+    (1, 11)(2, 10)(4, 7)(5, 8)(12, 22)(13, 21)(15, 18)(16, 19)
+    (1, 2)(3, 6)(4, 8)(5, 7)(10, 11)(14, 20)(15, 18)(16, 19)
+    (1, 2)(4, 11)(5, 10)(6, 9)(7, 8)(14, 17)(15, 21)(16, 22)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (7, 8)(18, 19),
+    (1, 5)(2, 4)(7, 10)(8, 11)(12, 16)(13, 15)(18, 21)(19, 22),
+    (1, 11)(2, 10)(4, 7)(5, 8)(12, 22)(13, 21)(15, 18)(16, 19),
+    (10, 11)(21, 22),
+    (4, 5)(15, 16),
+    (1, 2)(3, 6)(4, 8)(5, 7)(10, 11)(14, 20)(15, 18)(16, 19),
+    (1, 2)(12, 13),
+    (1, 2)(4, 11)(5, 10)(6, 9)(7, 8)(14, 17)(15, 21)(16, 22)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <384, 20133>
+Abstrakter Gruppentyp: C3:(C2^6.C2)
+Ordnung: 384
+Haeufigkeit: 2
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 101):
+Permutation group S acting on a set of cardinality 22
+Order = 384 = 2^7 * 3
+    (14, 16)(15, 17)
+    (14, 15)(16, 17)
+    (1, 2)(3, 4)
+    (1, 4)(2, 3)
+    (10, 11)(21, 22)
+    (9, 10)(20, 21)
+    (5, 6)(16, 17)
+    (7, 8)(18, 19)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (7, 8)(18, 19),
+    (14, 15)(16, 17),
+    (1, 4)(2, 3),
+    (14, 16)(15, 17),
+    (9, 10)(20, 21),
+    (10, 11)(21, 22),
+    (1, 2)(3, 4),
+    (5, 6)(16, 17)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <256, 55683>
+Abstrakter Gruppentyp: C2^4.C2^4
+Ordnung: 256
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 108):
+Permutation group S acting on a set of cardinality 22
+Order = 256 = 2^8
+    (14, 16)(15, 17)
+    (14, 15)(16, 17)
+    (1, 7)(8, 9)
+    (1, 8)(7, 9)
+    (5, 6)(16, 17)
+    (10, 11)(21, 22)
+    (1, 7)(19, 20)
+    (3, 4)(12, 13)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (1, 7)(19, 20),
+    (14, 16)(15, 17),
+    (1, 7)(8, 9),
+    (10, 11)(21, 22),
+    (14, 15)(16, 17),
+    (5, 6)(16, 17),
+    (3, 4)(12, 13),
+    (1, 8)(7, 9)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <128, 1578>
+Abstrakter Gruppentyp: C2^3wrC2
+Ordnung: 128
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 113):
+Permutation group S acting on a set of cardinality 22
+Order = 128 = 2^7
+    (1, 2)(3, 4)
+    (1, 4)(2, 3)
+    (14, 16)(15, 17)
+    (14, 15)(16, 17)
+    (10, 11)(21, 22)
+    (8, 9)(19, 20)
+    (1, 3)(5, 7)(8, 11)(9, 10)(12, 18)(14, 16)(19, 21)(20, 22)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (14, 15)(16, 17),
+    (1, 4)(2, 3),
+    (14, 16)(15, 17),
+    (8, 9)(19, 20),
+    (10, 11)(21, 22),
+    (1, 2)(3, 4),
+    (1, 3)(5, 7)(8, 11)(9, 10)(12, 18)(14, 16)(19, 21)(20, 22)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <192, 1538>
+Abstrakter Gruppentyp: C2*C2^2:S4
+Ordnung: 192
+Haeufigkeit: 2
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 115):
+Permutation group S acting on a set of cardinality 22
+Order = 192 = 2^6 * 3
+    (14, 17)(15, 16)
+    (14, 15)(16, 17)
+    (7, 8)(18, 19)
+    (9, 10)(20, 21)
+    (5, 6)(12, 13)
+    (2, 11, 3)(5, 8, 10)(6, 7, 9)(12, 18, 21)(13, 19, 20)(15, 16, 17)
+    (1, 4)(3, 11)(5, 8)(6, 7)(12, 19)(13, 18)(15, 16)(20, 21)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (7, 8)(18, 19),
+    (14, 15)(16, 17),
+    (1, 4)(3, 11)(5, 8)(6, 7)(12, 19)(13, 18)(15, 16)(20, 21),
+    (9, 10)(20, 21),
+    (14, 17)(15, 16),
+    (2, 11, 3)(5, 8, 10)(6, 7, 9)(12, 18, 21)(13, 19, 20)(15, 16, 17),
+    (5, 6)(12, 13)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <660, 13>
+Abstrakter Gruppentyp: PSL(2,11)
+Ordnung: 660
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 118):
+Permutation group S acting on a set of cardinality 22
+Order = 660 = 2^2 * 3 * 5 * 11
+    (1, 3, 2)(5, 9, 8)(6, 10, 7)(12, 15, 14)(16, 20, 19)(17, 21, 18)
+    (1, 2)(4, 11)(5, 9)(6, 7)(12, 21)(14, 18)(15, 17)(19, 20)
+    (1, 5)(3, 9)(6, 11)(7, 10)(12, 20)(14, 16)(17, 18)(21, 22)
+    (1, 7)(2, 6)(3, 10)(5, 9)(13, 22)(14, 15)(17, 18)(19, 20)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (1, 3, 2)(5, 9, 8)(6, 10, 7)(12, 15, 14)(16, 20, 19)(17, 21, 18),
+    (1, 7)(2, 6)(3, 10)(5, 9)(13, 22)(14, 15)(17, 18)(19, 20),
+    (1, 2)(4, 11)(5, 9)(6, 7)(12, 21)(14, 18)(15, 17)(19, 20),
+    (1, 5)(3, 9)(6, 11)(7, 10)(12, 20)(14, 16)(17, 18)(21, 22)
+}
+--------------------------------------------------
+Nicht durch die SmallGroups-Datenbank identifizierbare Stabilisatoren:
+Klasse 1: Ordnung 39916800, GroupName S11
+Klasse 2: Ordnung 483840, GroupName S7*C2^2:S4
+Klasse 3: Ordnung 86400, GroupName S6*S5
+Klasse 4: Ordnung 241920, GroupName S8*S3
+Klasse 5: Ordnung 3628800, GroupName S10
+Klasse 6: Ordnung 138240, GroupName A4^2.C2^3*S5
+Klasse 7: Ordnung 13824, GroupName S4^3
+Klasse 8: Ordnung 110592, GroupName C2^8.S3wrC2*S3
+Klasse 9: Ordnung 4608, GroupName (C2*C6*A4).C2^5
+Klasse 10: Ordnung 5760, GroupName C2*S5*S4
+Klasse 11: Ordnung 69120, GroupName S6*C2^2:S4
+Klasse 12: Ordnung 23040, GroupName C2^2wrC2.A6.C2
+Klasse 13: Ordnung 120960, GroupName S7*S4
+Klasse 14: Ordnung 6912, GroupName A4^2.D4*S3
+Klasse 15: Ordnung 5760, GroupName C2*S5*S4
+Klasse 16: Ordnung 17280, GroupName S6*S4
+Klasse 17: Ordnung 120960, GroupName S7*S4
+Klasse 19: Ordnung 2304, GroupName C2*A4^2.D4
+Klasse 20: Ordnung 2304, GroupName C2*A4^2.D4
+Klasse 21: Ordnung 14400, GroupName S5^2
+Klasse 22: Ordnung 4320, GroupName S3^2*S5
+Klasse 23: Ordnung 677376, GroupName PSL(2,7)^2*S4
+Klasse 24: Ordnung 442368, GroupName C2^4.C2^6.C3.D6.C2*S3
+Klasse 25: Ordnung 13824, GroupName C2^2*S4^2*S3
+Klasse 26: Ordnung 9216, GroupName C2*D4*S4*S4
+Klasse 27: Ordnung 6912, GroupName C2*S4^2*S3
+Klasse 28: Ordnung 110592, GroupName A4^2.C2^3*C2^2:S4
+Klasse 29: Ordnung 27648, GroupName A4^2.C2^3*S4
+Klasse 30: Ordnung 4608, GroupName C2^3*S4^2
+Klasse 31: Ordnung 23040, GroupName D4*S4*S5
+Klasse 32: Ordnung 69120, GroupName S4^2*S5
+Klasse 33: Ordnung 9216, GroupName C2*D4*S4*S4
+Klasse 35: Ordnung 1536, GroupName (C2^3*A4).C2^4
+Klasse 36: Ordnung 4608, GroupName C2^3*S4^2
+Klasse 37: Ordnung 23040, GroupName D4*S4*S5
+Klasse 38: Ordnung 7680, GroupName D4^2.S5
+Klasse 39: Ordnung 3456, GroupName S4^2*S3
+Klasse 40: Ordnung 9216, GroupName A4^2.D4^2
+Klasse 43: Ordnung 9216, GroupName A4^2.D4^2
+Klasse 44: Ordnung 55296, GroupName S4^2*C2^2:S4
+Klasse 45: Ordnung 1152, GroupName C2^2.D6^2.C2
+Klasse 46: Ordnung 4608, GroupName D4*S4^2
+Klasse 47: Ordnung 3456, GroupName S4^2*S3
+Klasse 48: Ordnung 4608, GroupName A4^2.C2^4.C2
+Klasse 49: Ordnung 1536, GroupName A4.C2^5.C2^2
+Klasse 53: Ordnung 3456, GroupName S4^2*S3
+Klasse 54: Ordnung 1152, GroupName C2^2.D6^2.C2
+Klasse 55: Ordnung 4096, GroupName C2*C2^5.C2^5.C2
+Klasse 56: Ordnung 4608, GroupName (C2*C6*A4).C2^5
+Klasse 57: Ordnung 4608, GroupName (C2*C6*A4).C2^5
+Klasse 59: Ordnung 1152, GroupName C6^2.C2^5
+Klasse 60: Ordnung 1152, GroupName (C2^3*S3^2).C2^2
+Klasse 62: Ordnung 1152, GroupName (C2^3*S3^2).C2^2
+Klasse 69: Ordnung 10838016, GroupName (C2^3.PSL(2,7))^2*S3
+Klasse 70: Ordnung 129024, GroupName C2*C2^3:S4.C2*PSL(2,7)
+Klasse 71: Ordnung 96768, GroupName PSL(2,7)*S4^2
+Klasse 72: Ordnung 169344, GroupName PSL(2,7)^2*S3
+Klasse 73: Ordnung 2709504, GroupName PSL(2,7)^2*C2^2:S4
+Klasse 74: Ordnung 96768, GroupName PSL(2,7)*S4^2
+Klasse 75: Ordnung 129024, GroupName C2*C2^3:S4.C2*PSL(2,7)
+Klasse 76: Ordnung 96768, GroupName PSL(2,7)*S4^2
+Klasse 77: Ordnung 3456, GroupName S4^2*S3
+Klasse 78: Ordnung 13824, GroupName S4^3
+Klasse 79: Ordnung 96768, GroupName PSL(2,7)*S4^2
+Klasse 80: Ordnung 7372800, GroupName C2^9.A5.S5.C2
+Klasse 81: Ordnung 73728, GroupName C2*C2^3.(D4*S4)*S4
+Klasse 82: Ordnung 73728, GroupName C2*(C2^3:S4)^2
+Klasse 83: Ordnung 221184, GroupName C2^3.A4^2.C2^3*S4
+Klasse 84: Ordnung 55296, GroupName C2^3:S4.C2*S4*S3
+Klasse 85: Ordnung 4608, GroupName C2^3*S4^2
+Klasse 86: Ordnung 221184, GroupName C2^5.(C6*S4).C2*S4
+Klasse 87: Ordnung 9216, GroupName (C6*A4).C2^6.C2
+Klasse 88: Ordnung 55296, GroupName C2^3:S4.C2*S4*S3
+Klasse 89: Ordnung 73728, GroupName C2*C2^3.(D4*S4)*S4
+Klasse 90: Ordnung 9216, GroupName (C6*A4).C2^6.C2
+Klasse 91: Ordnung 3072, GroupName (C2*D4*A4).C2^4
+Klasse 92: Ordnung 9216, GroupName A4^2.C2^5.C2
+Klasse 93: Ordnung 27648, GroupName C2*S4^3
+Klasse 94: Ordnung 1152, GroupName C2^3*S4*S3
+Klasse 95: Ordnung 6912, GroupName C2*S4^2*S3
+Klasse 96: Ordnung 2304, GroupName (C6*S4).C2^4
+Klasse 97: Ordnung 6912, GroupName C2*S4^2*S3
+Klasse 98: Ordnung 27648, GroupName C2*S4^3
+Klasse 99: Ordnung 3072, GroupName (C2*D4*A4).C2^4
+Klasse 100: Ordnung 9216, GroupName A4^2.C2^4.C2^2
+Klasse 102: Ordnung 2304, GroupName (C6*S4).C2^4
+Klasse 104: Ordnung 1152, GroupName C2^3*S4*S3
+Klasse 105: Ordnung 36864, GroupName (D4*S4)^2
+Klasse 106: Ordnung 1536, GroupName A4.C2^5.C2^2
+Klasse 107: Ordnung 2048, GroupName C2^6.C2^5
+Klasse 109: Ordnung 1024, GroupName C2^4.C2^4.C2^2
+Klasse 110: Ordnung 2304, GroupName C2^2*S4^2
+Klasse 111: Ordnung 18432, GroupName A4^2.C2^5.C2^2
+Klasse 112: Ordnung 1536, GroupName A4.C2^5.C2^2
+Klasse 114: Ordnung 1024, GroupName C2^4.C2^4.C2^2
+Klasse 117: Ordnung 3072, GroupName C2^8.D6
+Klasse 119: Ordnung 5160960, GroupName C2wrS5*C2^3.PSL(2,7)
+Klasse 120: Ordnung 5419008, GroupName C2^3.PSL(2,7)*PSL(2,7)*S4
+Klasse 121: Ordnung 5419008, GroupName C2^3.PSL(2,7)*PSL(2,7)*S4
+Klasse 122: Ordnung 193536, GroupName C2^3:S4*PSL(2,7)*S3
+Klasse 123: Ordnung 5160960, GroupName C2wrS5*C2^3.PSL(2,7)
+Klasse 124: Ordnung 193536, GroupName C2^3:S4*PSL(2,7)*S3
+Klasse 125: Ordnung 2580480, GroupName C2^6.C2.S5*PSL(2,7)
+Klasse 126: Ordnung 64512, GroupName (C2^3*S4).C2.PSL(2,7)
+Klasse 127: Ordnung 147456, GroupName (C2^3:S4.C2)^2
+Klasse 128: Ordnung 36864, GroupName C2.C2^6.D6^2.C2
+Klasse 129: Ordnung 36864, GroupName C2.C2^6.D6^2.C2
+Klasse 130: Ordnung 64512, GroupName C2*PSL(2,7)*S4*D4
+Klasse 131: Ordnung 2580480, GroupName C2^6.C2.S5*PSL(2,7)
+Klasse 132: Ordnung 3686400, GroupName (C2^4.S5)^2
+
+Isomorphie-Sicherheitscheck:
+Keine doppelten Klassen gefunden.
+
+Massformel-Kontrolle:
+Anzahl t_11 aller gelabelten Codes: 167448083323950
+Erwartete Masse t_N/(N!)^2: 46403149/441548800
+Berechnete Masse Summe 1/|Aut(C)|: 46403149/441548800
+Massformel erfuellt: Die Klassenliste ist vollstaendig.

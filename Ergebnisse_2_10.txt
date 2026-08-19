@@ -1,0 +1,81 @@
+Aktuelle Klasse 1 | Gefundene Klassen 2
+Aktuelle Klasse 2 | Gefundene Klassen 2
+==================================================
+Laenge: (2,10)
+Anzahl der Aequivalenzklassen: 2
+==================================================
+
+Klasse 1
+Vertreter (Generatormatrix):
+[1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 1 1 1]
+[0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_2 x S_10:
+Permutation group acting on a set of cardinality 12
+Order = 2688 = 2^7 * 3 * 7
+    (5, 6)(9, 10)
+    (5, 10)(6, 9)
+    (5, 9)(7, 11)
+    (6, 7)(10, 11)
+    (6, 9)(11, 12)
+    (5, 9)(8, 12)
+    (1, 2)(3, 4)
+Ordnung des Stabilisators: 2688
+Abstrakter Gruppentyp: C2*C2^3.PSL(2,7)
+Erzeuger des Stabilisators:
+{
+    (5, 6)(9, 10),
+    (6, 7)(10, 11),
+    (5, 9)(8, 12),
+    (5, 9)(7, 11),
+    (1, 2)(3, 4),
+    (5, 10)(6, 9),
+    (6, 9)(11, 12)
+}
+
+Klasse 2
+Vertreter (Generatormatrix):
+[1 0 0 1 0 1 0 0 0 1 1 1]
+[0 1 0 1 0 1 0 0 1 0 1 1]
+[0 0 1 1 0 0 0 0 1 1 0 0]
+[0 0 0 0 1 1 0 0 1 1 0 0]
+[0 0 0 0 0 0 1 0 1 1 0 1]
+[0 0 0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_2 x S_10:
+Permutation group G1 acting on a set of cardinality 12
+Order = 3840 = 2^8 * 3 * 5
+    (8, 9)(10, 11)
+    (7, 10, 8)(9, 11, 12)
+    (3, 9)(4, 10)
+    (5, 9)(6, 10)
+    (8, 11)(9, 10)
+    (1, 2)(8, 11)
+Ordnung des Stabilisators: 3840
+Abstrakter Gruppentyp: C2wrS5
+Erzeuger des Stabilisators:
+{
+    (8, 11)(9, 10),
+    (7, 10, 8)(9, 11, 12),
+    (5, 9)(6, 10),
+    (1, 2)(8, 11),
+    (8, 9)(10, 11),
+    (3, 9)(4, 10)
+}
+
+Haeufigkeiten der Stabilisatortypen nach SmallGroup-Kennung:
+--------------------------------------------------
+Nicht durch die SmallGroups-Datenbank identifizierbare Stabilisatoren:
+Klasse 1: Ordnung 2688, GroupName C2*C2^3.PSL(2,7)
+Klasse 2: Ordnung 3840, GroupName C2wrS5
+
+Isomorphie-Sicherheitscheck:
+Keine doppelten Klassen gefunden.
+
+Massformel-Kontrolle:
+Anzahl t_(2,10) aller gelabelten Codes: 4590
+Erwartete Masse t_(N1,N2)/(N1!*N2!): 17/26880
+Berechnete Masse Summe 1/|Aut(C)|: 17/26880
+Massformel erfuellt: Die Klassenliste ist vollstaendig.

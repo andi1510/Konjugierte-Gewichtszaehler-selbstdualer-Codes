@@ -1,0 +1,109 @@
+Aktuelle Klasse 1 | Gefundene Klassen 2
+Aktuelle Klasse 2 | Gefundene Klassen 2
+==================================================
+Laenge: (5,5)
+Anzahl der Aequivalenzklassen: 2
+==================================================
+
+Klasse 1
+Vertreter (Generatormatrix):
+[1 0 0 0 0 1 0 0 0 0]
+[0 1 0 0 0 0 1 0 0 0]
+[0 0 1 0 0 0 0 1 0 0]
+[0 0 0 1 0 0 0 0 1 0]
+[0 0 0 0 1 0 0 0 0 1]
+Stabilisator in S_5 x S_5:
+Permutation group acting on a set of cardinality 10
+Order = 120 = 2^3 * 3 * 5
+    (2, 3)(7, 8)
+    (3, 4)(8, 9)
+    (4, 5)(9, 10)
+    (1, 5)(6, 10)
+Ordnung des Stabilisators: 120
+Abstrakter Gruppentyp: S5
+SmallGroup-Kennung: <120, 34>
+Erzeuger des Stabilisators:
+{
+    (4, 5)(9, 10),
+    (3, 4)(8, 9),
+    (1, 5)(6, 10),
+    (2, 3)(7, 8)
+}
+
+Klasse 2
+Vertreter (Generatormatrix):
+[1 0 0 1 0 0 1 1 0 0]
+[0 1 0 1 0 0 1 0 1 0]
+[0 0 1 1 0 0 0 1 1 0]
+[0 0 0 0 1 0 0 0 0 1]
+[0 0 0 0 0 1 1 1 1 0]
+Stabilisator in S_5 x S_5:
+Permutation group G1 acting on a set of cardinality 10
+Order = 96 = 2^5 * 3
+    (1, 4)(2, 3)
+    (1, 2)(3, 4)
+    (2, 3)(7, 8)
+    (3, 4)(8, 9)
+    (2, 3)(6, 9)
+Ordnung des Stabilisators: 96
+Abstrakter Gruppentyp: C2^2:S4
+SmallGroup-Kennung: <96, 227>
+Erzeuger des Stabilisators:
+{
+    (1, 4)(2, 3),
+    (1, 2)(3, 4),
+    (2, 3)(6, 9),
+    (3, 4)(8, 9),
+    (2, 3)(7, 8)
+}
+
+Haeufigkeiten der Stabilisatortypen nach SmallGroup-Kennung:
+--------------------------------------------------
+SmallGroup-Kennung: <120, 34>
+Abstrakter Gruppentyp: S5
+Ordnung: 120
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 1):
+Permutation group S acting on a set of cardinality 10
+Order = 120 = 2^3 * 3 * 5
+    (2, 3)(7, 8)
+    (3, 4)(8, 9)
+    (4, 5)(9, 10)
+    (1, 5)(6, 10)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (4, 5)(9, 10),
+    (3, 4)(8, 9),
+    (1, 5)(6, 10),
+    (2, 3)(7, 8)
+}
+--------------------------------------------------
+SmallGroup-Kennung: <96, 227>
+Abstrakter Gruppentyp: C2^2:S4
+Ordnung: 96
+Haeufigkeit: 1
+Vertreter des Stabilisator-Isomorphietyps (Stabilisator von Klasse 2):
+Permutation group G1 acting on a set of cardinality 10
+Order = 96 = 2^5 * 3
+    (1, 4)(2, 3)
+    (1, 2)(3, 4)
+    (2, 3)(7, 8)
+    (3, 4)(8, 9)
+    (2, 3)(6, 9)
+Erzeuger dieses Stabilisatorvertreters:
+{
+    (1, 4)(2, 3),
+    (1, 2)(3, 4),
+    (2, 3)(6, 9),
+    (3, 4)(8, 9),
+    (2, 3)(7, 8)
+}
+
+Isomorphie-Sicherheitscheck:
+Keine doppelten Klassen gefunden.
+
+Massformel-Kontrolle:
+Anzahl t_(5,5) aller gelabelten Codes: 270
+Erwartete Masse t_(N1,N2)/(N1!*N2!): 3/160
+Berechnete Masse Summe 1/|Aut(C)|: 3/160
+Massformel erfuellt: Die Klassenliste ist vollstaendig.
