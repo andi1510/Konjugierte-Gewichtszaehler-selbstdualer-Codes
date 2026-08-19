@@ -1,0 +1,70 @@
+==================================================
+Strukturanalyse fuer Typ (1,9)
+Anzahl der Vertreter: 1
+==================================================
+
+==================================================
+Klasse 1, Typ (1,9)
+==================================================
+Dimension: 5
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: ja
+Anzahl der Koordinatenfaktoren: 2
+  Faktor 1: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+  Faktor 2: Typ (0,8), Dimension 4
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -8
+    Typ: einseitiger Typ-II-Faktor
+    gewoehnliche Koordinatenkomponenten dieses Faktors: 1
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 4
+  Erwartete Kerndifferenz (N2-N1)/2 = 4
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 4
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 1
+  dim(K_R^perp/K_R) = 1
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_1 | A ; 0 | K_R ].
+  Matrixgroesse A: 1 x 9
+  dim K_R = 4
+  A*A^tr = I_1: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  allgemeine aeussere orthogonale Summe
+  enthaelt 1 einseitige(n) Typ-II-Faktor(en)
+  enthaelt 1 balancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 1
+
+==================================================
+GESAMTAUSWERTUNG fuer (1,9)
+==================================================
+Klassen insgesamt: 1
+Allgemein aeusserlich zerlegbar: 1
+Koordinatenweise unzerlegbar: 0
+Mit mindestens einem einseitigen Typ-II-Faktor: 1
+Mit voller Projektion auf den kleineren Block: 1
+Quotientendimensionen:
+  q = 1: 1 Klassen

@@ -1,0 +1,1028 @@
+==================================================
+Strukturanalyse fuer Typ (3,19)
+Anzahl der Vertreter: 19
+==================================================
+
+==================================================
+Klasse 1, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: ja
+Anzahl der Koordinatenfaktoren: 5
+  Faktor 1: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+  Faktor 2: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+  Faktor 3: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+  Faktor 4: Typ (0,8), Dimension 4
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -8
+    Typ: einseitiger Typ-II-Faktor
+    gewoehnliche Koordinatenkomponenten dieses Faktors: 1
+  Faktor 5: Typ (0,8), Dimension 4
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -8
+    Typ: einseitiger Typ-II-Faktor
+    gewoehnliche Koordinatenkomponenten dieses Faktors: 1
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  allgemeine aeussere orthogonale Summe
+  enthaelt 2 einseitige(n) Typ-II-Faktor(en)
+  enthaelt 3 balancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 2, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: ja
+Anzahl der Koordinatenfaktoren: 2
+  Faktor 1: Typ (3,11), Dimension 7
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -8
+    Typ: unbalancierter Faktor / unbalancierter Kern
+  Faktor 2: Typ (0,8), Dimension 4
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -8
+    Typ: einseitiger Typ-II-Faktor
+    gewoehnliche Koordinatenkomponenten dieses Faktors: 1
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  allgemeine aeussere orthogonale Summe
+  enthaelt 1 einseitige(n) Typ-II-Faktor(en)
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 3, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: ja
+Anzahl der Koordinatenfaktoren: 3
+  Faktor 1: Typ (2,10), Dimension 6
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -8
+    Typ: unbalancierter Faktor / unbalancierter Kern
+  Faktor 2: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+  Faktor 3: Typ (0,8), Dimension 4
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -8
+    Typ: einseitiger Typ-II-Faktor
+    gewoehnliche Koordinatenkomponenten dieses Faktors: 1
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  allgemeine aeussere orthogonale Summe
+  enthaelt 1 einseitige(n) Typ-II-Faktor(en)
+  enthaelt 1 balancierte(n) Faktor(en)
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 4, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: ja
+Anzahl der Koordinatenfaktoren: 2
+  Faktor 1: Typ (2,18), Dimension 10
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+  Faktor 2: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  allgemeine aeussere orthogonale Summe
+  enthaelt 1 balancierte(n) Faktor(en)
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 5, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: ja
+Anzahl der Koordinatenfaktoren: 3
+  Faktor 1: Typ (1,17), Dimension 9
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+  Faktor 2: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+  Faktor 3: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  allgemeine aeussere orthogonale Summe
+  enthaelt 2 balancierte(n) Faktor(en)
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 6, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: nein
+Anzahl der Koordinatenfaktoren: 1
+  Faktor 1: Typ (3,19), Dimension 11
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  koordinatenweise unzerlegbarer Code
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 7, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: ja
+Anzahl der Koordinatenfaktoren: 4
+  Faktor 1: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+  Faktor 2: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+  Faktor 3: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+  Faktor 4: Typ (0,16), Dimension 8
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: einseitiger Typ-II-Faktor
+    gewoehnliche Koordinatenkomponenten dieses Faktors: 1
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  allgemeine aeussere orthogonale Summe
+  enthaelt 1 einseitige(n) Typ-II-Faktor(en)
+  enthaelt 3 balancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 8, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: ja
+Anzahl der Koordinatenfaktoren: 2
+  Faktor 1: Typ (2,18), Dimension 10
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+  Faktor 2: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  allgemeine aeussere orthogonale Summe
+  enthaelt 1 balancierte(n) Faktor(en)
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 9, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: nein
+Anzahl der Koordinatenfaktoren: 1
+  Faktor 1: Typ (3,19), Dimension 11
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  koordinatenweise unzerlegbarer Code
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 10, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: nein
+Anzahl der Koordinatenfaktoren: 1
+  Faktor 1: Typ (3,19), Dimension 11
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  koordinatenweise unzerlegbarer Code
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 11, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: nein
+Anzahl der Koordinatenfaktoren: 1
+  Faktor 1: Typ (3,19), Dimension 11
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  koordinatenweise unzerlegbarer Code
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 12, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: nein
+Anzahl der Koordinatenfaktoren: 1
+  Faktor 1: Typ (3,19), Dimension 11
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  koordinatenweise unzerlegbarer Code
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 13, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: nein
+Anzahl der Koordinatenfaktoren: 1
+  Faktor 1: Typ (3,19), Dimension 11
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  koordinatenweise unzerlegbarer Code
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 14, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: ja
+Anzahl der Koordinatenfaktoren: 2
+  Faktor 1: Typ (2,18), Dimension 10
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+  Faktor 2: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  allgemeine aeussere orthogonale Summe
+  enthaelt 1 balancierte(n) Faktor(en)
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 15, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: nein
+Anzahl der Koordinatenfaktoren: 1
+  Faktor 1: Typ (3,19), Dimension 11
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  koordinatenweise unzerlegbarer Code
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 16, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: ja
+Anzahl der Koordinatenfaktoren: 2
+  Faktor 1: Typ (2,18), Dimension 10
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+  Faktor 2: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  allgemeine aeussere orthogonale Summe
+  enthaelt 1 balancierte(n) Faktor(en)
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 17, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: nein
+Anzahl der Koordinatenfaktoren: 1
+  Faktor 1: Typ (3,19), Dimension 11
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  koordinatenweise unzerlegbarer Code
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 18, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: ja
+Anzahl der Koordinatenfaktoren: 2
+  Faktor 1: Typ (2,18), Dimension 10
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+  Faktor 2: Typ (1,1), Dimension 1
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = 0
+    Typ: balancierter Faktor T_(1,1)
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  allgemeine aeussere orthogonale Summe
+  enthaelt 1 balancierte(n) Faktor(en)
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+Klasse 19, Typ (3,19)
+==================================================
+Dimension: 11
+Selbstdual (binaer): ja
+Doppelt-gerade bzgl. signiertem Gewicht: ja
+
+Klassische Konstruktionen aus dem Fall (N,N):
+  Trivialer Gesamtcode T_(N,N): nicht anwendbar fuer N1 != N2
+  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion
+  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes 
+sein.
+
+Allgemeine aeussere orthogonale Zerlegung: nein
+Anzahl der Koordinatenfaktoren: 1
+  Faktor 1: Typ (3,19), Dimension 11
+    selbstdual: ja
+    doppelt-gerade: ja
+    Differenz a-b = -16
+    Typ: unbalancierter Faktor / unbalancierter Kern
+
+Allgemeine Quotientenverklebung:
+  dim K_L = 0
+  dim K_R = 8
+  Erwartete Kerndifferenz (N2-N1)/2 = 8
+  Tatsaechliche Kerndifferenz dim(K_R)-dim(K_L) = 8
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  dim(K_L^perp/K_L) = 3
+  dim(K_R^perp/K_R) = 3
+  Quotientendimensionen stimmen ueberein: ja
+  Volle linke Projektion: ja
+  Volle rechte Projektion: nein
+
+Verallgemeinerte volle Projektion auf den kleineren linken Block:
+  C besitzt eine Darstellung [ I_3 | A ; 0 | K_R ].
+  Matrixgroesse A: 3 x 19
+  dim K_R = 8
+  A*A^tr = I_3: ja
+  A*K_R^tr = 0: ja
+  K_R selbstorthogonal: ja
+
+Zusammenfassung:
+  koordinatenweise unzerlegbarer Code
+  enthaelt 1 unbalancierte(n) Faktor(en)
+  besitzt volle Projektion auf den kleineren Block
+  allgemeine Beschreibung durch (K_L,K_R,psi) mit Quotientendimension 3
+
+==================================================
+GESAMTAUSWERTUNG fuer (3,19)
+==================================================
+Klassen insgesamt: 19
+Allgemein aeusserlich zerlegbar: 10
+Koordinatenweise unzerlegbar: 9
+Mit mindestens einem einseitigen Typ-II-Faktor: 4
+Mit voller Projektion auf den kleineren Block: 19
+Quotientendimensionen:
+  q = 3: 19 Klassen
