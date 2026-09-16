@@ -41,11 +41,11 @@ All paths below are relative to the repository root.
 
 | Program | Purpose | Thesis reference | Example result file |
 |---|---|---|---|
-| `magma/kneser_blockcodes.m` | Classification, stabilizers, and mass-formula checks | Chapters 4 and 5 | `Results/Harmonic_Polynomials/Beispiel_5_1_Ausgabe.txt` |
+| `magma/kneser_blockcodes.m` | Classification, stabilizers, and mass-formula checks | Chapters 4 and 5 | `Results/Kneser_N_N/Ergebnisse_11_11.txt` |
 | `magma/Standardkonstruktionen_v2.m` | Construction analysis for equal block lengths | Chapter 5 | `Results/Constructions_N_N/Standardkonstruktionen_11_11.txt` |
 | `magma/Stamdardlpmstruktionen_ungleich.m` | Structural analysis for unequal block lengths | Chapter 5 | `Results/Constructions_N1_N2/Konstruktionen_ungleich_6_14.txt` |
 | `magma/CCWE_Genus2.m` | Conjugate complete weight enumerators | Section 5.1 | `Results/Harmonic_Polynomials/Beispiel_5_1_Ausgabe.txt` |
-| `magma/Harmonische_Projektion.m` | Laplace operator and harmonic invariants | Section 5.1 | `Results/Kneser_N_N/Ergebnisse_11_11.txt` |
+| `magma/Harmonische_Projektion.m` | Laplace operator and harmonic invariants | Section 5.1 | `Results/Harmonic_Polynomials/Beispiel_5_1_Ausgabe.txt` |
 
 ## Requirements
 
