@@ -55,6 +55,92 @@ The computations require the computer algebra system
 
 The programs were developed and tested with MAGMA during the preparation of the Master's thesis.
 
+## Running the Programs
+
+Run the following commands in a MAGMA session with the repository root as the working directory. This is the directory containing `magma/`, `Results/`, and `README.md`.
+
+### 1. Small Classification Example
+
+The case $(N_1,N_2)=(6,6)$ provides a small example for checking the classification program. The Type II condition is understood as defined in the thesis.
+
+```magma
+load "kneser_blockcodes.m";
+
+Klassen, Stabilisatoren := KneserBlockCodes(6);
+```
+
+**Expected result:** four equivalence classes under $S_6 \times S_6$.
+
+The output contains representatives, stabilizer information, and the mass-formula check. The computed mass should agree with the theoretical value.
+
+**Result file:** `Results/Ergebnisse_6_6.txt`
+
+### 2. Construction Analysis for Equal Block Lengths
+
+The following example analyzes the codes of length $(11,11)$ considered in Chapter 5.
+
+**Classification data:** `Results/Standardkonstruktionen_11_11.txt`
+
+```magma
+load "Standardkonstruktionen_v2.m";
+
+
+// Prepare the representatives in the format required by the analysis.
+Klassen, Stabilisatoren := KneserBlockCodes(11);
+
+// Analyze the representatives
+AnalyseAllStandardConstructions(Klassen, 11, 11);
+```
+
+The output records the construction or structural description assigned to each analyzed class.
+
+**Result file:** `Results/Standardkonstruktionen_11_11.txt`
+
+### 3. Weight Enumerators and Harmonic Invariants
+
+This example reproduces the polynomial computations in Section 5.1 for genus $m=2$ and bidegree $(6,6)$.
+
+```magma
+load "CCWE_Genus2.m";
+load "Harmonische_Projektion.m";
+load "PrintHarmonicCalculation.m"
+
+// Compute the weight enumerators, Laplace images,
+// and harmonic invariants.
+TODO_POLYNOMIAL_CALL;
+```
+
+The output documents
+
+- the polynomials $F_1,\ldots,F_4$,
+- their images under the Laplace operator,
+- the linear system used to determine the harmonic invariants,
+- and its solutions.
+
+**Expected check:** the two resulting harmonic invariants are linearly independent and are annihilated by the Laplace operator.
+
+**Result file:** `Results/Beispiel_5_1.txt`
+
+### 4. Structural Analysis for Unequal Block Lengths
+
+The following example analyzes the codes of length $(6,14)$ considered in Chapter 5.
+
+**Classification data:** `Results/Konstruktionen_ungleich_6_14.txt`
+
+```magma
+load "Standardkonstruktionen_ungleich.m";
+
+// Prepare the representatives in the format required by the analysis.
+Klassen, Stabilisatoren := KneserBlockCodes(6,14);
+
+// Analyze the representatives 
+ WriteUnequalConstructionAnalysis(Klassen,6,14,Sprintf("Konstruktionen_ungleich_%o_%o.txt", 6, 14));
+```
+
+The output records decompositions, projections, projection kernels, and quotient-space descriptions.
+
+**Result file:** `Results/Konstruktionen_ungleich_6_14.txt`
+
 ## Reproducibility
 
 The files in this repository are intended to make the computational results presented in the thesis reproducible.
