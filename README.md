@@ -134,7 +134,7 @@ load "Standardkonstruktionen_ungleich.m";
 Klassen, Stabilisatoren := KneserBlockCodes(6,14);
 
 // Analyze the representatives 
- WriteUnequalConstructionAnalysis(Klassen,6,14,Sprintf("Konstruktionen_ungleich_%o_%o.txt", 6, 14));
+AnalyseAllUnequalConstructions(Klassen, 6, 14);
 ```
 
 The output records decompositions, projections, projection kernels, and quotient-space descriptions.
