@@ -15,7 +15,7 @@ The repository contains MAGMA programs and computational results used in the the
 * computing and classifying self-dual Type II codes,
 * applying Kneser's neighbor method,
 * determining equivalence classes under the action of
-  (S_{N_1} \times S_{N_2}),
+  ($S_{N_1} \times S_{N_2}$),
 * computing stabilizer groups,
 * checking the corresponding mass formula,
 * analyzing standard constructions of self-dual codes,
