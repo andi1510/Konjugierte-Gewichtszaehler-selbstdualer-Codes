@@ -43,7 +43,7 @@ All paths below are relative to the repository root.
 |---|---|---|---|
 | `magma/kneser_blockcodes.m` | Classification, stabilizers, and mass-formula checks | Chapters 4 and 5 | `Results/Kneser_N_N/Ergebnisse_11_11.txt` |
 | `magma/Standardkonstruktionen_v2.m` | Construction analysis for equal block lengths | Chapter 5 | `Results/Constructions_N_N/Standardkonstruktionen_11_11.txt` |
-| `magma/Stamdardlpmstruktionen_ungleich.m` | Structural analysis for unequal block lengths | Chapter 5 | `Results/Constructions_N1_N2/Konstruktionen_ungleich_6_14.txt` |
+| `magma/Standardkonstruktionen_ungleich.m` | Structural analysis for unequal block lengths | Chapter 5 | `Results/Constructions_N1_N2/Konstruktionen_ungleich_6_14.txt` |
 | `magma/CCWE_Genus2.m` | Conjugate complete weight enumerators | Section 5.1 | `Results/Harmonic_Polynomials/Beispiel_5_1_Ausgabe.txt` |
 | `magma/Harmonische_Projektion.m` | Laplace operator and harmonic invariants | Section 5.1 | `Results/Harmonic_Polynomials/Beispiel_5_1_Ausgabe.txt` |
 
@@ -122,9 +122,9 @@ The output documents
 - the linear system used to determine the harmonic invariants,
 - and its solutions.
 
-**Expected check:** the two resulting harmonic invariants are linearly independent and are annihilated by the Laplace operator.
+**Expected result:** the harmonic parts of $F_1$ and $F_2$ vanish. The harmonic parts of $F_3$ and $F_4$ are linearly independent and are annihilated by the Laplace operator.
 
-**Result file:** `Results/Harmonic_Polynomials/Beispiel_5_1.txt`
+**Result file:** `Results/Harmonic_Polynomials/Beispiel_5_1_Ausgabe.txt`
 
 ### 4. Structural Analysis for Unequal Block Lengths
 
@@ -136,7 +136,7 @@ The following example analyzes the codes of length $(6,14)$ considered in Chapte
 load "Standardkonstruktionen_ungleich.m";
 
 // Prepare the representatives in the format required by the analysis.
-Klassen, Stabilisatoren := KneserBlockCodes(6,14);
+Klassen, Stabilisatoren := KneserBlockCodesGeneral(6,14);
 
 // Analyze the representatives 
 AnalyseAllUnequalConstructions(Klassen, 6, 14);
