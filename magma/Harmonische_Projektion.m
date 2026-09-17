@@ -1,6 +1,4 @@
 ///////////////////////////////////////////////////////////////////////////
-// Harmonische_Projektion.m
-//
 // Laplace-Operator und Loesung des linearen Gleichungssystems aus
 // Abschnitt 5.1.
 //
