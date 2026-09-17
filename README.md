@@ -73,7 +73,7 @@ Klassen, Stabilisatoren := KneserBlockCodes(6);
 
 The output contains representatives, stabilizer information, and the mass-formula check. The computed mass should agree with the theoretical value.
 
-**Result file:** `Results/Ergebnisse_6_6.txt`
+**Result file:** `Results/Kneser_N_N/Ergebnisse_6_6.txt`
 
 ### 2. Construction Analysis for Equal Block Lengths
 
@@ -94,7 +94,7 @@ AnalyseAllStandardConstructions(Klassen, 11, 11);
 
 The output records the construction or structural description assigned to each analyzed class.
 
-**Result file:** `Results/Standardkonstruktionen_11_11.txt`
+**Result file:** `Results/Constructions_N_N/Standardkonstruktionen_11_11.txt`
 
 ### 3. Weight Enumerators and Harmonic Invariants
 
@@ -107,7 +107,7 @@ The computation is started with
 ```magma
 load "CCWE_Genus2.m";
 load "Harmonische_Projektion.m";
-load "PrintHarmonicCalculation.m"
+load "PrintHarmonicCalculation.m";
 
 PrintHarmonicCalculation(F1, 1, S, W44);
 PrintHarmonicCalculation(F2poly, 2, S, W44);
@@ -124,7 +124,7 @@ The output documents
 
 **Expected check:** the two resulting harmonic invariants are linearly independent and are annihilated by the Laplace operator.
 
-**Result file:** `Results/Beispiel_5_1.txt`
+**Result file:** `Results/Harmonic_Polynomials/Beispiel_5_1.txt`
 
 ### 4. Structural Analysis for Unequal Block Lengths
 
@@ -144,7 +144,7 @@ AnalyseAllUnequalConstructions(Klassen, 6, 14);
 
 The output records decompositions, projections, projection kernels, and quotient-space descriptions.
 
-**Result file:** `Results/Konstruktionen_ungleich_6_14.txt`
+**Result file:** `Results/Constructions_N1_N2/Konstruktionen_ungleich_6_14.txt`
 
 ## Reproducibility
 
