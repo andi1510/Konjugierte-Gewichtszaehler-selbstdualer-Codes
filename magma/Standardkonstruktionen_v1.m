@@ -724,10 +724,6 @@ end procedure;
 
 ///////////////////////////////////////////////////////////////////////////
 // 10. AUFRUF
-//
-// Fuege am Ende deines bestehenden Programms beispielsweise eine der
-// folgenden Zeilen ein. Ersetze "Klassen" nur dann, wenn deine Liste der
-// Codevertreter einen anderen Namen besitzt.
 ///////////////////////////////////////////////////////////////////////////
 
 // Ausgabe auf dem Bildschirm:
