@@ -1,6 +1,4 @@
 ///////////////////////////////////////////////////////////////////////////
-// CCWE_Genus2.m
-//
 // Hilfsfunktionen fuer Abschnitt 5.1 der Masterarbeit.
 //
 // Berechnet den vollstaendigen konjugierten Gewichtzaehler des Genus m=2
