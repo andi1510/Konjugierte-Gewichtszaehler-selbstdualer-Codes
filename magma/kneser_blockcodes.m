@@ -1,14 +1,13 @@
 ///////////////////////////////////////////////////////////////////////////
-// Sicherer Kneser-Algorithmus fuer binaere Typ-II-Codes der Laenge (N1,N2)
-// Exakte Hyperebenenorbits unter der wirklichen Codewirkung des Stabilisators
+// Kneser-Algorithmus fuer binaere Typ-II-Codes der Laenge (N1,N2)
 //
 // Gewicht gemaess Bannai--Oura--Zhao:
 // wt(c) = Summe(linker Block) - Summe(rechter Block).
 ///////////////////////////////////////////////////////////////////////////
 
 // Aufruf:
-// Genus, Stabilisatoren := KneserBlockCodes(4);
-// Genus, Stabilisatoren := KneserBlockCodesGeneral(1, 9);
+// Klassen, Stabilisatoren := KneserBlockCodes(4);
+// Klassen, Stabilisatoren := KneserBlockCodesGeneral(1, 9);
 
 KneserBlockCodesGeneral := function(N1, N2)
 
@@ -75,10 +74,6 @@ end function;
 // Gefaerbter Inzidenzgraph
 //////////////////////////////
 
-// Der Graph besitzt drei durch Labels getrennte Knotentypen:
-//   L = linke Koordinaten, R = rechte Koordinaten, W = Codewoerter.
-// Ein labelerhaltender Graphisomorphismus ist daher genau eine
-// Codeisomorphie unter S_n x S_n.
 CodeGraph := function(C)
     Woerter := [w : w in C];
     AnzahlWoerter := #Woerter;
@@ -193,9 +188,6 @@ while k le #Genus do
     // Alle Hyperebenen von Caktuell
     //////////////////////////
 
-    // Ueber GF(2) bestimmt jeder von null verschiedene Vektor a genau
-    // eine Hyperebene ker(a). Zunaechst werden garantiert alle maximalen
-    // Teilcodes von Caktuell konstruiert.
     Vinfo := VectorSpace(F, DimensionCode);
     Hyperebenen := [];
     HyperebenenCodes := [];
