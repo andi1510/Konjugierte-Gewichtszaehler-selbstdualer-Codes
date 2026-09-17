@@ -185,7 +185,8 @@ while k le #Genus do
     Append(~Stabilisatoren, G1);
 
     //////////////////////////
-    // Alle Hyperebenen von Caktuell
+    // Alle Untercodes von Caktuell der Dimension DimensionCode - 1
+    // Ihre Generatormatrizen haben die Form B*genmat.
     //////////////////////////
 
     Vinfo := VectorSpace(F, DimensionCode);
@@ -203,10 +204,9 @@ while k le #Genus do
         Append(~HyperebenenCodes, LinearCode(B*genmat));
     end for;
 
-    // Sichere Orbitreduktion: G1 wirkt hier direkt durch
-    // Koordinatenpermutationen auf den Hyperebenen-Codes. Damit wird keine
-    // kuenstliche Matrixdarstellung verwendet. Aus jedem tatsaechlichen
-    // G1-Orbit wird genau ein Vertreter ausgewaehlt.
+    // G1 wirkt durch Koordinatenpermutationen auf diesen Untercodes.
+    // Untercodes im selben G1-Orbit werden zusammengefasst.
+    // Fuer die Nachbarsuche wird aus jedem Orbit ein Vertreter verwendet.
     Verwendet := [false : i in [1..#Hyperebenen]];
     HyperebenenVertreter := [];
 
@@ -244,10 +244,12 @@ while k le #Genus do
             end if;
         end for;
 
-        // Nach Kapitel 4 ist C0 eine Hyperebene eines selbstdualen Codes.
-        // Daher muss C0^perp/C0 genau Dimension 2 besitzen. Ein Abweichen
-        // weist auf einen Programm- oder Eingabefehler hin und darf nicht
-        // durch das Ueberspringen dieser Hyperebene verborgen werden.
+        // C0 ist ein Untercode des selbstdualen Codes Caktuell mit
+        // dim(C0) = DimensionCode - 1.
+        // Da die Codelaenge 2*DimensionCode ist, gilt
+        // dim(C0^perp) = DimensionCode + 1 und somit
+        // dim(C0^perp/C0) = 2.
+        // Andernfalls wird die Rechnung mit einer Fehlermeldung beendet.
         if #Bneu ne 2 then
             error "Der Quotient C0^perp/C0 hat nicht Dimension 2.";
         end if;
