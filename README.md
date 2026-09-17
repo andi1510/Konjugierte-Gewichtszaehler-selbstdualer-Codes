@@ -100,14 +100,19 @@ The output records the construction or structural description assigned to each a
 
 This example reproduces the polynomial computations in Section 5.1 for genus $m=2$ and bidegree $(6,6)$.
 
+The files CCWE_Genus2.m and Harmonische_Projektion.m define the conjugate complete weight enumerators, the Laplace operator, and the auxiliary functions required for the linear systems. The file PrintHarmonicCalculation.m contains the procedure used to write the individual calculations to the output file.
+
+The computation is started with
+
 ```magma
 load "CCWE_Genus2.m";
 load "Harmonische_Projektion.m";
 load "PrintHarmonicCalculation.m"
 
-// Compute the weight enumerators, Laplace images,
-// and harmonic invariants.
-TODO_POLYNOMIAL_CALL;
+PrintHarmonicCalculation(F1, 1, S, W44);
+PrintHarmonicCalculation(F2poly, 2, S, W44);
+PrintHarmonicCalculation(F3, 3, S, W44);
+PrintHarmonicCalculation(F4, 4, S, W44);
 ```
 
 The output documents
