@@ -29,9 +29,7 @@ end if;
 
 F := GF(p);
 
-//////////////////////////////
 // Dualitaet und signiertes Gewicht
-//////////////////////////////
 
 SignedWeight := function(v)
     links := 0;
@@ -70,9 +68,7 @@ IsDoublyEven := function(C)
     return true;
 end function;
 
-//////////////////////////////
 // Gefaerbter Inzidenzgraph
-//////////////////////////////
 
 CodeGraph := function(C)
     Woerter := [w : w in C];
@@ -114,9 +110,7 @@ BlockStabilizer := function(C)
     return Stabilizer(A, LinkerBlock);
 end function;
 
-//////////////////////////////
 // Automatischer Startcode
-//////////////////////////////
 
 // Zuerst min(N1,N2) Kopien von g_(1,1). Die uebrigen Koordinaten
 // liegen vollstaendig in einem Block und werden mit E8-Bloecken gefuellt.
@@ -170,9 +164,7 @@ Genus := [Startcode];
 CodeGraphen := [CodeGraph(Startcode)];
 Stabilisatoren := [];
 
-//////////////////////////////
 // Kneser-Algorithmus
-//////////////////////////////
 
 k := 1;
 
@@ -184,10 +176,8 @@ while k le #Genus do
     G1 := BlockStabilizer(Caktuell);
     Append(~Stabilisatoren, G1);
 
-    //////////////////////////
     // Alle Untercodes von Caktuell der Dimension DimensionCode - 1
     // Ihre Generatormatrizen haben die Form B*genmat.
-    //////////////////////////
 
     Vinfo := VectorSpace(F, DimensionCode);
     Hyperebenen := [];
@@ -225,9 +215,7 @@ while k le #Genus do
         end for;
     end for;
 
-    //////////////////////////
     // Kneser-Nachbarn
-    //////////////////////////
 
     for B in HyperebenenVertreter do
         SC := B * genmat;
@@ -244,20 +232,14 @@ while k le #Genus do
             end if;
         end for;
 
-        // C0 ist ein Untercode des selbstdualen Codes Caktuell mit
-        // dim(C0) = DimensionCode - 1.
-        // Da die Codelaenge 2*DimensionCode ist, gilt
-        // dim(C0^perp) = DimensionCode + 1 und somit
-        // dim(C0^perp/C0) = 2.
-        // Andernfalls wird die Rechnung mit einer Fehlermeldung beendet.
+        // Aus dim(C0) = DimensionCode - 1 folgt dim(C0^perp/C0) = 2.
         if #Bneu ne 2 then
             error "Der Quotient C0^perp/C0 hat nicht Dimension 2.";
         end if;
 
-        // Der Quotient C0Code^perp/C0Code hat Dimension 2. Ueber GF(2)
-        // besitzt er genau drei eindimensionale Unterraeume. Alle drei
-        // muessen untersucht werden; einer davon liefert Caktuell selbst,
-        // die beiden anderen liefern die beiden moeglichen Nachbarn.
+        // Vertreter der drei nichttrivialen Restklassen in C0^perp/C0.
+        // Die Erweiterungen werden anschliessend auf Selbstdualitaet
+        // und die Typ-II-Bedingung geprueft.
         Erweiterungsvektoren := [
             Bneu[1],
             Bneu[2],
@@ -290,15 +272,11 @@ while k le #Genus do
         end for;
     end for;
 
-    // Genau eine Statusmeldung, nachdem die aktuelle Klasse vollstaendig
-    // bearbeitet wurde.
     printf "Aktuelle Klasse %o | Gefundene Klassen %o\n", k, #Genus;
     k +:= 1;
 end while;
 
-//////////////////////////////
 // Ausgabe
-//////////////////////////////
 
 print "==================================================";
 printf "Laenge: (%o,%o)\n", N1, N2;
@@ -323,9 +301,7 @@ for i in [1..#Genus] do
     print Generators(Stabilisatoren[i]);
 end for;
 
-//////////////////////////////
 // Haeufigkeiten der Stabilisatoren nach SmallGroup-Kennung
-//////////////////////////////
 
 SmallGroupKennungen := [];
 SmallGroupHaeufigkeiten := [];
@@ -381,9 +357,7 @@ if #NichtIdentifizierbar gt 0 then
     end for;
 end if;
 
-//////////////////////////////
 // Sicherheitscheck
-//////////////////////////////
 
 print "\nIsomorphie-Sicherheitscheck:";
 Fehler := false;
@@ -401,9 +375,7 @@ if not Fehler then
     print "Keine doppelten Klassen gefunden.";
 end if;
 
-//////////////////////////////
 // Massformel fuer den binaeren Typ 2_II und Laenge (N1,N2)
-//////////////////////////////
 
 Q := Rationals();
 n := (N1 + N2) div 2;
@@ -445,7 +417,7 @@ return Genus, Stabilisatoren;
 
 end function;
 
-// Bequemer Spezialfall fuer die diagonale Laenge (n,n).
+// Spezialfall N1 = N2 = n.
 KneserBlockCodes := function(n)
     return KneserBlockCodesGeneral(n, n);
 end function;
