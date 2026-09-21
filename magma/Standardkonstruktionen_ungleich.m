@@ -22,21 +22,14 @@
 ///////////////////////////////////////////////////////////////////////////
 
 
-///////////////////////////////////////////////////////////////////////////
-// 1. Hilfsfunktionen
-///////////////////////////////////////////////////////////////////////////
+// Hilfsfunktionen
 
 function MatrixColumns(A, cols)
-    // Verwende die eingebaute Magma-Funktion statt eine Matrix
-    // aus einer flachen Sequenz neu zusammenzusetzen.
     return Submatrix(A, [1..Nrows(A)], cols);
 end function;
 
-/*
-    Robuster Vergleich zweier Matrizen ueber ihre Eintraege.
-    Dadurch vermeiden wir Probleme, wenn in Magma zwei inhaltlich gleiche
-    Matrizen unterschiedliche konkrete Parent-/Matrixtypen besitzen.
-*/
+// Vergleicht die Dimensionen und Eintraege zweier Matrizen.
+
 function MatricesEqualEntrywise(A, B)
     if Nrows(A) ne Nrows(B) or Ncols(A) ne Ncols(B) then
         return false;
@@ -69,18 +62,9 @@ function IsZeroMatrixEntrywise(A)
 end function;
 
 
+// Vergleicht die Codes ueber den Rang ihrer gemeinsam
+// angeordneten Generatormatrizen.
 
-
-
-/*
-    Mathematischer Gleichheitstest fuer zwei lineare Codes ueber ihrem
-    Zeilenraum. Dieser Test ist unabhaengig davon, wie Magma die beiden
-    Codeobjekte intern erzeugt hat.
-
-    Zwei lineare Codes gleicher Laenge und Dimension sind genau dann
-    gleich, wenn der von beiden Generatormatrizen gemeinsam erzeugte
-    Zeilenraum keine groessere Dimension besitzt.
-*/
 function CodesEqualByRowSpace(C, D)
     if Length(C) ne Length(D) then
         return false;
@@ -113,21 +97,9 @@ end function;
 
 
 function SupportedCodeOnPositions(C, pos)
-    // Bestimmt den Untercode
-    //
-    //   { c|_pos : c in C und c_j = 0 fuer j ausserhalb von pos }
-    //
-    // direkt aus der Generatormatrix. Dadurch sind wir nicht von der
-    // internen Darstellung von ShortenCode abhaengig.
-    //
-    // Ist G eine k x n Generatormatrix und G_out der Block der
-    // ausserhalb von pos liegenden Spalten, dann gehoert a*G genau
-    // dann zum gesuchten Untercode, wenn
-    //
-    //     a * G_out = 0.
-    //
-    // Die moeglichen Koeffizienten a bilden also den linken Nullraum
-    // von G_out.
+    // Gesucht sind Codewoerter, die ausserhalb von pos verschwinden.
+    // Fuer ein Codewort a*G bedeutet das a*GOutside = 0.
+    // Die zugehoerigen Koeffizienten bilden den linken Nullraum.
 
     G := GeneratorMatrix(C);
     F := BaseRing(G);
@@ -184,14 +156,10 @@ function IsSignedDoublyEven(C, a, b)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 2. Gewoehnliche Koordinatenkomponenten
-///////////////////////////////////////////////////////////////////////////
+// Gewoehnliche Koordinatenkomponenten
 
-/*
-    Zusammenhangskomponenten des Spaltenmatroids einer Generatormatrix.
-    Jede Komponente beschreibt einen direkten Summanden nach Koordinaten.
-*/
+// Bestimmt die Koordinatenkomponenten fuer die direkte Summenzerlegung.
+
 function CoordinateComponents(C)
     G := GeneratorMatrix(C);
     E := EchelonForm(G);
@@ -269,10 +237,9 @@ function CoordinateComponents(C)
 end function;
 
 
-/*
-    Der Faktor wird so angeordnet, dass zuerst seine linken und danach
-    seine rechten Koordinaten stehen.
-*/
+//    Der Faktor wird so angeordnet, dass zuerst seine linken und danach
+//    seine rechten Koordinaten stehen.
+
 function ComponentFactor(C, positions, N1)
     leftPositions := [ j : j in positions | j le N1 ];
     rightPositions := [ j : j in positions | j gt N1 ];
@@ -287,9 +254,7 @@ function ComponentFactor(C, positions, N1)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 3. Kerne und allgemeine Quotientenverklebung
-///////////////////////////////////////////////////////////////////////////
+// Kerne und allgemeine Quotientenverklebung
 
 function GeneralKernelCodes(C, N1, N2)
     if Length(C) ne N1 + N2 then
@@ -335,21 +300,19 @@ function GeneralGluingData(C, N1, N2)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 4. Verallgemeinerte volle Projektion
-///////////////////////////////////////////////////////////////////////////
+// Verallgemeinerte volle Projektion
 
-/*
-    Falls die linke Projektion voll ist, besitzt der Code nach
-    Zeilenoperationen eine Darstellung
 
-        [ I_N1 | A ]
-        [   0  | K ]
+//    Falls die linke Projektion voll ist, besitzt der Code nach
+//    Zeilenoperationen eine Darstellung
+//
+//        [ I_N1 | A ]
+//        [   0  | K ]
+//
+//    mit K = K_R und dim(K)=(N2-N1)/2.
+//
+//    Die Funktion liefert A und K_R.
 
-    mit K = K_R und dim(K)=(N2-N1)/2.
-
-    Die Funktion liefert A und K_R.
-*/
 function GeneralLeftProjectionForm(C, N1, N2)
     F := BaseRing(GeneratorMatrix(C));
     G := GeneratorMatrix(C);
@@ -400,9 +363,8 @@ function GeneralLeftProjectionForm(C, N1, N2)
         error "Die aus Liftungen und Kernbasis gebildete Basistransformation ist nicht invertierbar.";
     end if;
 
-    // Jetzt KEIN erneutes Ausschneiden aus T*G:
-    // Die rechte Seite der oberen Liftungen ist direkt A = U*GRight.
-    // Die rechte Seite des Projektionskerns ist direkt G_KR = N*GRight.
+    // Rechte Bloecke der Normalform:
+    // A = U*GRight und GK = N*GRight.
     A := U * GRight;
     GK := N * GRight;
 
@@ -431,7 +393,7 @@ function GeneralLeftProjectionForm(C, N1, N2)
     return true, A, KRight;
 end function;
 
-/* Spiegelbildliche Version fuer N1 > N2. */
+// Spiegelbildliche Version fuer N1 > N2. 
 function GeneralRightProjectionForm(C, N1, N2)
     F := BaseRing(GeneratorMatrix(C));
     G := GeneratorMatrix(C);
@@ -455,9 +417,7 @@ function GeneralRightProjectionForm(C, N1, N2)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 5. Analyse einer einzelnen Klasse
-///////////////////////////////////////////////////////////////////////////
+// Analyse einer einzelnen Klasse
 
 procedure AnalyseUnequalConstructions(C, N1, N2, classNumber)
     printf "\n";
@@ -490,9 +450,7 @@ procedure AnalyseUnequalConstructions(C, N1, N2, classNumber)
     printf "  Gewoehnliches Double(K): nicht anwendbar als Gesamtkonstruktion\n";
     printf "  Hinweis: balancierte Summanden koennen selbst trivial oder Doubling-Codes sein.\n";
 
-    ///////////////////////////////////////////////////////////////
     // Koordinatenzerlegung
-    ///////////////////////////////////////////////////////////////
 
     components := CoordinateComponents(C);
     isDecomposable := #components gt 1;
@@ -535,9 +493,7 @@ procedure AnalyseUnequalConstructions(C, N1, N2, classNumber)
         end if;
     end for;
 
-    ///////////////////////////////////////////////////////////////
     // Quotientenverklebung
-    ///////////////////////////////////////////////////////////////
 
     KLeft,
     KRight,
@@ -570,9 +526,7 @@ procedure AnalyseUnequalConstructions(C, N1, N2, classNumber)
     printf "  Volle rechte Projektion: %o\n",
         fullRightProjection select "ja" else "nein";
 
-    ///////////////////////////////////////////////////////////////
     // Verallgemeinerte Projektionsform
-    ///////////////////////////////////////////////////////////////
 
     if N1 lt N2 and fullLeftProjection then
         ok, A, K := GeneralLeftProjectionForm(C, N1, N2);
@@ -606,9 +560,7 @@ procedure AnalyseUnequalConstructions(C, N1, N2, classNumber)
         end if;
     end if;
 
-    ///////////////////////////////////////////////////////////////
     // Zusammenfassung
-    ///////////////////////////////////////////////////////////////
 
     printf "\nZusammenfassung:\n";
 
@@ -642,9 +594,7 @@ procedure AnalyseUnequalConstructions(C, N1, N2, classNumber)
 end procedure;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 6. Analyse einer gesamten Vertreterliste
-///////////////////////////////////////////////////////////////////////////
+// Analyse einer gesamten Vertreterliste
 
 procedure AnalyseAllUnequalConstructions(codeRepresentatives, N1, N2)
     if N1 eq N2 then
@@ -748,8 +698,7 @@ procedure WriteUnequalConstructionAnalysis(
 end procedure;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 7. AUFRUF
+// AUFRUF
 //
 // Am Ende des Kneser-Programms, nachdem "Klassen", N1 und N2
 // berechnet wurden:
@@ -760,4 +709,3 @@ end procedure;
 //     N2,
 //     Sprintf("Konstruktionen_ungleich_%o_%o.txt", N1, N2)
 // );
-///////////////////////////////////////////////////////////////////////////
