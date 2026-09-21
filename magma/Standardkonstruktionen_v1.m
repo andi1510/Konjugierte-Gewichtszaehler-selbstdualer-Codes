@@ -11,9 +11,7 @@
 ///////////////////////////////////////////////////////////////////////////
 
 
-///////////////////////////////////////////////////////////////////////////
-// 1. Grundlegende Hilfsfunktionen
-///////////////////////////////////////////////////////////////////////////
+// Grundlegende Hilfsfunktionen
 
 function MatrixColumns(A, cols)
     F := BaseRing(A);
@@ -31,62 +29,45 @@ function MatrixColumns(A, cols)
 end function;
 
 
-/*
-    Projektion eines Codes auf die Koordinaten in pos.
-*/
+// Projektion eines Codes auf die Koordinaten in pos.
+
 function ProjectionCodeOnPositions(C, pos)
     G := GeneratorMatrix(C);
     GP := MatrixColumns(G, pos);
-
+    
     return LinearCode(GP);
 end function;
 
 
-/*
-    Bestimmt alle Codewoerter, deren Traeger vollstaendig in pos liegt,
-    und entfernt danach die uebrigen Koordinaten.
+// Bestimmt die Codewoerter, die ausserhalb von pos verschwinden,
+// und schraenkt sie auf die Koordinaten in pos ein.
 
-    Fuer die kleinen Dimensionen in den betrachteten Beispielen wird
-    dies direkt ueber die Codewoerter bestimmt. Das vermeidet
-    Orientierungsfragen bei rechteckigen Nullraum-Berechnungen.
-*/
 function SupportedCodeOnPositions(C, pos)
     G := GeneratorMatrix(C);
     F := BaseRing(G);
     n := Length(C);
-
     outside := [ j : j in [1..n] | j notin pos ];
-
-    // Fuer die hier betrachteten Codes (Dimension hoechstens ca. 11)
-    // ist die direkte Codewortpruefung sehr klein und besonders robust.
-    // Wir sammeln genau die Codewoerter, die ausserhalb von pos nur
-    // Nullen besitzen, und beschraenken sie anschliessend auf pos.
     supportedRows := [];
 
     for c in C do
         isSupported := true;
-
         for j in outside do
             if c[j] ne F!0 then
                 isSupported := false;
                 break;
             end if;
         end for;
-
         if isSupported then
             row := [ c[j] : j in pos ];
-
             // Die Nullzeile muss nicht als Erzeuger gespeichert werden.
             if exists{ a : a in row | a ne F!0 } then
                 Append(~supportedRows, row);
             end if;
         end if;
     end for;
-
     if #supportedRows eq 0 then
         return ZeroCode(F, #pos);
     end if;
-
     M := Matrix(F, #supportedRows, #pos, &cat supportedRows);
     return LinearCode(M);
 end function;
@@ -98,29 +79,18 @@ function BinaryBiweightDistribution(C, N1, N2)
     for c in C do
         weightLeft := #[ j : j in [1..N1] | c[j] ne 0 ];
         weightRight := #[ j : j in [N1+1..N1+N2] | c[j] ne 0 ];
-
         index := weightLeft*(N2 + 1) + weightRight + 1;
         distribution[index] +:= 1;
     end for;
-
     return distribution;
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 2. Blockerhaltende Aequivalenz unter S_N1 x S_N2
-///////////////////////////////////////////////////////////////////////////
+// Blockerhaltende Aequivalenz unter S_N1 x S_N2
 
-/*
-    Markierter Inzidenzgraph des Codes.
+// Knotenmarkierungen: L = linke Koordinaten,
+// R = rechte Koordinaten, W = Codewoerter.
 
-    Label 1: linke Koordinaten
-    Label 2: rechte Koordinaten
-    Label 3: Codewoerter
-
-    Ein Graphisomorphismus muss dadurch linke Koordinaten auf linke,
-    rechte auf rechte und Codewoerter auf Codewoerter abbilden.
-*/
 function BlockIncidenceGraph(C, N1, N2)
     n := N1 + N2;
 
@@ -131,15 +101,11 @@ function BlockIncidenceGraph(C, N1, N2)
     F := BaseRing(GeneratorMatrix(C));
     words := [ c : c in C ];
     numberOfVertices := n + #words;
-
-    // Genau wie im funktionierenden Kneser-Programm wird der Graph
-    // ueber eine Nachbarfolge der Laenge numberOfVertices konstruiert.
     neighbours := [ { Integers() | } : i in [1..numberOfVertices] ];
 
     for t in [1..#words] do
         c := words[t];
         wordVertex := n + t;
-
         for j in [1..n] do
             if c[j] eq F!1 then
                 Include(~neighbours[j], wordVertex);
@@ -156,7 +122,6 @@ function BlockIncidenceGraph(C, N1, N2)
         [ "W" : j in [1..#words] ];
 
     AssignLabels(VertexSet(graph), labels);
-
     return graph;
 end function;
 
@@ -165,79 +130,60 @@ function AreBlockEquivalent(C, D, N1, N2)
     if Length(C) ne Length(D) then
         return false;
     end if;
-
     if Dimension(C) ne Dimension(D) then
         return false;
     end if;
-
     if #C ne #D then
         return false;
     end if;
-
     if WeightDistribution(C) ne WeightDistribution(D) then
         return false;
     end if;
-
     if BinaryBiweightDistribution(C, N1, N2) ne
        BinaryBiweightDistribution(D, N1, N2) then
         return false;
     end if;
-
     graphC := BlockIncidenceGraph(C, N1, N2);
     graphD := BlockIncidenceGraph(D, N1, N2);
-
     isomorphic := IsIsomorphic(graphC, graphD);
-
     return isomorphic;
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 3. Gewoehnliche Koordinatenkomponenten des Codes
-///////////////////////////////////////////////////////////////////////////
+// Gewoehnliche Koordinatenkomponenten des Codes
 
-/*
-    Berechnet die Zusammenhangskomponenten des Spaltenmatroids einer
-    Generatormatrix. Diese Komponenten beschreiben die gewoehnliche
-    direkte Summenzerlegung des Codes nach Koordinaten.
-*/
+// Bestimmt die Koordinatenkomponenten fuer die direkte Summenzerlegung.
+
 function CoordinateComponents(C)
     G := GeneratorMatrix(C);
     E := EchelonForm(G);
-
     k := Dimension(C);
     n := Length(C);
     pivotColumns := [];
 
     for i in [1..k] do
         pivot := 0;
-
         for j in [1..n] do
             if E[i,j] ne 0 then
                 pivot := j;
                 break;
             end if;
         end for;
-
         if pivot eq 0 then
             error "In der Zeilenstufenform trat eine Nullzeile auf.";
         end if;
-
         Append(~pivotColumns, pivot);
     end for;
 
     pivotMatrix := MatrixColumns(G, pivotColumns);
-
     if Rank(pivotMatrix) ne k then
         error "Die bestimmten Pivotspalten sind nicht linear unabhaengig.";
     end if;
-
     systematicMatrix := pivotMatrix^(-1) * G;
     adjacency := [ [] : j in [1..n] ];
 
     for i in [1..k] do
         pivot := pivotColumns[i];
-
         for j in [1..n] do
             if j ne pivot and systematicMatrix[i,j] ne 0 then
                 Append(~adjacency[pivot], j);
@@ -255,12 +201,10 @@ function CoordinateComponents(C)
             visited[start] := true;
             component := [];
             queuePosition := 1;
-
             while queuePosition le #queue do
                 u := queue[queuePosition];
                 queuePosition +:= 1;
                 Append(~component, u);
-
                 for v in adjacency[u] do
                     if not visited[v] then
                         visited[v] := true;
@@ -268,12 +212,10 @@ function CoordinateComponents(C)
                     end if;
                 end for;
             end while;
-
             Sort(~component);
             Append(~components, component);
         end if;
     end for;
-
     return components;
 end function;
 
@@ -284,9 +226,7 @@ function UnionOfComponents(components, indices)
     for index in indices do
         positions cat:= components[index];
     end for;
-
     Sort(~positions);
-
     return positions;
 end function;
 
@@ -294,25 +234,22 @@ end function;
 function IsBalancedPositionSet(positions, N1)
     numberLeft := #[ j : j in positions | j le N1 ];
     numberRight := #[ j : j in positions | j gt N1 ];
-
     return numberLeft eq numberRight;
 end function;
 
 
-/*
-    Fasst die gewoehnlichen Koordinatenkomponenten zu minimalen
-    balancierten Gruppen zusammen. Jede Gruppe beschreibt einen Faktor
-    vom Typ (m,m).
-*/
+
+//    Fasst die gewoehnlichen Koordinatenkomponenten zu minimalen
+//    balancierten Gruppen zusammen. Jede Gruppe beschreibt einen Faktor
+//    vom Typ (m,m).
+
 function TypeFactorSupports(C, N1, N2)
     if N1 + N2 ne Length(C) then
         error "Die Blocklaengen stimmen nicht mit der Codelaenge ueberein.";
     end if;
-
     if N1 ne N2 then
         error "Diese Zerlegung ist fuer Codes vom Typ (N,N) formuliert.";
     end if;
-
     components := CoordinateComponents(C);
     remaining := [ 1..#components ];
     factorSupports := [];
@@ -320,36 +257,27 @@ function TypeFactorSupports(C, N1, N2)
     while #remaining gt 0 do
         first := remaining[1];
         others := [ remaining[i] : i in [2..#remaining] ];
-
         best := remaining;
         bestSize := #remaining;
-
         for mask in [0..2^(#others)-1] do
             candidate := [ first ];
-
             for t in [1..#others] do
                 bit := (mask div 2^(t-1)) mod 2;
-
                 if bit eq 1 then
                     Append(~candidate, others[t]);
                 end if;
             end for;
-
             positions := UnionOfComponents(components, candidate);
-
             if IsBalancedPositionSet(positions, N1) and
                #candidate lt bestSize then
                 best := candidate;
                 bestSize := #candidate;
             end if;
         end for;
-
         factorPositions := UnionOfComponents(components, best);
-
         if not IsBalancedPositionSet(factorPositions, N1) then
             error "Es konnte keine balancierte Faktorzerlegung bestimmt werden.";
         end if;
-
         Append(~factorSupports, factorPositions);
         remaining := [ i : i in remaining | i notin best ];
     end while;
@@ -361,25 +289,19 @@ end function;
 function TypeFactorCode(C, positions, N1)
     leftPositions := [ j : j in positions | j le N1 ];
     rightPositions := [ j : j in positions | j gt N1 ];
-
     Sort(~leftPositions);
     Sort(~rightPositions);
-
     orderedPositions := leftPositions cat rightPositions;
     factor := SupportedCodeOnPositions(C, orderedPositions);
-
     return factor, #leftPositions;
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 4. Trivialer Code T_(N,N)
-///////////////////////////////////////////////////////////////////////////
+// Trivialer Code T_(N,N)
 
 function TrivialTypeCode(F, N)
     identity := IdentityMatrix(F, N);
     generatorMatrix := HorizontalJoin(identity, identity);
-
     return LinearCode(generatorMatrix);
 end function;
 
@@ -387,20 +309,16 @@ end function;
 function IsTrivialTypeCode(C, N)
     F := BaseRing(GeneratorMatrix(C));
     factors := TypeFactorSupports(C, N, N);
-
     if #factors ne N then
         return false;
     end if;
-
     trivialOne := LinearCode(Matrix(F, 1, 2, [ 1, 1 ]));
 
     for positions in factors do
         factor, m := TypeFactorCode(C, positions, N);
-
         if m ne 1 then
             return false;
         end if;
-
         if factor ne trivialOne then
             return false;
         end if;
@@ -410,59 +328,46 @@ function IsTrivialTypeCode(C, N)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 5. Doubling-Konstruktion
-///////////////////////////////////////////////////////////////////////////
+// Doubling-Konstruktion
 
 function DoubleCode(K)
     return PlotkinSum(Dual(K), K);
 end function;
 
 
-/*
-    K ist der linke Kern
-        K = {x | (x,0) in C}.
+//    K ist der linke Kern
+//        K = {x | (x,0) in C}.
+//
+//    Ist C unter S_N x S_N aequivalent zu Double(K0), dann ist der
+//    linke Kern eine Koordinatenpermutation von K0. Daher wird C mit
+//    Double(K) blockweise verglichen.
 
-    Ist C unter S_N x S_N aequivalent zu Double(K0), dann ist der
-    linke Kern eine Koordinatenpermutation von K0. Daher wird C mit
-    Double(K) blockweise verglichen.
-*/
 function IsDoublingCode(C, N)
     if Length(C) ne 2*N then
         error "Der Code muss die Laenge 2*N besitzen.";
     end if;
-
     leftPositions := [ 1..N ];
     K := SupportedCodeOnPositions(C, leftPositions);
     candidate := DoubleCode(K);
-
     isDoubling := AreBlockEquivalent(C, candidate, N, N);
-
     return isDoubling, K;
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 6. Volle Projektionen und Darstellung (I_N | A)
-///////////////////////////////////////////////////////////////////////////
+// Volle Projektionen und Darstellung (I_N | A)
 
 function LeftProjectionMatrix(C, N)
     F := BaseRing(GeneratorMatrix(C));
     G := GeneratorMatrix(C);
-
     if Length(C) ne 2*N or Dimension(C) ne N then
         return false, ZeroMatrix(F, 0, 0);
     end if;
-
     GLeft := MatrixColumns(G, [1..N]);
     GRight := MatrixColumns(G, [N+1..2*N]);
-
     if Rank(GLeft) ne N then
         return false, ZeroMatrix(F, 0, 0);
     end if;
-
     A := GLeft^(-1) * GRight;
-
     return true, A;
 end function;
 
@@ -470,20 +375,15 @@ end function;
 function RightProjectionMatrix(C, N)
     F := BaseRing(GeneratorMatrix(C));
     G := GeneratorMatrix(C);
-
     if Length(C) ne 2*N or Dimension(C) ne N then
         return false, ZeroMatrix(F, 0, 0);
     end if;
-
     GLeft := MatrixColumns(G, [1..N]);
     GRight := MatrixColumns(G, [N+1..2*N]);
-
     if Rank(GRight) ne N then
         return false, ZeroMatrix(F, 0, 0);
     end if;
-
     B := GRight^(-1) * GLeft;
-
     return true, B;
 end function;
 
@@ -492,12 +392,10 @@ function IsPermutationMatrixBinary(A)
     if Nrows(A) ne Ncols(A) then
         return false;
     end if;
-
     n := Nrows(A);
-
+    
     for i in [1..n] do
         rowWeight := #[ j : j in [1..n] | A[i,j] ne 0 ];
-
         if rowWeight ne 1 then
             return false;
         end if;
@@ -505,7 +403,6 @@ function IsPermutationMatrixBinary(A)
 
     for j in [1..n] do
         columnWeight := #[ i : i in [1..n] | A[i,j] ne 0 ];
-
         if columnWeight ne 1 then
             return false;
         end if;
@@ -515,9 +412,7 @@ function IsPermutationMatrixBinary(A)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 7. Eigenschaften des Ausgangscodes K
-///////////////////////////////////////////////////////////////////////////
+// Eigenschaften des Ausgangscodes K
 
 function IsDoublyEvenBinaryCode(K)
     for v in K do
@@ -536,7 +431,6 @@ function SupportSizeOfCode(K)
 
     for j in [1..Length(K)] do
         nonzeroColumn := exists{ i : i in [1..Nrows(G)] | G[i,j] ne 0 };
-
         if nonzeroColumn then
             supportSize +:= 1;
         end if;
@@ -546,9 +440,7 @@ function SupportSizeOfCode(K)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 8. Analyse einer einzelnen Klasse
-///////////////////////////////////////////////////////////////////////////
+// Analyse einer einzelnen Klasse
 
 procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
     printf "\n";
@@ -573,18 +465,14 @@ procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
 
     N := N1;
 
-    ///////////////////////////////////////////////////////////////
     // Trivialer Code
-    ///////////////////////////////////////////////////////////////
 
     isTrivial := IsTrivialTypeCode(C, N);
 
     printf "Trivialer Code T_(%o,%o): %o\n",
         N, N, isTrivial select "ja" else "nein";
 
-    ///////////////////////////////////////////////////////////////
     // Aeussere orthogonale Zerlegung
-    ///////////////////////////////////////////////////////////////
 
     factorSupports := TypeFactorSupports(C, N, N);
     isDecomposable := #factorSupports gt 1;
@@ -604,9 +492,7 @@ procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
         printf "%o\n", GeneratorMatrix(factor);
     end for;
 
-    ///////////////////////////////////////////////////////////////
     // Doubling
-    ///////////////////////////////////////////////////////////////
 
     isDoubling, K := IsDoublingCode(C, N);
 
@@ -627,9 +513,7 @@ procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
         printf "%o\n", GeneratorMatrix(K);
     end if;
 
-    ///////////////////////////////////////////////////////////////
     // Projektionen
-    ///////////////////////////////////////////////////////////////
 
     hasLeftProjection, A := LeftProjectionMatrix(C, N);
 
@@ -662,9 +546,7 @@ procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
         printf "%o\n", B;
     end if;
 
-    ///////////////////////////////////////////////////////////////
     // Zusammenfassung
-    ///////////////////////////////////////////////////////////////
 
     printf "Zusammenfassung:\n";
 
@@ -684,9 +566,7 @@ procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
 end procedure;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 9. Analyse einer gesamten Vertreterliste
-///////////////////////////////////////////////////////////////////////////
+// Analyse einer gesamten Vertreterliste
 
 procedure AnalyseAllStandardConstructions(codeRepresentatives, N1, N2)
     printf "==================================================\n";
@@ -722,9 +602,7 @@ procedure WriteStandardConstructionAnalysis(
 end procedure;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 10. AUFRUF
-///////////////////////////////////////////////////////////////////////////
+// AUFRUF
 
 // Ausgabe auf dem Bildschirm:
 // AnalyseAllStandardConstructions(Klassen, N1, N2);
