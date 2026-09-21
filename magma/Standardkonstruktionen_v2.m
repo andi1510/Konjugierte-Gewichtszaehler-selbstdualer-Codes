@@ -11,9 +11,7 @@
 ///////////////////////////////////////////////////////////////////////////
 
 
-///////////////////////////////////////////////////////////////////////////
-// 1. Grundlegende Hilfsfunktionen
-///////////////////////////////////////////////////////////////////////////
+// Grundlegende Hilfsfunktionen
 
 function MatrixColumns(A, cols)
     F := BaseRing(A);
@@ -31,9 +29,8 @@ function MatrixColumns(A, cols)
 end function;
 
 
-/*
-    Projektion eines Codes auf die Koordinaten in pos.
-*/
+//    Projektion eines Codes auf die Koordinaten in pos.
+
 function ProjectionCodeOnPositions(C, pos)
     G := GeneratorMatrix(C);
     GP := MatrixColumns(G, pos);
@@ -42,14 +39,9 @@ function ProjectionCodeOnPositions(C, pos)
 end function;
 
 
-/*
-    Bestimmt alle Codewoerter, deren Traeger vollstaendig in pos liegt,
-    und entfernt danach die uebrigen Koordinaten.
+// Bestimmt die Codewoerter, die ausserhalb von pos verschwinden,
+// und schraenkt sie auf die Koordinaten in pos ein.
 
-    Fuer die kleinen Dimensionen in den betrachteten Beispielen wird
-    dies direkt ueber die Codewoerter bestimmt. Das vermeidet
-    Orientierungsfragen bei rechteckigen Nullraum-Berechnungen.
-*/
 function SupportedCodeOnPositions(C, pos)
     G := GeneratorMatrix(C);
     F := BaseRing(G);
@@ -57,10 +49,6 @@ function SupportedCodeOnPositions(C, pos)
 
     outside := [ j : j in [1..n] | j notin pos ];
 
-    // Fuer die hier betrachteten Codes (Dimension hoechstens ca. 11)
-    // ist die direkte Codewortpruefung sehr klein und besonders robust.
-    // Wir sammeln genau die Codewoerter, die ausserhalb von pos nur
-    // Nullen besitzen, und beschraenken sie anschliessend auf pos.
     supportedRows := [];
 
     for c in C do
@@ -107,20 +95,11 @@ function BinaryBiweightDistribution(C, N1, N2)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 2. Blockerhaltende Aequivalenz unter S_N1 x S_N2
-///////////////////////////////////////////////////////////////////////////
+// Blockerhaltende Aequivalenz unter S_N1 x S_N2
 
-/*
-    Markierter Inzidenzgraph des Codes.
+// Knotenmarkierungen: L = linke Koordinaten,
+// R = rechte Koordinaten, W = Codewoerter.
 
-    Label 1: linke Koordinaten
-    Label 2: rechte Koordinaten
-    Label 3: Codewoerter
-
-    Ein Graphisomorphismus muss dadurch linke Koordinaten auf linke,
-    rechte auf rechte und Codewoerter auf Codewoerter abbilden.
-*/
 function BlockIncidenceGraph(C, N1, N2)
     n := N1 + N2;
 
@@ -132,8 +111,6 @@ function BlockIncidenceGraph(C, N1, N2)
     words := [ c : c in C ];
     numberOfVertices := n + #words;
 
-    // Genau wie im funktionierenden Kneser-Programm wird der Graph
-    // ueber eine Nachbarfolge der Laenge numberOfVertices konstruiert.
     neighbours := [ { Integers() | } : i in [1..numberOfVertices] ];
 
     for t in [1..#words] do
@@ -192,15 +169,10 @@ function AreBlockEquivalent(C, D, N1, N2)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 3. Gewoehnliche Koordinatenkomponenten des Codes
-///////////////////////////////////////////////////////////////////////////
+// Gewoehnliche Koordinatenkomponenten des Codes
 
-/*
-    Berechnet die Zusammenhangskomponenten des Spaltenmatroids einer
-    Generatormatrix. Diese Komponenten beschreiben die gewoehnliche
-    direkte Summenzerlegung des Codes nach Koordinaten.
-*/
+// Bestimmt die Koordinatenkomponenten fuer die direkte Summenzerlegung.
+
 function CoordinateComponents(C)
     G := GeneratorMatrix(C);
     E := EchelonForm(G);
@@ -299,11 +271,10 @@ function IsBalancedPositionSet(positions, N1)
 end function;
 
 
-/*
-    Fasst die gewoehnlichen Koordinatenkomponenten zu minimalen
-    balancierten Gruppen zusammen. Jede Gruppe beschreibt einen Faktor
-    vom Typ (m,m).
-*/
+// Fasst die gewoehnlichen Koordinatenkomponenten zu minimalen
+// balancierten Gruppen zusammen. Jede Gruppe beschreibt einen Faktor
+// vom Typ (m,m).
+
 function TypeFactorSupports(C, N1, N2)
     if N1 + N2 ne Length(C) then
         error "Die Blocklaengen stimmen nicht mit der Codelaenge ueberein.";
@@ -372,9 +343,7 @@ function TypeFactorCode(C, positions, N1)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 4. Trivialer Code T_(N,N)
-///////////////////////////////////////////////////////////////////////////
+// Trivialer Code T_(N,N)
 
 function TrivialTypeCode(F, N)
     identity := IdentityMatrix(F, N);
@@ -410,23 +379,20 @@ function IsTrivialTypeCode(C, N)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 5. Doubling-Konstruktion
-///////////////////////////////////////////////////////////////////////////
+// Doubling-Konstruktion
 
 function DoubleCode(K)
     return PlotkinSum(Dual(K), K);
 end function;
 
 
-/*
-    K ist der linke Kern
-        K = {x | (x,0) in C}.
+//    K ist der linke Kern
+//        K = {x | (x,0) in C}.
+//
+//    Ist C unter S_N x S_N aequivalent zu Double(K0), dann ist der
+//    linke Kern eine Koordinatenpermutation von K0. Daher wird C mit
+//    Double(K) blockweise verglichen.
 
-    Ist C unter S_N x S_N aequivalent zu Double(K0), dann ist der
-    linke Kern eine Koordinatenpermutation von K0. Daher wird C mit
-    Double(K) blockweise verglichen.
-*/
 function IsDoublingCode(C, N)
     if Length(C) ne 2*N then
         error "Der Code muss die Laenge 2*N besitzen.";
@@ -442,9 +408,7 @@ function IsDoublingCode(C, N)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 6. Volle Projektionen und Darstellung (I_N | A)
-///////////////////////////////////////////////////////////////////////////
+// Volle Projektionen und Darstellung (I_N | A)
 
 function LeftProjectionMatrix(C, N)
     F := BaseRing(GeneratorMatrix(C));
@@ -515,9 +479,7 @@ function IsPermutationMatrixBinary(A)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 7. Eigenschaften des Ausgangscodes K
-///////////////////////////////////////////////////////////////////////////
+// Eigenschaften des Ausgangscodes K
 
 function IsDoublyEvenBinaryCode(K)
     for v in K do
@@ -546,20 +508,16 @@ function SupportSizeOfCode(K)
 end function;
 
 
+// Verklebungsanalyse: linke und rechte Kerne
 
-///////////////////////////////////////////////////////////////////////////
-// 8. Verklebungsanalyse: linke und rechte Kerne
-///////////////////////////////////////////////////////////////////////////
+//    Fuer C <= F_2^N x F_2^N definieren wir
+//
+//        K_L = { x | (x,0) in C },
+//        K_R = { y | (0,y) in C }.
+//
+//    Die Funktion SupportedCodeOnPositions liefert dabei bereits die
+//    auf N Koordinaten eingeschraenkten Codes.
 
-/*
-    Fuer C <= F_2^N x F_2^N definieren wir
-
-        K_L = { x | (x,0) in C },
-        K_R = { y | (0,y) in C }.
-
-    Die Funktion SupportedCodeOnPositions liefert dabei bereits die
-    auf N Koordinaten eingeschraenkten Codes.
-*/
 function LeftRightKernelCodes(C, N)
     if Length(C) ne 2*N then
         error "Der Code muss die Laenge 2*N besitzen.";
@@ -572,16 +530,15 @@ function LeftRightKernelCodes(C, N)
 end function;
 
 
-/*
-    Gewoehnliche Permutationsaequivalenz zweier Codes gleicher Laenge.
+//    Gewoehnliche Permutationsaequivalenz zweier Codes gleicher Laenge.
+//
+//    Der Inzidenzgraph besitzt zwei Knotentypen:
+//      "C" = Koordinaten,
+//      "W" = Codewoerter.
+//
+//    Ein labelerhaltender Graphisomorphismus entspricht genau einer
+//    Koordinatenpermutation, welche die beiden Codes ineinander ueberfuehrt.
 
-    Der Inzidenzgraph besitzt zwei Knotentypen:
-      "C" = Koordinaten,
-      "W" = Codewoerter.
-
-    Ein labelerhaltender Graphisomorphismus entspricht genau einer
-    Koordinatenpermutation, welche die beiden Codes ineinander ueberfuehrt.
-*/
 function OneBlockCodeGraph(C)
     n := Length(C);
     F := BaseRing(GeneratorMatrix(C));
@@ -634,17 +591,16 @@ function ArePermutationEquivalentCodes(C, D)
 end function;
 
 
-/*
-    Liefert die grundlegenden Daten der Quotientenverklebung.
+//    Liefert die grundlegenden Daten der Quotientenverklebung.
+//
+//    Fuer einen selbstdualen Code gilt theoretisch
+//        pi_L(C) = K_L^perp,
+//        pi_R(C) = K_R^perp.
+//
+//    Die Dimension der Quotienten ist dann
+//        dim(K_L^perp/K_L) = N - 2 dim(K_L)
+//    und analog rechts.
 
-    Fuer einen selbstdualen Code gilt theoretisch
-        pi_L(C) = K_L^perp,
-        pi_R(C) = K_R^perp.
-
-    Die Dimension der Quotienten ist dann
-        dim(K_L^perp/K_L) = N - 2 dim(K_L)
-    und analog rechts.
-*/
 function GluingData(C, N)
     KLeft, KRight := LeftRightKernelCodes(C, N);
 
@@ -677,9 +633,7 @@ function GluingData(C, N)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 9. Analyse einer einzelnen Klasse
-///////////////////////////////////////////////////////////////////////////
+// Analyse einer einzelnen Klasse
 
 procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
     printf "\n";
@@ -704,18 +658,14 @@ procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
 
     N := N1;
 
-    ///////////////////////////////////////////////////////////////
     // Trivialer Code
-    ///////////////////////////////////////////////////////////////
 
     isTrivial := IsTrivialTypeCode(C, N);
 
     printf "Trivialer Code T_(%o,%o): %o\n",
         N, N, isTrivial select "ja" else "nein";
 
-    ///////////////////////////////////////////////////////////////
     // Aeussere orthogonale Zerlegung
-    ///////////////////////////////////////////////////////////////
 
     factorSupports := TypeFactorSupports(C, N, N);
     isDecomposable := #factorSupports gt 1;
@@ -747,9 +697,7 @@ procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
         printf "%o\n", GeneratorMatrix(factor);
     end for;
 
-    ///////////////////////////////////////////////////////////////
     // Doubling
-    ///////////////////////////////////////////////////////////////
 
     isDoubling, K := IsDoublingCode(C, N);
 
@@ -770,9 +718,7 @@ procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
         printf "%o\n", GeneratorMatrix(K);
     end if;
 
-    ///////////////////////////////////////////////////////////////
     // Projektionen
-    ///////////////////////////////////////////////////////////////
 
     hasLeftProjection, A := LeftProjectionMatrix(C, N);
 
@@ -805,9 +751,7 @@ procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
         printf "%o\n", B;
     end if;
 
-    ///////////////////////////////////////////////////////////////
     // Verklebungsanalyse
-    ///////////////////////////////////////////////////////////////
 
     KLeft, KRight, kernelsEquivalent,
     quotientDimensionLeft, quotientDimensionRight,
@@ -838,9 +782,7 @@ procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
         printf "%o\n", GeneratorMatrix(KRight);
     end if;
 
-    ///////////////////////////////////////////////////////////////
     // Zusammenfassung
-    ///////////////////////////////////////////////////////////////
 
     printf "Zusammenfassung:\n";
 
@@ -866,9 +808,7 @@ procedure AnalyseStandardConstructions(C, N1, N2, classNumber)
 end procedure;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 10. Analyse einer gesamten Vertreterliste
-///////////////////////////////////////////////////////////////////////////
+// Analyse einer gesamten Vertreterliste
 
 procedure AnalyseAllStandardConstructions(codeRepresentatives, N1, N2)
     printf "==================================================\n";
@@ -904,9 +844,7 @@ procedure WriteStandardConstructionAnalysis(
 end procedure;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 11. AUFRUF
-///////////////////////////////////////////////////////////////////////////
+// AUFRUF
 
 // Ausgabe auf dem Bildschirm:
 // AnalyseAllStandardConstructions(Klassen, N1, N2);
