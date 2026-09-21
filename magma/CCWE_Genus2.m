@@ -134,7 +134,7 @@ function TypeDirectSum(C, N1, N2, D, M1, M2)
 end function;
 
 
-// 5. Kontrolle der Typ-II-Eigenschaft
+// Kontrolle der Typ-II-Eigenschaft
 
 function IsSignedDoublyEven(C, N1, N2)
     for c in C do
