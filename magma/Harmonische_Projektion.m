@@ -1,27 +1,8 @@
-///////////////////////////////////////////////////////////////////////////
-// Laplace-Operator und Loesung des linearen Gleichungssystems aus
-// Abschnitt 5.1.
-//
-// Voraussetzung:
-//   Zuvor muss CCWE_Genus2.m geladen worden sein. Dadurch sind der
-//   Polynomring P und die Variablen
-//
-//     x00,x01,x10,x11,y00,y01,y10,y11
-//
-//   definiert.
-//
-// Der Laplace-Operator ist
-//
-//   Delta = Sum_{v in F_2^2} d^2 / (d x_v d bar{x}_v).
-//
-// In unserem Polynomring entsprechen y00,...,y11 den konjugierten
-// Variablen.
-///////////////////////////////////////////////////////////////////////////
+// Laplace-Operator und harmonische Projektion zu Abschnitt 5.1.
+// Vor der Rechnung CCWE_Genus2.m laden.
 
 
-///////////////////////////////////////////////////////////////////////////
-// 1. Laplace-Operator
-///////////////////////////////////////////////////////////////////////////
+// Laplace-Operator
 
 function ConjugateLaplace(f)
     // Variablen 1,...,4 sind x00,...,x11.
@@ -33,9 +14,7 @@ function ConjugateLaplace(f)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 2. Hilfsfunktionen fuer Koeffizientenvektoren
-///////////////////////////////////////////////////////////////////////////
+// Hilfsfunktionen fuer Koeffizientenvektoren
 
 function AllMonomials(polynomials)
     monomials := [];
@@ -62,9 +41,7 @@ function PolynomialCoefficientVector(f, monomials)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 3. Rang des von Polynomen erzeugten Raumes
-///////////////////////////////////////////////////////////////////////////
+// Rang des von Polynomen erzeugten Raumes
 
 function PolynomialSpanRank(polynomials)
     if #polynomials eq 0 then
@@ -89,34 +66,13 @@ function PolynomialSpanRank(polynomials)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 4. LGS fuer den harmonischen Anteil im Grad (6,6)
-///////////////////////////////////////////////////////////////////////////
+// LGS fuer den harmonischen Anteil im Grad (6,6)
 
-/*
-    Nach Abschnitt 5.1 wird
+// Ansatz: h = F - a*S^6 - b*S^2*W44 mit Delta(h) = 0.
+// Die Koeffizienten von Delta(S^6) und Delta(S^2*W44)
+// bilden die beiden Zeilen der Koeffizientenmatrix.
+// Gesucht ist (a,b) mit (a,b)*coefficientMatrix = rightSide.
 
-        h = F - a*S^6 - b*S^2*W44
-
-    angesetzt.
-
-    Die Bedingung Delta(h)=0 liefert
-
-        Delta(F)
-          = a*Delta(S^6)
-          + b*Delta(S^2*W44).
-
-    Durch Vergleich aller Monomkoeffizienten entsteht ein lineares
-    Gleichungssystem fuer a und b.
-
-    Magmas IsConsistent(A,w) loest Systeme in der Form
-
-        v*A = w.
-
-    Deshalb werden die Koeffizienten von Delta(S^6) und
-    Delta(S^2*W44) als die beiden ZEILEN der Matrix A gespeichert.
-    Der gesuchte Vektor v ist dann genau (a,b).
-*/
 function HarmonicProjection66(F, S, W44)
     Q := BaseRing(Parent(F));
 
