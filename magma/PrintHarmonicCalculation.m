@@ -1,6 +1,4 @@
-///////////////////////////////////////////////////////////////////////////
 // Ausgabe der Rechnung aus Abschnitt 5.1
-///////////////////////////////////////////////////////////////////////////
 
 procedure PrintHarmonicCalculation(F, number, S, W44)
 
@@ -12,17 +10,13 @@ procedure PrintHarmonicCalculation(F, number, S, W44)
     printf "============================================================\n\n";
 
 
-    ///////////////////////////////////////////////////////////////////////
-    // 1. Ausgangspolynom
-    ///////////////////////////////////////////////////////////////////////
+    // Ausgangspolynom
 
     printf "Polynom F_%o:\n\n", number;
     printf "%o\n\n", F;
 
 
-    ///////////////////////////////////////////////////////////////////////
-    // 2. Laplace-Operator
-    ///////////////////////////////////////////////////////////////////////
+    // Laplace-Operator
 
     deltaF := ConjugateLaplace(F);
     deltaS6 := ConjugateLaplace(S^6);
@@ -39,18 +33,7 @@ procedure PrintHarmonicCalculation(F, number, S, W44)
     printf "%o\n\n", deltaS2W44;
 
 
-    ///////////////////////////////////////////////////////////////////////
-    // 3. Lineares Gleichungssystem
-    //
-    // Gesucht werden a_i und b_i mit
-    //
-    // Delta(F_i)
-    //     = a_i Delta(S^6)
-    //       + b_i Delta(S^2 W_(4,4)).
-    //
-    // Der Koeffizientenvergleich aller vorkommenden Monome liefert
-    // ein lineares Gleichungssystem.
-    ///////////////////////////////////////////////////////////////////////
+    // Koeffizientenvergleich fuer die harmonische Projektion.
 
     monomials := AllMonomials([
         deltaF,
@@ -84,9 +67,7 @@ procedure PrintHarmonicCalculation(F, number, S, W44)
     printf "%o\n\n", rhs;
 
 
-    ///////////////////////////////////////////////////////////////////////
-    // 4. LGS loesen
-    ///////////////////////////////////////////////////////////////////////
+    // LGS loesen
 
     isConsistent, solution, nullspace :=
         IsConsistent(A, rhs);
