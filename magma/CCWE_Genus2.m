@@ -1,27 +1,13 @@
-///////////////////////////////////////////////////////////////////////////
-// Hilfsfunktionen fuer Abschnitt 5.1 der Masterarbeit.
+// Vollstaendiger konjugierter Gewichtzaehler des Genus 2.
+// Berechnungen zu Abschnitt 5.1 fuer binaere Codes vom Typ (N1,N2).
 //
-// Berechnet den vollstaendigen konjugierten Gewichtzaehler des Genus m=2
-// eines binaeren Codes C vom Typ (N1,N2).
-//
-// Variablen:
-//   x00, x01, x10, x11       fuer die ersten N1 Koordinaten,
-//   y00, y01, y10, y11       fuer die letzten N2 Koordinaten.
-//
-// Dabei stehen die y-Variablen fuer die komplex konjugierten Variablen
-// \bar{x}_{00},...,\bar{x}_{11}. Da fuer die Rechnung nur formale
-// Polynome benoetigt werden, werden sie als unabhaengige Variablen
-// behandelt.
-//
-// Fuer m=2 wird jedes geordnete Paar (c,d) in C x C als 2 x (N1+N2)
-// Matrix aufgefasst. Die j-te Spalte (c_j,d_j) ist eines der Elemente
-// 00,01,10,11 von F_2^2 und bestimmt die entsprechende Variable.
-///////////////////////////////////////////////////////////////////////////
+// x00,...,x11 gehoeren zum linken Block.
+// y00,...,y11 stehen fuer die konjugierten Variablen und werden
+// fuer die Rechnung als unabhaengige Variablen behandelt.
+// Summiert wird ueber alle geordneten Paare aus C x C.
 
 
-///////////////////////////////////////////////////////////////////////////
-// 1. Polynomring
-///////////////////////////////////////////////////////////////////////////
+// Polynomring
 
 Q := Rationals();
 
@@ -32,16 +18,10 @@ XVariables := [ x00, x01, x10, x11 ];
 YVariables := [ y00, y01, y10, y11 ];
 
 
-///////////////////////////////////////////////////////////////////////////
-// 2. Index eines Vektors aus F_2^2
-///////////////////////////////////////////////////////////////////////////
+// Index eines Vektors aus F_2^2
 
 function PairIndex(a, b)
-    // Reihenfolge:
-    //   00 -> 1
-    //   01 -> 2
-    //   10 -> 3
-    //   11 -> 4
+    // Reihenfolge der Paare: 00, 01, 10, 11.
 
     if a eq 0 and b eq 0 then
         return 1;
@@ -55,9 +35,7 @@ function PairIndex(a, b)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 3. Genus-2-CCWE
-///////////////////////////////////////////////////////////////////////////
+// Genus-2-CCWE
 
 function CCWEGenus2(C, N1, N2)
     if Length(C) ne N1 + N2 then
@@ -98,20 +76,11 @@ function CCWEGenus2(C, N1, N2)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 4. Aeussere Summe unter Beibehaltung der beiden Bloecke
-///////////////////////////////////////////////////////////////////////////
+// Aeussere Summe unter Beibehaltung der beiden Bloecke
 
-/*
-    C hat Typ (N1,N2), D hat Typ (M1,M2).
+// Koordinatenreihenfolge der Summe:
+// links(C), links(D) | rechts(C), rechts(D).
 
-    Die neue Koordinatenreihenfolge ist
-
-        links(C), links(D) | rechts(C), rechts(D).
-
-    Das ist wichtig, weil ein gewoehnliches Aneinanderhaengen der beiden
-    Generatormatrizen die linke/rechte Blockstruktur vermischen wuerde.
-*/
 function TypeDirectSum(C, N1, N2, D, M1, M2)
     if Length(C) ne N1 + N2 then
         error "Falsche Blocklaengen fuer C.";
@@ -165,9 +134,7 @@ function TypeDirectSum(C, N1, N2, D, M1, M2)
 end function;
 
 
-///////////////////////////////////////////////////////////////////////////
 // 5. Kontrolle der Typ-II-Eigenschaft
-///////////////////////////////////////////////////////////////////////////
 
 function IsSignedDoublyEven(C, N1, N2)
     for c in C do
@@ -197,9 +164,7 @@ procedure CheckExampleCode(C, N1, N2, name)
 end procedure;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 6. Codes aus Example 28
-///////////////////////////////////////////////////////////////////////////
+// Beispielcodes nach Bannai--Oura--Zhao.
 
 F2 := GF(2);
 
@@ -264,14 +229,12 @@ end for;
 C11x2 := TypeDirectSum(C11, 1, 1, C11, 1, 1);
 C2 := TypeDirectSum(C44, 4, 4, C11x2, 2, 2);
 
-// C3 und C4 sind die beiden unzerlegbaren Codes aus Example 28.
+// C3 und C4 sind die beiden unzerlegbaren Beispielcodes.
 C3 := Ca66;
 C4 := Cb66;
 
 
-///////////////////////////////////////////////////////////////////////////
-// 7. Die in Abschnitt 5.1 verwendeten Polynome
-///////////////////////////////////////////////////////////////////////////
+// Die in Abschnitt 5.1 verwendeten Polynome
 
 // Fuer C_(1,1) ist der Genus-2-CCWE genau
 // S = Sum_v x_v * bar{x}_v.
