@@ -1,0 +1,132 @@
+==================================================
+Analyse der Standardkonstruktionen fuer (5,5)
+Anzahl der Vertreter: 2
+==================================================
+
+==================================================
+Klasse 1
+==================================================
+Trivialer Code T_(5,5): ja
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 5
+  Faktor 1: Laenge (1,1), Dimension 1
+    linke Koordinaten: [ 1 ]
+    rechte Koordinaten: [ 1 ]
+    Standardbezeichnung: T_(1,1)
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    linke Koordinaten: [ 2 ]
+    rechte Koordinaten: [ 2 ]
+    Standardbezeichnung: T_(1,1)
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 3: Laenge (1,1), Dimension 1
+    linke Koordinaten: [ 3 ]
+    rechte Koordinaten: [ 3 ]
+    Standardbezeichnung: T_(1,1)
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 4: Laenge (1,1), Dimension 1
+    linke Koordinaten: [ 4 ]
+    rechte Koordinaten: [ 4 ]
+    Standardbezeichnung: T_(1,1)
+    Generatormatrix des Faktors:
+[1 1]
+  Faktor 5: Laenge (1,1), Dimension 1
+    linke Koordinaten: [ 5 ]
+    rechte Koordinaten: [ 5 ]
+    Standardbezeichnung: T_(1,1)
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_5 x S_5 aequivalent zu Double(K).
+  Dimension von K: 0
+  Traegergroesse von K: 0
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1> ]
+  Generatormatrix von K:
+Matrix with 0 rows and 5 columns
+Volle linke Projektion: ja
+  Darstellung: (I_5 | A)
+  A*A^tr = I: ja
+  1*A = 1: ja
+  A ist eine Permutationsmatrix: ja
+  Matrix A:
+[1 0 0 0 0]
+[0 1 0 0 0]
+[0 0 1 0 0]
+[0 0 0 1 0]
+[0 0 0 0 1]
+Volle rechte Projektion: ja
+  Darstellung: (B | I_5)
+  Matrix B:
+[1 0 0 0 0]
+[0 1 0 0 0]
+[0 0 1 0 0]
+[0 0 0 1 0]
+[0 0 0 0 1]
+Verklebungsdaten:
+  Dimension K_L: 0
+  Dimension K_R: 0
+  Gewichtsverteilung K_L: [ <0, 1> ]
+  Gewichtsverteilung K_R: [ <0, 1> ]
+  K_L und K_R permutationsaequivalent: ja
+  Quotientendimension links: 5
+  Quotientendimension rechts: 5
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+Zusammenfassung:
+  T_(5,5) = Double(0)
+
+==================================================
+Klasse 2
+==================================================
+Trivialer Code T_(5,5): nein
+Aeusserlich orthogonal zerlegbar: ja
+Anzahl der Faktoren vom Typ (m,m): 2
+  Faktor 1: Laenge (4,4), Dimension 4
+    linke Koordinaten: [ 1, 2, 3, 4 ]
+    rechte Koordinaten: [ 1, 2, 3, 4 ]
+    Standardbezeichnung: g_(4,4)
+    Generatormatrix des Faktors:
+[1 0 0 1 0 1 1 0]
+[0 1 0 1 0 1 0 1]
+[0 0 1 1 0 0 1 1]
+[0 0 0 0 1 1 1 1]
+  Faktor 2: Laenge (1,1), Dimension 1
+    linke Koordinaten: [ 5 ]
+    rechte Koordinaten: [ 5 ]
+    Standardbezeichnung: T_(1,1)
+    Generatormatrix des Faktors:
+[1 1]
+Doubling-Konstruktion: ja
+  C ist unter S_5 x S_5 aequivalent zu Double(K).
+  Dimension von K: 1
+  Traegergroesse von K: 4
+  K ist selbstorthogonal: ja
+  K ist doppelt-gerade: ja
+  Gewichtsverteilung von K:
+  [ <0, 1>, <4, 1> ]
+  Generatormatrix von K:
+[1 1 1 1 0]
+Volle linke Projektion: nein
+Volle rechte Projektion: nein
+Verklebungsdaten:
+  Dimension K_L: 1
+  Dimension K_R: 1
+  Gewichtsverteilung K_L: [ <0, 1>, <4, 1> ]
+  Gewichtsverteilung K_R: [ <0, 1>, <4, 1> ]
+  K_L und K_R permutationsaequivalent: ja
+  Quotientendimension links: 3
+  Quotientendimension rechts: 3
+  pi_L(C) = K_L^perp: ja
+  pi_R(C) = K_R^perp: ja
+  Generatormatrix K_L:
+[1 1 1 1 0]
+  Generatormatrix K_R:
+[1 1 1 1 0]
+Zusammenfassung:
+  aeussere orthogonale Summe und Doubling-Code
