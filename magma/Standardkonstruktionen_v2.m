@@ -14,18 +14,10 @@
 // Grundlegende Hilfsfunktionen
 
 function MatrixColumns(A, cols)
-    F := BaseRing(A);
-
     if #cols eq 0 then
-        return ZeroMatrix(F, Nrows(A), 0);
+        return ZeroMatrix(BaseRing(A), Nrows(A), 0);
     end if;
-
-    return Matrix(
-        F,
-        Nrows(A),
-        #cols,
-        [ A[i,j] : i in [1..Nrows(A)], j in cols ]
-    );
+    return Submatrix(A, [1..Nrows(A)], cols);
 end function;
 
 
