@@ -79,8 +79,6 @@ The output contains representatives, stabilizer information, and the mass-formul
 
 The following example analyzes the codes of length $(11,11)$ considered in Chapter 5.
 
-**Classification data:** `Results/Standardkonstruktionen_11_11.txt`
-
 ```magma
 load "Standardkonstruktionen_v2.m";
 
@@ -129,8 +127,6 @@ The output documents
 ### 4. Structural Analysis for Unequal Block Lengths
 
 The following example analyzes the codes of length $(6,14)$ considered in Chapter 5.
-
-**Classification data:** `Results/Konstruktionen_ungleich_6_14.txt`
 
 ```magma
 load "Standardkonstruktionen_ungleich.m";
